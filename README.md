@@ -19,3 +19,11 @@ The dataset presented here is a subset of the training sets provided by [WMT-APE
 
 Out of the 23,000 samples provided by WMT, we present 16,068 which are also found in the dataset introduced by [Specia et al. (2017)](https://cris.fbk.eu/retrieve/handle/11582/313118/21555/specia_et_al_2017_translation_quality_and_productivity.pdf). By intersecting both datasets, we obtain the raw keylogs of the editors correcting the original Machine-Translation output. After preprocessing the keylogs, we obtain sequences of token-level INSERT and DELETE operations.
 
+Dataset contains the usual triplets: Source (SRC), Machine-Translation (MT), Post-Edition (PE)
+
+Additionally we provide 4 kinds of INSERT/DELETE sequences that lead from MT to PE:
+- Human actions computed from keylog of editors
+- Minimum-edit actions computed from Levenshtein distance, and re-ordered:
+    - Left-to-right
+    - Randomly shuffled
+    - According to human preference
