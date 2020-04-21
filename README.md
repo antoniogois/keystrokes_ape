@@ -22,8 +22,18 @@ Out of the 23,000 samples provided by WMT, we present 16,068 which are also foun
 Dataset contains the usual triplets: Source (SRC), Machine-Translation (MT), Post-Edition (PE)
 
 Additionally we provide 4 kinds of INSERT/DELETE sequences that lead from MT to PE:
-- Human actions computed from keylog of editors
+- Human actions computed from keylog of editors (_.acts_human-unfiltered_)
 - Minimum-edit actions computed from Levenshtein distance, and re-ordered:
-    - Left-to-right
-    - Randomly shuffled
-    - According to human preference
+    - Left-to-right (_.acts_levenshtein_l2r_)
+    - Randomly shuffled (_.acts_levenshtein_shuff_)
+    - According to human preference (_.acts_levenshtein_human-order_)
+
+Each action-file contains one sequence per line, and each sequence has actions split by `\t`. For example:
+
+`D:3:auf	D:6:,	D:5:Duotones	I:5:Duplex-	I:6:,	D:12:zu	S:0:None`
+
+In each action, the first two `:` are used to separate 3 fields:
+- Action-type (Delete \[D\], Insert \[I\], Stop \[S\])
+- Token index
+- Token to insert/delete
+
