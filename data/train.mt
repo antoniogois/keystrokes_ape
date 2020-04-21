@@ -31,7 +31,7 @@ Menüs , Symbolleisten , Bildlaufleisten und Bedienfelder sichtbar sind .
 Wählen Sie ein Element im Aussehenbedienfeld , um die verbesserte funktionsreiche Steuerelemente anzuzeigen und zu verwenden .
 Es ist nicht möglich , die mp3 komprimierte Audiodaten innerhalb der Software für Echtzeit- oder Live-Ausstrahlungen verwendet werden .
 Nach der Anwendung " SimpleClock " ausgeführt wird , wird die AnalogClockFace.draw ( ) -Methode jeder zweiten , wie im Folgenden dargestellt :
-Beispielsweise wird in ActionScript 2.0 einige Eigenschaften , wie z . B . TextField.onChanged , wenn Sie entweder eine Callback-Funktion oder einen Ereignis-Listener verwendet werden kann .
+Beispielsweise wird in ActionScript 2.0 einige Eigenschaften , wie z. B. TextField.onChanged , wenn Sie entweder eine Callback-Funktion oder einen Ereignis-Listener verwendet werden kann .
 Kopieren Sie den ActionScript-Code für das Beispiel in das Skriptfenster .
 Die Klasse des Bibliothekssymbols in der Form eines rotierenden Feldes aus .
 Um die Auswirkungen der Smartfilter auf einen ausgewählten Bereich einer Smart-Objekt-Ebene beschränken , treffen Sie eine Auswahl .
@@ -80,7 +80,7 @@ Wählen Sie das Textwerkzeug aus und klicken Sie unmittelbar rechts neben dem Ma
 Ein Dokument kann nur eine Positionsmarke .
 Ziehen Sie das Schlüsselbild am Anfang oder Ende nach links oder rechts .
 Klicken Sie im Dialogfeld " Verschieben " einen der folgenden Schritte aus :
-Wenn Sie Text ersetzen möchten , klicken Sie auf " Suchen , " oder drücken Sie Strg + H ( Windows ) bzw . Befehlstaste + H ( Macintosh ) .
+Wenn Sie Text ersetzen möchten , klicken Sie auf " Suchen , " oder drücken Sie Strg + H ( Windows ) bzw. Befehlstaste + H ( Macintosh ) .
 InCopy-Benutzer können eine gedrehte Druckbogen in verwalteten Dateien anzuzeigen .
 Bildrate des Videos MP4 .
 Sie können für eine Textzeichenfolge , Schriftart , Farbe , Symbol , Sounddatei , Videodatei oder importierten Bitmapdatei suchen .
@@ -344,7 +344,7 @@ Kontextmenübefehle gelten in der Regel direkt an , welche geklickt wurde .
 Wenn Sie Text erstellt haben , bleibt er in Fireworks bearbeitbar .
 Wenn Sie mehrere Geräte ausgewählt haben , wählt Device Central eine Größe .
 Um einen einzelnen Stil zu verschieben , ziehen Sie ihn an eine neue Position .
-Wenn Sie z . B. die PDF-Datei erstellt haben , werden die Dokument-Metadaten wahrscheinlich Ihren Namen als Autor ein .
+Wenn Sie z. B. die PDF-Datei erstellt haben , werden die Dokument-Metadaten wahrscheinlich Ihren Namen als Autor ein .
 Klicken Sie auf " Mehr Optionen . "
 Einige Filterparameter haben auch einen bestimmten gültigen Bereich .
 ( Optional ) Wählen Sie im Bedienfeld " Seiten " einen anderen Druckbogen aus , und wenden Sie einen anderen Seitenübergang .
@@ -408,7 +408,7 @@ Wählen Sie eine Website , in der Sie die Datei veröffentlichen möchten .
 Um die Elemente als einzelnes Objekt manipulieren , gruppieren Sie sie .
 Klicken Sie im Verknüpfungenbedienfeld die Verknüpfung aus , und wählen Sie im Bedienfeldmenü den Befehl Platzierungseinstellungen .
 Dadurch kann die Anwendung schwieriger zu verwalten .
-Der Bereich " Allgemein " des Dialogfelds " Drucken " enthält Optionen für das Drucken von Elementen in der Regel nur auf dem Bildschirm sichtbar , wie z . B . Raster und Hilfslinien .
+Der Bereich " Allgemein " des Dialogfelds " Drucken " enthält Optionen für das Drucken von Elementen in der Regel nur auf dem Bildschirm sichtbar , wie z. B. Raster und Hilfslinien .
 Wählen Sie die Farbe # 00CC00 mithilfe der Farbauswahl " Füllung " , um sie als Hintergrundfarbe für die Up _ Skin HeaderRenderer-Skin anzuwenden .
 Mit weniger Punkten deutlich weniger Textinformationen zur Beschreibung des Bildmaterials in der SVG-Datei erforderlich sind .
 Sie können den Eigenschafteninspektor , den Tween-Editor oder das Werkzeug " Frei transformieren " verwenden , um Werte für Eigenschaften definieren , die Sie animieren möchten .
@@ -428,7 +428,7 @@ Sie können eine Geodaten-PDF-Datei auf eine der folgenden Arten erstellen :
 Diese Funktionen Ereignis-Listener für die Komponenten zu definieren .
 InDesign ignoriert Booklists beim Öffnen von PageMaker .
 Wenn Sie Ihre Kommentare , speichern Sie das PDF-Dokument , bevor Sie sie schließen , um zu vermeiden , dass Ihre Kommentare senden oder veröffentlichen .
-Bettet Filme und Audiodateien entsprechend den Einstellungen im Dialogfeld " Audiooptionen " bzw . " Filmoptionen " aus .
+Bettet Filme und Audiodateien entsprechend den Einstellungen im Dialogfeld " Audiooptionen " bzw. " Filmoptionen " aus .
 Im Gegensatz zu einigen anderen klassenbasierten Programmiersprachen , statische Methoden in ActionScript 3.0 nicht vererbt werden .
 Wenn kein Text vorhanden ist , wird die Einstellung gilt für neue Text eingegeben haben .
 optimiert eine animierte GIF-Datei und speichert nur die Änderungen machen .
@@ -455,7 +455,7 @@ Textschriftart und Größe basieren auf der Standardsystemeinstellungen zurück 
 Der Maximal-Wert muss größer sein als der Wert für " Optimal . "
 In ActionScript 3.0 können Sie den Datentyp " Number " Ganzzahlen , vorzeichenlose Ganzzahlen und Gleitkommazahlen darstellen .
 Wenn Sie ein mp3 Sound ist eine monaurale Sound- , der linken und rechten Stereokanal des SoundChannel-Objekts werden identische Wellenformen enthalten .
-Das Zauberstab-Werkzeug können Sie eine konsistent farbigen Bereich auswählen ( z . B. eine rote Blume ) , ohne dass Sie die Kontur nachzeichnen .
+Das Zauberstab-Werkzeug können Sie eine konsistent farbigen Bereich auswählen ( z. B. eine rote Blume ) , ohne dass Sie die Kontur nachzeichnen .
 Kehren Sie zu " Ausrichten an " 3D Content , um eine genaue Messung in 3D-Objekte .
 Klicken Sie im Steuerungsbedienfeld auf den Dateinamen , und wählen Sie dann die Option " Verknüpfung aktualisieren . "
 Text in einer Abbildung Tag definiert wird als Teil des Bildes und wird von Bildschirmlesehilfen nicht gelesen werden .
@@ -475,7 +475,7 @@ Wenn Sie im Dialogfeld " Acrobat 3D-Konvertierung " angezeigt wird , geben Sie d
 Wenn Sie eine Fireworks-Datei aus einer gespeicherten PNG-Quelldatei in eine Dreamweaver-Site exportieren , schreibt Fireworks eine Design Note , die Informationen über die PNG-Datei enthält .
 Um ein Element im Menü auszuwählen , drücken Sie die Eingabetaste oder die Tabulatortaste , oder doppelklicken Sie auf das Element .
 Verwenden Sie den Kopierstempel oder den Reparatur-Pinsel , können Sie die Quellen in das aktuelle Dokument oder alle geöffneten Dokumente in Photoshop .
-Diese Option ist nützlich zum Erstellen von einfachen Listen , wie z . B . Listen mit Inserenten .
+Diese Option ist nützlich zum Erstellen von einfachen Listen , wie z. B. Listen mit Inserenten .
 Wenn die Belichtungseinstellungen über die Fotos variieren und den Inhalt von mehr als 80 % überlappt , interpretiert das Skript die Fotos als HDR festlegen .
 Sie können festlegen , dass die Regel überdruckt werden .
 Mit vielen Polygon Slices können Sie die Verarbeitungszeit in einem Webbrowser zu erhöhen .
@@ -571,7 +571,7 @@ Legt den Namen für das Farbfeld im Farbfeldbedienfeld .
 Sie können das Bedienfeld " Web Services " verwenden , um alle Ihre Webdienste gleichzeitig aktualisieren , indem Sie auf die Schaltfläche " Aktualisieren " Web Services .
 Die Umwandlung eines booleschen Werts String false zurückgibt , wenn die Zeichenfolge ist entweder Null oder eine leere Zeichenfolge ( " " ) .
 Wählen Sie eine Bildsequenzdatei , wählen Sie die Option " Bildsequenz " aus , und klicken Sie dann auf " Platzieren . "
-n . ( auch als Argument ) andeuten , mit denen Sie die Werte für Funktionen übergeben werden .
+n. ( auch als Argument ) andeuten , mit denen Sie die Werte für Funktionen übergeben werden .
 Sie können schnell Wörter , um das Wörterbuch hinzuzufügen .
 Geben Sie im Eigenschafteninspektor ( " Fenster " " Eigenschaften " ) die folgenden Optionen fest :
 Um den ausgewählten AutoCAD-Layern in der Liste " Ebenen in PDF hinzuzufügen , führen Sie einen der folgenden Schritte aus :
@@ -610,7 +610,7 @@ Zerren eines Objekts entlang einer bestimmten Achse geneigt .
 In InDesign können Sie auch mit dem Steuerungsbedienfeld formatiert werden .
 In eigenständigen InCopy-Dokumenten können Sie die Sichtbarkeit von Bedingungen wie in InDesign erstellen , anwenden und ändern .
 Doppelklicken Sie auf die Einstellungs- oder fill-layer Miniatur im Bedienfeld " Ebenen " angezeigt .
-Macht lesbar , wenn die Emulsion heruntergefahren ist , d. h . , wenn die lichtempfindliche Substanz auf der Film- oder Fotopapier von Ihnen abgewandt ist .
+Macht lesbar , wenn die Emulsion heruntergefahren ist , d. h. , wenn die lichtempfindliche Substanz auf der Film- oder Fotopapier von Ihnen abgewandt ist .
 Das Filmformat verfügt über hohe Farbtreue und einen dynamischen Bereich für die Verwendung in die Produktion geeignet ist .
 ( Optional ) Wenn Sie die Verbindungsinformationen für alle Websites verschlüsseln , klicken Sie auf die Schaltfläche " Erweitert . "
 Wählen Sie " Objekt " " Transformieren " > " Drehen . "
@@ -652,7 +652,7 @@ Doppelklicken Sie auf eine Stelle im Fenster , oder drücken Sie die Eingabetast
 Jede Bewegungsvoreinstellung mit verfügt über eine Vorschau , die im Bedienfeld " Bewegungsvoreinstellungen " einbezogen werden .
 Wenn die Ebenen reduziert werden , werden nur die Objekte , die zu Ebenen , die nicht fixiert sind und druckbar sind , werden in der PDF-Datei konvertiert .
 Wählen Sie im Bedienfeld " Werkzeuge " das Werkzeug " auswählen .
-Mit Contribute können Sie schnell und einfach Inhalte bereitstellen , wie z . B . Neuigkeiten von Ihrem Blog RSS-Aggregatoren .
+Mit Contribute können Sie schnell und einfach Inhalte bereitstellen , wie z. B. Neuigkeiten von Ihrem Blog RSS-Aggregatoren .
 Der Hintergrund wird als Bitmap gerendert und können schnell neu gezeichnet werden , sodass die Animation wesentlich schneller wiedergegeben wird .
 Verwenden Sie bedingte Text , um mehrere Versionen eines Dokuments für verschiedene Benutzer und Kanäle bereitstellen .
 Für Graustufen- Vektormasken , ändern Sie die Farbe des Maskenobjekts .
@@ -730,7 +730,7 @@ Weitere Informationen finden Sie unter " Zeichnen von Mustern mit den Dekorlinie
 Dieser Titel wird in der Titelleiste des Browsers angezeigt , wenn ein Website-Besucher die Seite , da sie nicht auf der Seite angezeigt werden .
 Um die ausgewählten Zeilen zusammengehalten werden soll , wählen Sie die Option Nächste Zeile .
 Wenn Sie eine Vorschau des Videos , ziehen Sie den Kopf über die scrubber Leiste , um sicherzustellen , dass die Videowiedergabe korrekt wiedergegeben werden .
-Konvertieren Sie ein vorhandenes elektronisches Dokument ( z . B. eine Adobe PDF , Microsoft Word- oder Excel-Dokument in ein PDF-Formular ) .
+Konvertieren Sie ein vorhandenes elektronisches Dokument ( z. B. eine Adobe PDF , Microsoft Word- oder Excel-Dokument in ein PDF-Formular ) .
 Die Ergebnisse vom Server häufig in der SWF-Datei angezeigt werden , je nach der Interaktion .
 Eine Angleichung mit Weiß der Grundfarbe Komponenten .
 Beispiel : Wenn myQuiz.htm , myQuiz _ content.htm und myQuiz _ alternate.htm , indem Sie die Veröffentlichung des Dokuments erstellt wurden , myQuiz.htm Untitled ‑ 1.htm in der frameset.htm Datei ersetzt .
@@ -846,7 +846,7 @@ Indem Sie verschiedene Probenahme- und Toleranzoptionen können Sie den Bereich 
 Wählen Sie einen Wert für die Drehung ein , und klicken Sie auf " OK . "
 Als Alternative zum Erstellen einer Website-Verbindung für alle Benutzer , können Sie separate Verbindungen für verschiedene Teile der Website erstellen .
 Wählen Sie einen Tag für das neue übergeordnete Element aus , und klicken Sie auf " OK . "
-Striche , die dünner als 0,25 Punkt sind möglicherweise zu dünn , um zu sehen , wenn Sie auf hoch auflösende Ausgabe Geräte , wie z . B. einem Belichter gedruckt werden .
+Striche , die dünner als 0,25 Punkt sind möglicherweise zu dünn , um zu sehen , wenn Sie auf hoch auflösende Ausgabe Geräte , wie z. B. einem Belichter gedruckt werden .
 Gibt den Namen des Elements , wie er im Ebenenbedienfeld angezeigt wird .
 Wenn ein Aufruf einer Funktion mit Standard-Parameterwerte ein Parameter mit Standardwerten ausgelassen , die in der Funktionsdefinition angegebene Wert für diesen Parameter verwendet wird .
 Zum Ein- oder Ausblenden von Hilfslinien und alle anderen nicht druckbare Elemente , klicken Sie auf das Symbol " Vorschaumodus " am unteren Rand der Toolbox .
@@ -866,7 +866,7 @@ Um die Helligkeit des Bildes zu erhöhen oder zu verringern , passen Sie den Sch
 Eine function-Anweisung beginnt mit dem Schlüsselwort function , gefolgt von :
 Er stoppt einfach den Abspielkopf in Bild 1 und legt fest , welche Movieclips für die Zustände .
 Wählen Sie " Fenster " " Anordnen " > " Gleiche " Zoom . "
-Sie können auch eine Transformation ( z . B . Skalieren oder Drehen , um ein Segment oder einen Ankerpunkt anzuwenden .
+Sie können auch eine Transformation ( z. B. Skalieren oder Drehen , um ein Segment oder einen Ankerpunkt anzuwenden .
 Wenn Sie eine mp3 Sound als Steam Sound verwenden , müssen Sie den Sound für den Export komprimieren .
 Dreamweaver-Bibliothekselemente unterstützen keine Popupmenüs .
 Distiller-Parameter einfügen , bevor Sie Bilder in eine PostScript-Datei .
@@ -890,7 +890,7 @@ Um eine Vorschau des Schattens anzuzeigen , klicken Sie auf die Option " Vorscha
 Dieses Rechteck wird die Begrenzung für das Diagramm entwerfen .
 Wählen Sie " Einfügen " " Sonderzeichen " aus , und wählen Sie dann einen Buchstaben aus dem Popup-Menü aus .
 Der Verbindungsassistent wird angezeigt .
-Wenn Sie eine Kurve mit dem Zeichenstift-Werkzeug zeichnen möchten , erstellen Sie Kurven , d. h . Ankerpunkte auf einem fortlaufenden , gekrümmten Pfad .
+Wenn Sie eine Kurve mit dem Zeichenstift-Werkzeug zeichnen möchten , erstellen Sie Kurven , d. h. Ankerpunkte auf einem fortlaufenden , gekrümmten Pfad .
 Contribute fügt die URLs des Blogeintrags festgelegt , und das Feld Trackbacks am unteren Rand des Contribute-Arbeitsbereich angezeigt .
 Wenn Sie eine Slider-Instanz den Fokus hat , können Sie mit den folgenden Tasten zu steuern :
 Fahren Sie Endpunkte für zusätzliche Liniensegmente festlegen .
@@ -944,12 +944,12 @@ Mit dem Teilauswahlwerkzeug , wählen Sie einen Eckpunkt aus .
 Sie können ein Skript in das Bedienfeld " Aktionen " oder das Skriptfenster importieren .
 Wählen Sie " Automatisch zurückspulen , nachdem das Video vollständig abgespielt wurde , damit das Video zurückgespult werden soll , nachdem sie vollständig abgespielt wurde .
 Objekte können nicht mit anderen Objekten zusammengeführt werden .
-Wenn Sie eine OpenType-Schrift verwenden , können Sie automatisch Ordnungszahlen durch hochgestellte Zeichen ( z . B . ) .
+Wenn Sie eine OpenType-Schrift verwenden , können Sie automatisch Ordnungszahlen durch hochgestellte Zeichen ( z. B. ) .
 Jede Symbolleiste verfügt über eine Griffleiste . Dabei handelt es sich um einen vertikalen grauen Streifen am linken Ende der Symbolleiste .
 Fügt das Objekt in der Mitte des aktiven Fensters .
 Um alle Änderungen rückgängig zu machen , die seit der letzten Speicherung des Dokuments vorgenommen wurden , wählen Sie " Datei " " Zurück . "
 Lesen Sie die Beiträge von Vorlagen in der Webhilfe , um Informationen zu den verfügbaren Vorlagen und wie sie verwendet werden .
-Ordnen Sie die Option " Nach Name wird die Groß- / Kleinschreibung berücksichtigt ; Dreh- und head1 , z . B. als andere Tags behandelt werden .
+Ordnen Sie die Option " Nach Name wird die Groß- / Kleinschreibung berücksichtigt ; Dreh- und head1 , z. B. als andere Tags behandelt werden .
 Die Standardeinstellung ist Normal .
 Wählen Sie eine Farbe für den neuen Zeiger , wie im vorigen Schritt beschrieben .
 Tabulatoren auf den ganzen Absatz anzuwenden .
@@ -1001,7 +1001,7 @@ Wenn Sie Text aus einem ausgewählten Pfad abtrennen , wählen Sie " Text " " Au
 Der Grundvorteil der Matrix3D Methoden besteht darin , dass alle Berechnungen in der Matrix zuerst ausgeführt werden .
 Die markierten Bereich in zwei Bereiche von rechts nach links nummeriert .
 Geben Sie einen neuen Speicherort für den Cache .
-Neue Tipps mit Buchstaben ( b , c usw . ) angezeigt .
+Neue Tipps mit Buchstaben ( b , c usw. ) angezeigt .
 Diese Warnung wird angezeigt , wenn Sie versuchen , eine Seite zu veröffentlichen , die in Ihrer Website seit Beginn der Bearbeitung geändert wurde .
 Sie können den Kontrast oder die Helligkeit eines Bilds anpassen .
 Drücken Sie die Eingabetaste ( Windows ) bzw. den Zeilenschalter ( Mac OS ) .
@@ -1118,7 +1118,7 @@ Enumerationen werden benutzerdefinierte Datentypen , die Sie erstellen , um eine
 Die Vorschau zeigt alle vorhandenen Kopf- und Fußzeilen .
 Mit dem Werkzeug " Symbol " Stainer wird die Dateigröße und die Leistung verringert .
 Der Beschnitt Fläche wird durch eine rote Linie im Dokument angezeigt .
-Drücken Sie V bei gedrückter Strg- ( Windows ) bzw . Befehlstaste ( Mac OS ) , um das Element einzufügen .
+Drücken Sie V bei gedrückter Strg- ( Windows ) bzw. Befehlstaste ( Mac OS ) , um das Element einzufügen .
 Geben Sie den neuen Pfad für das Bild aus , und klicken Sie dann auf " OK . "
 Sie können die Gültigkeit einer digitalen Signatur bewerten , indem Sie die Signatur aus .
 Die Art von indizierten Dokumenten .
@@ -1127,7 +1127,7 @@ Wenn keine Verzerrung vorhanden ist , ist das Ergebnis dasselbe wie bei Verwendu
 Ein Dokument kann aus vielen Ebenen , die jeweils zahlreiche Unterebenen oder Objekte .
 Sie können die folgenden Äquivalenzen verwenden , um Zoll oder Zentimeter in Twips oder Punkte konvertieren ( Twip ist 1 / 20 eines Punktes ) :
 Im folgenden Beispiel werden zwei äquivalente Anweisungen , die eine nicht typisierte Variable x deklarieren :
-PDF / X- , PDF / A- und PDF / E-Dateien können auf verschiedenste Arten erstellt werden , z . B. mit Acrobat Distiller .
+PDF / X- , PDF / A- und PDF / E-Dateien können auf verschiedenste Arten erstellt werden , z. B. mit Acrobat Distiller .
 Sie sollten die Anwendung während des Erstellungsvorgangs testen .
 Über 50 neue oder aktualisierte Schulungsvideos für Acrobat decken eine Vielzahl von Themen werkzeugen für die Druck- , Web- und Profis verfügbar sind .
 Sie können auch eine NumericStepper-Komponente verwenden , damit der Benutzer einen Schriftgrad zu erhöhen oder zu verringern .
@@ -1171,7 +1171,7 @@ Siehe Erkennen von Text in gescannten Dokumenten .
 Alternativ können Sie eine Fläche oder Kontur im Aussehenbedienfeld aus , und klicken Sie auf die Schaltfläche " Ausgewählte Elemente duplizieren . "
 Geben Sie einen Wert für den Parameter ein .
 Wählen Sie zum Ende des Textabschnitt von der Einfügemarke zu überprüfen .
-Für Teile von Webseiten , die sich häufig ändern ( z . B . Fotos und Namen auf einem employee-of-the-month Seite ) .
+Für Teile von Webseiten , die sich häufig ändern ( z. B. Fotos und Namen auf einem employee-of-the-month Seite ) .
 Geben Sie den Verknüpfungsbezeichner und den Instanznamen des Sounds , die Sie wiedergeben oder stoppen möchten , und klicken Sie auf " OK . "
 Aus diesem Grund müssen Sie die Bilder für Berechnungen mit identischen Pixelmaßen .
 Wenn ein Wort richtig geschrieben ist , können Sie die Schreibweise bestätigen , indem Sie das Wort ins persönliche Wörterbuch in Zweifel gezogen .
@@ -1204,8 +1204,8 @@ Teilt die Zeichenfläche in Seiten auf der Grundlage des ausgewählten Geräts k
 Ein generisches Blockelement oder eine Gruppe von Blockelemente .
 In ActionScript 1.0 und 2.0 , würden Sie häufig auf neue MovieClip-Objekten zu einer SWF-Datei hinzufügen , um grundlegende Formen zu erstellen oder um Bitmaps anzuzeigen .
 Um ein bestimmtes Enkelkind zuzugreifen , können Sie die Indexnummern für das untergeordnete Enkelkind und Namen angeben :
-Wählen Sie " Bearbeiten " " Voreinstellungen " > " Malwerkzeuge " ( Windows ) bzw . " Photoshop " > " Voreinstellungen " > " Zeigerdarstellung " ( Mac OS ) .
-Legen Sie den Aufnahmepunkt , indem Sie den Mauszeiger über einen Bereich des Bildes und , indem Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) .
+Wählen Sie " Bearbeiten " " Voreinstellungen " > " Malwerkzeuge " ( Windows ) bzw. " Photoshop " > " Voreinstellungen " > " Zeigerdarstellung " ( Mac OS ) .
+Legen Sie den Aufnahmepunkt , indem Sie den Mauszeiger über einen Bereich des Bildes und , indem Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) .
 Geben Sie die Achse aus , entlang der das Objekt verbogen werden soll .
 Bearbeiten Sie die Filtereinstellungen im Popup-Menü .
 Wählen Sie " Pinselstrichoptionen " aus dem Popupmenü " Pinselstrichoptionen " im Eigenschafteninspektor .
@@ -1218,7 +1218,7 @@ Möglicherweise müssen Sie IPv6 auf der Netzwerkkarte zu aktivieren .
 Verwenden Sie einen der folgenden Befehle im Menü , um Bereiche des Modells anzuzeigen oder zu verbergen :
 Wählen Sie dann die Bibliotheksdatei , die Sie verwenden möchten , und klicken Sie auf " Laden . "
 Mit dem public-Attribut in einer Funktionsdefinition fügt die Funktion in den öffentlichen Namespace , wodurch die Funktion für den gesamten Code zur Verfügung .
-3 . Generieren Sie den Index .
+3. Generieren Sie den Index .
 Das Dialogfeld " Format " mit der Registerkarte " Grundeinstellungen " angezeigt .
 In diesem Fall erstellen Sie eine neue Pentagon-Klasse , die die RegularPolygon Klasse erweitert und seine eigene Versionen der Methoden getArea ( ) und describe ( ) definiert .
 Geben Sie negative Werte für die Ebene nach vorn verschoben und positive Werte , um ihn nach unten zu verschieben .
@@ -1249,7 +1249,7 @@ Wählen Sie eine Bilddatei aus , und klicken Sie auf " Öffnen . "
 Eine schwarze Linie gibt an , wo der Stil verschoben wird , einen markierten Gruppenordner gibt an , dass der Stil der Gruppe hinzugefügt werden sollen .
 Um die Textgröße zu ändern , klicken Sie auf die Textgröße verkleinern " oder die Schaltfläche Textgröße vergrößern .
 Radiance ( HDR ) ist eine 32 Bit pro Kanal Dateiformat für Bilder mit hohem Dynamikumfang verwendet .
-InCopy-Benutzer können Grafiken importieren , um ihre Textabschnitte und begrenzte Transformationen für die Grafiken optimieren , wie z . B . Skalieren und Zuschneiden .
+InCopy-Benutzer können Grafiken importieren , um ihre Textabschnitte und begrenzte Transformationen für die Grafiken optimieren , wie z. B. Skalieren und Zuschneiden .
 Die Struktur der Daten richtet sich nach dem Dateiformat , das Sie auswählen .
 Dieses Dokument beschreibt die Details für die Verwendung von Komponenten zu Flash-Anwendungen entwickeln .
 Doppelklicken Sie auf die Zelle " Wert " für den Parameter contentPath oder source , um das Dialogfeld " Inhaltspfad " zu aktivieren .
@@ -1259,8 +1259,8 @@ Jede Tween-Folge kann nur ein einzelnes Zielobjekt und einen optionalen Bewegung
 Wählen Sie im Menü " Verschlüsselungsalgorithmus " einen Kursschlüssel , der Verschlüsselung , und klicken Sie dann auf " Weiter . "
 Klicken Sie bei gedrückter Umschalttaste , um in einer geraden Linie tauen zwischen dem aktuellen Punkt und dem zuvor angeklickten Punkt .
 So öffnen Sie ein InDesign-Dokument ( * .idap oder * .indp ) , führen Sie einen der folgenden Schritte aus :
-Außerdem sollten grundlegende objektorientierte Programmierkonzepte , wie z . B . Klassen und die Vererbung verstehen .
-Um alle Elemente in nicht ausgewählten Ebenen als Konturen anzuzeigen , klicken Sie bei gedrückter Alt- und Strg-Taste ( Windows ) bzw . Wahl- und Befehlstaste ( Mac OS ) auf das Augensymbol für die ausgewählte Ebene .
+Außerdem sollten grundlegende objektorientierte Programmierkonzepte , wie z. B. Klassen und die Vererbung verstehen .
+Um alle Elemente in nicht ausgewählten Ebenen als Konturen anzuzeigen , klicken Sie bei gedrückter Alt- und Strg-Taste ( Windows ) bzw. Wahl- und Befehlstaste ( Mac OS ) auf das Augensymbol für die ausgewählte Ebene .
 Verwenden Sie den Movieclip _ framesloaded-Eigenschaft , um zu prüfen , ob die druckbaren Inhalte geladen ist .
 Die folgende Liste enthält wichtige Begriffe , die Sie in diesem Abschnitt konfrontiert werden :
 Falls erforderlich , ziehen Sie die Griffe des Begrenzungsrahmens , um die Größe des Zuschneidebereichs anzupassen .
@@ -1278,12 +1278,12 @@ Sie können die Miniaturen sortieren oder eine Liste von Objektnamen , Alter , o
 Wählen Sie " Bearbeiten " " Blogs konfigurieren , " und wählen Sie den Blog , den Sie konfigurieren möchten .
 Da in einem Bildstapel ein Smart-Objekt ist , können Sie die ursprünglichen Bilder , aus denen die Ebenen jederzeit bearbeiten .
 Es ist nicht möglich , geben Sie einen Zoomfaktor in das Feld " Vergrößerung " festlegen .
-Geben Sie Wildcards , wie z . B . Beliebige Ziffer oder Beliebige Leerfläche , um Ihre Suche zu erweitern .
+Geben Sie Wildcards , wie z. B. Beliebige Ziffer oder Beliebige Leerfläche , um Ihre Suche zu erweitern .
 Falls erforderlich , wählen Sie den gewünschten Blogeintrag im Bedienfeld " Seiten " aus .
 Wie die meisten Dateiformate können PSD-Dateien nur bis zu 2 GB .
 Ziehen Sie die Ebene oder den Ordner auf die Schaltfläche " Löschen . "
 Um die Sortierreihenfolge der Ebenen zu ändern , klicken Sie auf die Überschriften .
-Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) im Ebenenbedienfeld auf die Filtermaskenminiatur .
+Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) im Ebenenbedienfeld auf die Filtermaskenminiatur .
 In den meisten Fällen ist dies CMYK , kann aber auch RGB- oder Graustufen .
 Sie legen diese Winkel in den Voreinstellungen für magnetische Hilfslinien .
 Sie können Dateien in FreeHand Version 7 oder höher direkt in importieren .
@@ -1291,13 +1291,13 @@ Wählen Sie " Statistiken anzeigen " aus dem Menü des Histogrammbedienfeldes .
 Um einen Teil der Textebene zu transformieren , müssen Sie zunächst die Textebene rastern .
 Sie können den Zugriff auf eine Adobe PDF-Datei , wenn Sie sie exportieren .
 , gelten die folgenden Regeln .
-Die Grundlinienverschiebung bestimmt , wie eng Text befindet sich oberhalb oder unterhalb ihrer natürlichen Basislinie , z . B. mit Hoch- und hochgestellte Zeichen .
+Die Grundlinienverschiebung bestimmt , wie eng Text befindet sich oberhalb oder unterhalb ihrer natürlichen Basislinie , z. B. mit Hoch- und hochgestellte Zeichen .
 Geben Sie die gewünschte Anzahl der Zeilen ein .
 Komponenten sind Movieclips mit Parametern , mit deren Hilfe Sie die Darstellung und das Verhalten ändern .
 Eine Transformation wirkt sich auf alle ausgewählten Objekte als Einheit .
 Die jene der Affirmative Action -Bedingung und Bestimmungen in den vorangehenden Satz mittels Verweis aufgenommen werden .
 Steuert die Ausrichtung von Satzzeichen für alle Absätze innerhalb eines Textobjekts .
-Wenn Sie z . B. ein Rechteck ändern und dann ein zweites Rechteck zeichnen .
+Wenn Sie z. B. ein Rechteck ändern und dann ein zweites Rechteck zeichnen .
 Speichert jede Zeichenfläche als separate Datei .
 Die mittleren Regler passt den Gammawert des Bildes .
 Doppelklicken Sie auf das Symbol in der Bibliothek .
@@ -1339,7 +1339,7 @@ Gibt an , dass das Element als Ziel ausgewählt ist , jedoch keine Aussehen-Attr
 Behält multiresolution .
 Mit dieser Option wird ein Hinweis ( Anweisungen für das Streaming von einer Datei zu verfolgen .
 Wenn Fireworks erstellte HTML-Code gefunden wird , wählen Sie eine der folgenden Optionen aus und klicken Sie auf " OK " :
-Die Dateinamenerweiterung ( z . B. html , txt oder xmpl ) , bis zu 39 grundlegende alphanumerische Zeichen ( A-Za-z0-9 ) und ohne führenden Punkt .
+Die Dateinamenerweiterung ( z. B. html , txt oder xmpl ) , bis zu 39 grundlegende alphanumerische Zeichen ( A-Za-z0-9 ) und ohne führenden Punkt .
 Klicken Sie bei gedrückter Umschalttaste , um mehrere Seiten oder das Bild auswählen .
 Sound Optionen sind deaktiviert , da Photoshop Extended keine Audiodaten in AVI-Dateien exportiert werden .
 ( Optional ) Wenn Sie genaue Versionen von Flash Player anzugeben , verwenden Sie die Textfelder Hauptversion und der Nebenversion .
@@ -1354,14 +1354,14 @@ Wählen Sie eine Füllfarbe für das Vorgabe-Partikelsystem zugefГјhrt .
 Wählen Sie zum Ändern der Liste der Wörter , die als falsch geschrieben gekennzeichnet sind , wählen Sie " Entfernte Wörter " aus .
 Komponenteninstanz : autoLoad , maintainAspectRatio , Quell- und scaleContent .
 Klicken Sie in den Rahmen aus der Verkettung , die Sie entfernen möchten .
-Anzeigen von Aktionen , wie z . B . " Vorschau festlegen " und " Hilfslinien einblenden " werden als " Rückgängig " nicht mehr enthalten .
+Anzeigen von Aktionen , wie z. B. " Vorschau festlegen " und " Hilfslinien einblenden " werden als " Rückgängig " nicht mehr enthalten .
 Die Zeichnungs-API Verbesserungen vorhandener Methoden in alternativen Befehlen konsolidieren .
 Mit dem nicht-quadratische Pixel Bild öffnen und " Pixel-Seitenverhältnis-Korrektur " aktiviert ist , wählen Sie " Fenster " " Anordnen " > " Neues Fenster " Für [ Name des Dokuments ] .
 Das Textwerkzeug wird automatisch ausgewählt .
 Weitere Informationen finden Sie unter Arbeiten mit Konfigurationsdateien .
 Klicken Sie auf das zweite Bild , und wählen Sie " Einfügen " " Zeitleiste " > " Schlüsselbild . "
 Verwendet ein Bild , eine Verschiebungsmatrix aufgerufen , um zu bestimmen , wie eine Auswahl zu verzerren .
-Wenn Sie die Maske kopieren möchten , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf die Maske zu einem anderen Smartfiltereffekt .
+Wenn Sie die Maske kopieren möchten , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf die Maske zu einem anderen Smartfiltereffekt .
 Die gewählten Druckeinstellungen werden auf alle Zeichenflächen angewendet , die Sie zum Drucken ausgewählt werden .
 Wählen Sie diese Option , um das Fenster aus dem Modell zu entfernen .
 Diese Neuanordnung wird sichergestellt , dass die Objekte gemäß ihrer relativen z-Achse anzuzeigen .
@@ -1418,7 +1418,7 @@ Illustrator erkennt alle gängigen Grafikformate .
 Sie können den Befehl " Verschieben " verwenden , um ein Objekt um einen bestimmten Betrag verschieben .
 Das Zeichenformat der Formatgruppe nicht geändert werden .
 Rendert alle Inhalte vollständig auf der Bühne .
-n . Siehe Flash-Datei Projekt ( FLP ) .
+n. Siehe Flash-Datei Projekt ( FLP ) .
 Wählen Sie unter " Produktbereich " den Bereich mit den Befehlen , die Sie definieren oder neu definieren möchten .
 Klicken Sie dann in den 3D-Objektbereich .
 Der Bereich enthält Modifikatoren für das derzeit ausgewählte Werkzeug .
@@ -1492,7 +1492,7 @@ Wendet eine Textur , die Sie an einem Bild auswählen oder erstellen .
 Sie können diese Marken mithilfe der Registerkarte Ebenen in Acrobat anzeigen .
 Alle Texte in einer Label-Komponenteninstanz muss den gleichen Stil freigeben .
 Wählen Sie ein Attribut in der Strukturansicht angezeigt .
-Wählen Sie " Schrift " " Leerzeichen einfügen , und wählen Sie dann eine der Optionen für den Zeilenabstand ( z . B . Geviert ) im Kontextmenü .
+Wählen Sie " Schrift " " Leerzeichen einfügen , und wählen Sie dann eine der Optionen für den Zeilenabstand ( z. B. Geviert ) im Kontextmenü .
 Wenn Sie eine Version anzeigen und sehen möchten , welche Bereiche bedingter sind , wird die Bedingung angezeigt .
 Sie können JavaScript für erweiterte Anpassungsmöglichkeiten bilden .
 Die Formel lautet wie folgt :
@@ -1538,7 +1538,7 @@ Beispielsweise können Sie den Autor einer Einstellung Richtliniendokument der P
 Verwenden Sie die Skalierung , um die Größe der Textur zu skalieren .
 Um Tweening zu einer bestimmten Ebene anzuwenden , wählen Sie ihn im Ebenenbedienfeld aus .
 Um den Inhalt aller Fireworks Ebenen auf eine einzige Ebene kombinieren , heben Sie die Auswahl des Ebenenbedienfelds speichern .
-Der ActionScript Editor besteht aus einer Reihe von Funktionen , wie z . B. automatische Formatierung , verdeckte Zeichen und Farbkodierung Teile des Skripts .
+Der ActionScript Editor besteht aus einer Reihe von Funktionen , wie z. B. automatische Formatierung , verdeckte Zeichen und Farbkodierung Teile des Skripts .
 Die neu definierten Parametersatz wird in der Liste im Dialogfeld " Barcode-Parameter verwalten , und alle Schaltflächen auf der rechten Seite des Dialogfelds verfügbar .
 Klicken Sie im Absatzbedienfeld , wählen Sie eine Option aus der Kinsoku Popupmenü " :
 Wenn Sie das Element verschieben oder bearbeiten , wird der Slice-Bereich automatisch angepasst , um das neue Bildmaterial einschließt .
@@ -1643,7 +1643,7 @@ HomeSite startet Fireworks , wenn es nicht bereits geöffnet ist .
 Trennt einen Teil des Bildmaterials in einzelne , gefüllte Teilflächen ( eine Teilfläche ist ein Bereich , der durch kein Liniensegment geteilt ist ) .
 Durch Aktivieren der Autokorrektur können Sie Fehler bei der Großschreibung zulassen und häufige Tipp- , während der Eingabe ersetzt werden soll .
 Um erweiterte Einstellungen verwenden oder das Debuggen der veröffentlichten SWF-Datei zu aktivieren , wählen Sie eine der folgenden Optionen aus :
-Anschließend können Sie diese Deckkraft wie bei einer Anfangs- bzw . Enddeckkraft anpassen und verschieben .
+Anschließend können Sie diese Deckkraft wie bei einer Anfangs- bzw. Enddeckkraft anpassen und verschieben .
 Die Miniatur wird im Illustrator-Dialogfeld " Öffnen " und " Platzieren " angezeigt .
 Dreht jede Seite basierend auf der Ausrichtung des Textes auf der Seite .
 Um eine Farbgruppe zu bearbeiten , klicken Sie in der Liste darauf , um sie auszuwählen .
@@ -1723,7 +1723,7 @@ Darüber hinaus können Sie Videoebenen im Ebenenbedienfeld gruppieren .
 Zwei Funktionen in der JavaScript-Datei müssen definiert werden , um bearbeitbare Parameter , um das Symbol hinzuzufügen :
 Gibt an , ob der Mosaikeffekt Kacheln sind Farb- oder Graustufen .
 Beachten Sie , dass die Sandbox importieren , können hauptsächlich ersetzt werden , indem Sie eine gewöhnliche laden und dann die geladene SWF-Datei die Methode Security.allowDomain ( ) aufrufen .
-Ändern Sie das Skalierungsverhältnis ( z . B . 3 : 2 ) und die Maßeinheit für das Zeichnen von Bereichen .
+Ändern Sie das Skalierungsverhältnis ( z. B. 3 : 2 ) und die Maßeinheit für das Zeichnen von Bereichen .
 Positionieren Sie den Zeiger über das Dokument , das Objekt oder die Gruppe .
 Eine Farbe oder ein Farbverlauf eines offenen oder geschlossenen Pfads inneren Bereich eine Füllung aufgerufen wird .
 Wenn Sie ein Video anzuzeigen , können Sie Kommentare zu einzelnen Frames hinzufügen .
@@ -1795,7 +1795,7 @@ Wählen Sie " Bearbeiten " " Einfügen " > " Rechteckig " oder " Polygon " um ei
 Wählen Sie die Benutzer oder Gruppen aus , legen Sie Berechtigungen für diese aus , und klicken Sie auf " OK . "
 Das Lupen-Werkzeug wird im Vorschau-Bedienfeld und auf der vordersten oder ausgewählte Bild im Prüfmodus verfügbar .
 Das folgende Dialogfeld " Videoeigenschaften " wird angezeigt , wenn Sie eine beliebige Videodatei einfügen .
-Die Schaltflächen am unteren Rand der Spalte grundlegende Bearbeitungsfunktionen , wie z . B. das Duplizieren , Entfernen und Erstellen .
+Die Schaltflächen am unteren Rand der Spalte grundlegende Bearbeitungsfunktionen , wie z. B. das Duplizieren , Entfernen und Erstellen .
 Klicken Sie im Tabulatorbedienfeld auf eine Schaltfläche tab-alignment , um festzulegen , wie Text in Bezug auf die Registerkarte Position ausgerichtet werden :
 Wenn Sie nicht über einen Wacom-Grafiktablett angefügt wurde , wird diese Option abgeblendet .
 Wählen Sie " Datei " " Drucken " und führen Sie einen der folgenden Schritte aus :
@@ -1884,7 +1884,7 @@ Dreht das Bild durch eine Vierteldrehung im Uhrzeigersinn .
 Der Alphakanal wird als transparente Spur kodiert , sodass Sie die Überlagerung des exportierten QuickTime-Films auf andere Inhalte , um die Hintergrundfarbe oder Szene ändern .
 Sie sollten außerdem überlegen , ob die Benutzer eine Seite vergrößern möchten .
 In den meisten Fällen wird eine Tabellenzelle vertikal erweitern , um Platz für neue Text und Grafiken hinzugefügt werden .
-Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Befehlstaste ( Mac OS ) auf ein Dreieck , um alle gleichgeordneten Einträge ein- oder auszublenden .
+Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Befehlstaste ( Mac OS ) auf ein Dreieck , um alle gleichgeordneten Einträge ein- oder auszublenden .
 Das standardmäßige Bildformat ist JPEG .
 Wenn Sie einen der Ausgabemedien an einen Druckserviceanbieter ist , sollten Sie die Effekte manuell die Einstellung " Hoch " zu erhöhen .
 Öffnen Sie das Menü " Seitenlayout " und wählen Sie die Option " Automatisch , " " Einzelne Seite " , " Einzelne Seite " Fortlaufend , " " Zwei Seiten " oder " Zwei Seiten , fortlaufend .
@@ -1901,7 +1901,7 @@ SessionArray und die Sitzung sind reservierte Schlüsselwörter auf der Ebene , 
 Bei einem Wert von 100 werden die meisten Bilddetails , aber Helligkeitsrauschen am wenigsten reduziert .
 Wenn Sie einen Browser verwenden , müssen Sie eine SWF-Datei in einer HTML-Seite enthalten sein , um den Vollbildmodus zuzulassen .
 Öffnen Sie das Projekt , das Sie löschen möchten .
-Sie können auch Text in einigen Dialogfeldern , wie z . B . " Suchen / Ersetzen " ziehen .
+Sie können auch Text in einigen Dialogfeldern , wie z. B. " Suchen / Ersetzen " ziehen .
 Klicken Sie auf " Hinzufügen , " und navigieren Sie zu dem Formular zurückgegeben .
 Wählen Sie ein Objekt auf der Leinwand .
 Geben Sie Ihr aktuelles Kennwort und das neue Kennwort ein , das Sie in den Textfeldern verwenden möchten .
@@ -1909,7 +1909,7 @@ Wählen Sie " Scharfe , Abgerundete oder Diffused :
 Webseiten verwenden , um die ursprüngliche Arbeitsablauf einer Vorlage , bis sie veröffentlicht werden .
 Wählen Sie das Element direkt über der Stelle , an der Sie das Element einfügen möchten , und wählen Sie " Bearbeiten " " Einfügen . "
 Wenn Sie ein Dokument signieren , müssen Sie eine digitale ID erhalten , oder erstellen Sie eine selbst signierte digitale ID in Adobe Acrobat ® .
-n . Folge von Zeichen und einen Datentyp .
+n. Folge von Zeichen und einen Datentyp .
 Pixel : Die kleinste Informationseinheit in einem Bitmap-Bild - im Prinzip ein Punkt der Farbe .
 Zeigt alle Audiodaten in der Anzeige steuern .
 Wenn Sie einen Kommentar löschen , der beantwortet wurde , ist nur der Kommentar gelöscht .
@@ -1929,7 +1929,7 @@ Eine spezielle Verwendung eines indizierten Arrays ist ein mehrdimensionales Arr
 Fügen Sie Tabstopps , Kommas , Absatzzeichen oder ein anderes Zeichen , um die Zeilen zu trennen .
 Wählen Sie das Objekt oder die Objekte , die transformiert wurden .
 Dies bedeutet , dass teilweise transparente CMYK-Farben als getönte CMYK-Farben anzuzeigen .
-Lesezeichen aus getaggten Inhalten vorgenommen haben , immer den Seiteninhalt anzuzeigen , da die getaggten Inhalte druckbare Elemente in der Dokumentstruktur darstellt , wie z . B . Überschriften und Abbildungen .
+Lesezeichen aus getaggten Inhalten vorgenommen haben , immer den Seiteninhalt anzuzeigen , da die getaggten Inhalte druckbare Elemente in der Dokumentstruktur darstellt , wie z. B. Überschriften und Abbildungen .
 Eine andere Art von indizierten Arrays , die in ActionScript 3.0 zur Verfügung steht , ist die Vector-Klasse .
 Winkel für lineare Farbverlaufsfüllung auf einen Wert zwischen -180 und 180 Grad .
 Die Willkommensseite und Kopfzeile können Text , Bilder oder beides enthalten und können auf verschiedene Weise angeordnet werden .
@@ -1966,7 +1966,7 @@ Das Raster erscheint in einem Dokument als eine Reihe von Linien hinter dem Bild
 Mit dem umgekehrten Bild noch ausgewählt ist , wählen Sie " Filter " " Andere " > " Maximum . "
 Die mittleren Regler passt den Gammawert des Bildes .
 Weitere Informationen erhalten Sie von Focoltone International , Ltd. in Staffordgreat-britain _ counties.kgm Großbritannien .
-Wählen Sie unter " Themenstufe " Tonwertkorrektur , geben Sie den Namen des Themas ( z . B . Tiere ) in das erste Feld ein .
+Wählen Sie unter " Themenstufe " Tonwertkorrektur , geben Sie den Namen des Themas ( z. B. Tiere ) in das erste Feld ein .
 Die mittlere Rechteck wird sowohl horizontal und vertikal skalieren .
 Wählen Sie " Erste , " wenn Sie die Header-Informationen nicht in der ersten Zeile der Tabelle angezeigt werden .
 Ein Stil ist eine Sammlung von Formatierungsattributen , die auf Elemente in einem Dokument angewendet werden können .
@@ -1982,7 +1982,7 @@ Diese Option wandelt den Pixelbearbeitungen in den Farbraum des Dokuments , aber
 Achten Sie auf ein Warnsymbol , wenn Sie Änderungen vornehmen .
 FLV wird unterstützt , wenn Adobe Flash Professional installiert ist .
 Die Form der Kurve wird abgeflacht , um zu verhindern , dass sie von den Begrenzungen des Diagramms erweitert wird .
-Wählen Sie diese Option , um linke und rechte Seiten gegenüberliegen , die in einer double-page Druckbogen vornehmen , z . B. für Bücher und Zeitschriften .
+Wählen Sie diese Option , um linke und rechte Seiten gegenüberliegen , die in einer double-page Druckbogen vornehmen , z. B. für Bücher und Zeitschriften .
 Dreht ein Element um einen Referenzpunkt .
 Beachten Sie die folgenden Richtlinien bei der Arbeit mit Anfangs- und Endformen :
 Andere Dokumentattribute werden auf ihre Standardwerte gesetzt .
@@ -2072,7 +2072,7 @@ Um das Objekt horizontal oder vertikal zu skalieren , ziehen Sie einen mittleren
 ist identisch mit der Palette " Adaptiv " außer sie ähnliche Farben für das Web 216-Farbpalette konvertiert .
 InDesign behält die Verkettungen zwischen den Textrahmen .
 Installieren Sie die Software , die mit dem Scanner , wenn Sie dies nicht bereits getan haben .
-Neben Schriftarten , Farben , Bilder usw . ) , können Sie die folgenden Informationen enthalten :
+Neben Schriftarten , Farben , Bilder usw. ) , können Sie die folgenden Informationen enthalten :
 Die Schritte zum Auswählen einer PPD-Datei für jede Plattform unterschiedlich sind .
 Bei einigen Effekten können Sie zusätzliche Optionen für Farbverlauf angeben .
 Aktionen können auch modale Steuerelemente , mit denen Sie Werte in einem Dialogfeld eingeben , während eine Aktion wiedergegeben wird .
@@ -2150,7 +2150,7 @@ Dieser Effekt ist rasterbasiert und verwendet die Einstellungen des Dokuments Ef
 Der Filter in diesem Beispiel wird die Farbe Rot , Grün und Blau eines Bildes .
 Die CustomErrors Anwendung zeigt Techniken für die Arbeit mit benutzerdefinierten Fehler beim Erstellen einer Anwendung .
 Weitere Informationen zu diesem SDK finden Sie auf der Acrobat Developer Center unter http : / / www.adobe.com / go / learn _ acr _ devcenter _ de www.adobe.com / go / learn _ acr _ devcenter _ de ( nur Englisch ) .
-Sie können die Position des Auswahlwerkzeugs platziert wurde , z . B. eine Überschrift oder einen Absatz .
+Sie können die Position des Auswahlwerkzeugs platziert wurde , z. B. eine Überschrift oder einen Absatz .
 Wenn Sie von einem Punkt zu einem anderen messen , ist eine nicht druckbare Linie gezeichnet , und der Optionsleiste und im Bedienfeld " Info " die folgenden Informationen angezeigt :
 Klicken Sie auf " OK , " im Dialogfeld " Speichern unter " Certified Document .
 Adobe Flash CS4 Professional umfasst zwei Werkzeuge zum Schreiben von ActionScript-Code :
@@ -2173,7 +2173,7 @@ Sie können eine SWF-Datei vornehmen , verwenden Sie die Codepage des Betriebssy
 Die Musterfarbe wird in allen Feldern " Strichfarbe " oder " Füllfarbe " in Fireworks .
 InDesign erstellt neue Textrahmen und neue Dokumentseiten , bis der gesamte Text im Dokument hinzugefügt wurde .
 Mit der Option CSS-Hyperlinks Seiteneigenschaften " können Sie die Standardschrift , die Schriftgröße und die Farben für Hyperlinks , besuchte Verknüpfungen und aktive Verknüpfungen zu definieren .
-Wenn Sie z . B . " Seitenanzeige " wählen , werden bei 0 ° gedreht , Objekte an den Anfang der Seite .
+Wenn Sie z. B. " Seitenanzeige " wählen , werden bei 0 ° gedreht , Objekte an den Anfang der Seite .
 Klicken Sie dann auf " Weiter . "
 Klicken Sie auf die Schaltfläche " Vorlage auswählen " klicken .
 Kanäle sind Graustufenbilder , die verschiedene Arten von Informationen speichern :
@@ -2195,7 +2195,7 @@ Siehe Zerlegen von Gruppen und Objekte .
 In Contribute können bis zu 99 frühere Versionen der einzelnen Webseite beizubehalten .
 Wählen Sie " Bild " " Variablen " > " DatenSets aus und klicken Sie auf die Schaltfläche " Importieren . "
 Um einen neuen Effekt hinzuzufügen , klicken Sie auf " Neu " Effekt hinzufügen . "
-Um alle Fenster für alle geöffneten Dokumente zu schließen , drücken Sie Umschalt + Strg + Alt + W ( Windows ) bzw . Umschalt + Befehlstaste + Wahltaste + W ( Mac OS ) .
+Um alle Fenster für alle geöffneten Dokumente zu schließen , drücken Sie Umschalt + Strg + Alt + W ( Windows ) bzw. Umschalt + Befehlstaste + Wahltaste + W ( Mac OS ) .
 Verwenden Sie den Effekt " Abgeflachte Kante und Relief " können Sie Objekten eine realistische , dreidimensionale Darstellung .
 Substring : Ein String , der einen Teil eines anderen Strings .
 Weitere Informationen finden Sie unter Festlegen der zu druckenden Seiten .
@@ -2235,7 +2235,7 @@ Die if-Anweisung wertet eine Bedingung auf die nächste Aktion festlegen , die a
 Diese Seite ist nicht eine Vorlage , die in einigen Teilen modifiziert werden kann , aber andere Teile beschränkt sind .
 Klicken Sie auf das Symbol " Belichtung " oder " Belichtung " im Korrekturbedienfeld Voreinstellung .
 Drücken Sie die Tabulatortaste , um alle Bedienfelder ein- oder ausblenden , mit Ausnahme der Mittelverkleidung der Mittelverkleidung variiert je nach der von Ihnen ausgewählten Arbeitsbereich ) .
-Klicken Sie dann auf " OK " ( Windows ) bzw . " Wählen " ( Mac OS ) .
+Klicken Sie dann auf " OK " ( Windows ) bzw. " Wählen " ( Mac OS ) .
 Lassen Sie die Benutzer einen Movieclip drucken , die in einem Browser nicht sichtbar ist , indem Sie mit dem Bedienfeld " Aktionen , " um den Movieclip des _ visible -Eigenschaft auf false gesetzt .
 Sie können die Anzeige einer Seite in 90 ° -Schritten zu ändern .
 Platziert das verankerte Objekt in die Position , die Sie im Dialogfeld " Optionen für verankertes Objekt " aus .
@@ -2255,7 +2255,7 @@ SimpleButton - Ein Objekt SimpleButton der ActionScript Darstellung eines Schalt
 Einige Filter vollständig im Arbeitsspeicher verarbeitet werden .
 Starten Sie das LMS-System ( oder die Course Descriptor Files ) erstellen , die die frameset.htm Dateireferenzen angezeigt werden .
 Wählen Sie die Quelle für die Bilder und die Bilder , die Sie importieren möchten .
-Stellt die Funktionalität des Telnet-Clients für die Anwendung , wie z . B. eine Verbindung mit einem Remote-Server und das Senden , Empfangen und Anzeigen von Daten .
+Stellt die Funktionalität des Telnet-Clients für die Anwendung , wie z. B. eine Verbindung mit einem Remote-Server und das Senden , Empfangen und Anzeigen von Daten .
 Definiert die Streuung des reflektierten Lichts durch die Einstellung " Hochglanz " generiert .
 Dieser Vorgang kann mehrere Sekunden erfordern , insbesondere bei größeren Dokumenten .
 Verwenden Sie das Skriptenbedienfeld ( " Fenster " " Skripten " ) , um die Skripten in InCopy ausgeführt werden .
@@ -2294,7 +2294,7 @@ So testen Sie den Sound , ziehen Sie den Abspielkopf über die Bilder mit dem So
 Ziehen Sie , um zu zeichnen .
 Wählen Sie das Video in Ihrem Entwurf .
 Zeigt die Liste der Trigger und Aktionen , die Sie definiert haben .
-Klicken Sie im Komponenteninspektor für die Interaktion , geben Sie den gleichen Instanznamen ( z . B . DragA ) des Movieclips in das entsprechende Feld " Name " ein .
+Klicken Sie im Komponenteninspektor für die Interaktion , geben Sie den gleichen Instanznamen ( z. B. DragA ) des Movieclips in das entsprechende Feld " Name " ein .
 Wenn Sie eine PNG-Datei in Fireworks importieren , indem Sie Code ausschneiden und einfügen , wird die Datei in eine Bitmap umgewandelt .
 Die folgenden Lernprogramme stehen zur Verfügung :
 Wählen Sie " Bearbeiten " " Ebenen automatisch ausrichten " und wählen Sie eine Ausrichtungsoption .
@@ -2302,14 +2302,14 @@ Drücken Sie die Taste H , während Sie sich im Überprüfungsmodus , um Tastatu
 Sie können diese Beschreibung für die Ausgabe Bedingungen ändern , die Sie von Grund auf neu erstellen oder bearbeiten .
 Wählen Sie ein Thema in den Suchergebnissen .
 Wenn Text ausgewählt ist oder wenn das Text-Werkzeug aktiv ist , können Sie auch die Optionen im Steuerungsbedienfeld verwenden , um Absätze formatieren .
-Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf die Schaltfläche " Pfadkontur füllen " am unteren Rand des Pfadebedienfelds .
+Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf die Schaltfläche " Pfadkontur füllen " am unteren Rand des Pfadebedienfelds .
 Ein rechteckiger Pfad enthält immer vier kleine Ankerpunkte ( hohl oder einfarbig ) .
 Sie können mit dem Befehl " Importieren " oder dem Befehl " Öffnen " , um eine PICT Ressource öffnen .
 Diese Funktion kann verwendet werden , um schädliche Skripts in eine PDF-Datei hinzufügen .
 randomSeed ( int ) : Die zufällige Ausgangszahl , die das Muster bestimmt .
 Wählen Sie in ActionScript haben , können Sie eine JavaScript-Funktion auf der HTML-Seite aufrufen .
 Der Listener wird aufgerufen , wenn der Shader die Arbeit abgeschlossen ist :
-Sie können verschiedene Datentypen ( z . B . " Boolean , " " Number " und " String " ) übergeben . Sie werden nicht mehr in String-Parametern beschränkt .
+Sie können verschiedene Datentypen ( z. B. " Boolean , " " Number " und " String " ) übergeben . Sie werden nicht mehr in String-Parametern beschränkt .
 Da dies ist das Standardziel , ist es normalerweise nicht nötig , um ihn anzugeben .
 Jede nachfolgende Zeile entspricht einem Datensatz , wobei die Werte für jede Variable .
 ( Intel Indeo ® Video nur 4.4 ) Legt die Komprimierung , die Transparenz und den Zugriff für das Intel Indeo ® Video Codec 4.4 .
@@ -2418,10 +2418,10 @@ Die Kontrollpunkte mehr als ein Bone verbunden ist , als Dreiecke angezeigt werd
 Erweitern Sie das Tag für den gewünschten Bereich aus .
 Das Muster kann eine große Kachel vorgenommen werden , oder mehrere Kacheln duplizieren .
 Dieser Wert bestimmt die Anzahl der Nullen am Anfang der Datei als Platzhalter eingefügt .
-WBMP 1 Bit Farbe , d. h . , WBMP Bilder enthalten nur schwarze und weiße Pixel unterstützt .
+WBMP 1 Bit Farbe , d. h. , WBMP Bilder enthalten nur schwarze und weiße Pixel unterstützt .
 Die erste Hauptaufgabe ist in diesem Beispiel führt eine externe Bilddatei laden . Dies ist ein Foto der Mondoberfläche .
 Dies gilt auch für die Erstellung der tatsächlichen Platz auf der Bühne , in der Schaltflächen platziert werden können , und auch in der FLA-Datei " Raum " für verschiedene Elemente trennen .
-Geben Sie ein Sonderzeichen trennen , um den Eintrag aus der Seitenzahl ( z . B . Tiere 38 ) .
+Geben Sie ein Sonderzeichen trennen , um den Eintrag aus der Seitenzahl ( z. B. Tiere 38 ) .
 Die Aufblasen Tool inflates ein Objekt durch Verschieben von Steuerpunkten auf eine Stelle außerhalb des Cursors .
 Einige dieser als " einfache " oder " grundlegende " Datentypen :
 Versätze ( Array ) : Ein Array von Punkten , die X- und Y-Versatz für jede Oktave .
@@ -2457,7 +2457,7 @@ Beim Bearbeiten von Entwürfen , wenn Contribute eine aktualisierte Version von 
 Ziehen Sie die Ecke des Feldes , um die Ansicht der Seite zu erweitern oder zu reduzieren .
 Mit dem folgenden Code wird die Maske als Shape-Instanz und wendet sie als Maske der Instanz MoonSphere :
 Wenn die Option deaktiviert ist , werden barrierefreie Informationen für das Objekt wird nicht für Bildschirmleseprogramme übergeben .
-Eine Beschreibung des Dateityps ( z . B . Adobe Video File ) .
+Eine Beschreibung des Dateityps ( z. B. Adobe Video File ) .
 Diese ID ist normalerweise die interne Kundennummer der MIS-Abteilung , dass der Druckauftrag erstellt wurde .
 Erstellen Sie eine Instanz , eine Gruppe oder einen Textblock auf der Bühne .
 Sie können die Farbinformationen für bestimmte Pixel im Bild beim Anpassen der Farbe mit einem Korrektur-Dialogfeld oder im Korrekturbedienfeld anzuzeigen .
@@ -2507,10 +2507,10 @@ Passen Sie einen Pinsel aus .
 Der Unterschied besteht darin , dass Redaktionsmasken Codes sind Texteinträge , die Sie speichern , exportieren und importieren können .
 Wenn Sie Formen subtrahieren , werden Objekte in der Vorderseite gelöscht .
 Die Grafik wird dann korrekt im Composite-Modus drucken und korrekt auf dem Bildschirm angezeigt werden , wenn die Option " Überdruckenvorschau " aktiviert ist ( wählen Sie " Ansicht " " Überdruckenvorschau " ) .
-Einige Variablen , wie z . B . " Laufende Kopfzeile " und " Kapitelnummer " sind besonders für das Hinzufügen von Masterseiten , um konsistente Formatierung und Nummerierung sicherzustellen .
+Einige Variablen , wie z. B. " Laufende Kopfzeile " und " Kapitelnummer " sind besonders für das Hinzufügen von Masterseiten , um konsistente Formatierung und Nummerierung sicherzustellen .
 " Interaktiv malen " ist eine intuitive Möglichkeit zum Erstellen von farbigen Zeichnungen .
-* * Betrag in " Bearbeiten " " Voreinstellungen " > " Einheiten und Einteilungen " ( Windows ) bzw . " InDesign " > " Voreinstellungen " > " Einheiten und Einteilungen " ( Mac OS ) eingestellt ist .
-Um mehrere Werkzeuge für die Lupenansicht im Vorschau-Bedienfeld synchronisieren , klicken Sie bei gedrückter Strg-Taste oder halten Sie die Strg-Taste ( Windows ) bzw. bei gedrückter Befehlstaste bzw . Befehlstaste ( Mac OS ) auf eines der Bilder .
+* * Betrag in " Bearbeiten " " Voreinstellungen " > " Einheiten und Einteilungen " ( Windows ) bzw. " InDesign " > " Voreinstellungen " > " Einheiten und Einteilungen " ( Mac OS ) eingestellt ist .
+Um mehrere Werkzeuge für die Lupenansicht im Vorschau-Bedienfeld synchronisieren , klicken Sie bei gedrückter Strg-Taste oder halten Sie die Strg-Taste ( Windows ) bzw. bei gedrückter Befehlstaste bzw. Befehlstaste ( Mac OS ) auf eines der Bilder .
 Wählen Sie ein oder mehrere Objekte auf der Zeichenfläche aus und wählen Sie " Objekt " " Slice " > " Erstellen . "
 Weitere Informationen finden Sie unter Hinzufügen von Anmerkungen und Nachverfolgen von Änderungen in InDesign .
 Bühne Skalierungsverhalten für den Vollbildmodus ist die gleiche wie bei normaler Modus ; die Skalierung ist durch die scaleMode-Eigenschaft der Stage-Klasse gesteuert .
@@ -2559,7 +2559,7 @@ In Contribute können Sie die neue Seite erstellen und sie zu verknüpfen , bevo
 Wählen Sie im Dialogfeld " Voreinstellungen " können Sie die folgenden Aufgaben durchführen :
 Einige Filter funktionieren nur in RGB-Bildern .
 Die Ebene muss nicht im Ebenenbedienfeld aufgelistet werden , da alle Statusänderungen automatisch verarbeitet werden .
-Dynamische Textfelder dynamisch aktualisierten Text anzuzeigen , wie z . B . Börsenkurse oder Wetterberichte abrufen .
+Dynamische Textfelder dynamisch aktualisierten Text anzuzeigen , wie z. B. Börsenkurse oder Wetterberichte abrufen .
 Schaltet hängende Interpunktion , ohne dass ausgefransten Linien in der Begrenzungsbox Kante .
 Wenn ein Projekt geöffnet ist und Sie ein anderes Projekt öffnen oder erstellen , wird automatisch das erste Projekt gespeichert und geschlossen .
 ( Erfordert einen 64-Bit-Computer mit einer 64-Bit-Version von Microsoft Windows Vista ® ) .
@@ -2571,7 +2571,7 @@ Adobe Illustrator zeigt jetzt nur die maskierten Bereichs , während Sie ein mas
 Ziehen Sie den Zeiger über mehrere Augen Symbole , um mehrere Elemente auszublenden .
 Wenn Sie ein Objekt in einer einzigen Dimension zu skalieren , können Sie mit drei Segmente anstelle von neun .
 Wählen Sie den Reparatur-Pinsel .
-Wählen Sie ein komplexes Formular kann , z . B. die Beschriftungen für alle Felder in einer einzelnen Zeile ausgeführt werden .
+Wählen Sie ein komplexes Formular kann , z. B. die Beschriftungen für alle Felder in einer einzelnen Zeile ausgeführt werden .
 Erstellen Sie ein Banner in GIF , 12.000 oder zu verkleinern .
 Um eine benutzerdefinierte Benutzereinstellung einzugeben , wählen Sie " Anpassen . "
 Doppelklicken Sie auf den Namen des Segments in der Webebene , geben Sie einen neuen Namen ein , und drücken Sie die Eingabetaste .
@@ -2620,12 +2620,12 @@ Zusätzlich zu den Schriftarten auf Ihrem System installiert ist , können Sie a
 Geben Sie eine Datei aus , und klicken Sie dann auf " Zusammenfassen . "
 Wenn diese Option nicht verfügbar ist , wird das Bild mit einem Beschneidungspfad oder das Dateiformat nicht unterstützt Farbverlaufsunterteilungen war nicht gespeichert .
 Neben dem Anpassen der Winkel von einem verwandten perspektivischen Ebene , können Sie die Ebene mit dem Ebene-bearbeiten-Werkzeug skalieren .
-Sie können eine Vorschau auf die OpenType Funktionen , wie z . B. kontextabhängige Alternativen , Ligaturen und Glyphen in Photoshop nicht , bevor Sie sie anwenden .
+Sie können eine Vorschau auf die OpenType Funktionen , wie z. B. kontextabhängige Alternativen , Ligaturen und Glyphen in Photoshop nicht , bevor Sie sie anwenden .
 Dieses Kontrollkästchen ist aktiviert , wenn Sie Text in Ihrem Dokument auszuwählen .
 Wenn Sie den Bereich der Suche nicht mit der Abfrage gespeichert .
 Attribute durch verschachtelte Zeilenformat angewendet , indem Sie verschachtelte Formate können gleichzeitig mit Attributen angewendet werden .
 Wählen Sie " Steuerung " " Film testen , " um die SWF-Datei auszuführen und das Video zu starten .
-n . System , das die Flash-Anwendung enthält , wie z . B. einem Browser oder in der Desktopanwendung .
+n. System , das die Flash-Anwendung enthält , wie z. B. einem Browser oder in der Desktopanwendung .
 Wählen Sie ein Objekt aus , das Sie kippen möchten .
 Anschließend können Sie einen standardmäßigen alternativen Text für diese Objekte festzulegen .
 Muster laden , um eine Bibliothek , um die aktuelle Liste hinzuzufügen .
@@ -2684,7 +2684,7 @@ Deinterlaces die beiden Felder in jedem Videoframe interlaced .
 Sie können verschiedene Arten von Textdateien , einschließlich Microsoft Word- , RTF- und TXT-Dateien direkt in InCopy öffnen .
 Zum Importieren von Text aus Adobe Photoshop oder Adobe Illustrator ® , einer Photoshop- oder Illustrator-Datei , oder kopieren Sie den Text in Fireworks importieren .
 Gibt die Größe der Zeichenfläche an .
-n . Hiermit können Sie Interaktivität hinzufügen , um die Medienelemente in Ihrem Dokument .
+n. Hiermit können Sie Interaktivität hinzufügen , um die Medienelemente in Ihrem Dokument .
 Bei anderen Dokumenten der Zeitleiste den Fokus erhält .
 Die Rückseiten sind sichtbar , wenn das Objekt transparent ist , oder wenn das Objekt und dann auseinander gezogen wird .
 Öffnen Sie den PDF-Anhang in der Genehmigung Einladung E-Mail-Nachricht .
@@ -2720,7 +2720,7 @@ Wenn Sie ein verknüpftes Medien-Clip verschieben , nachdem er dem Dokument hinz
 Sie sollten bedenken beim Anwenden von Namespaces die folgenden Schritte aus :
 Wählen Sie ein bildschirmbasiertes Dokument einbinden möchten , können Sie die Elemente in das aktuelle Dokument oder die aktuelle Bildschirmanzeige suchen und ersetzen . Sie können jedoch keine Szenen verwenden .
 Wenn Sie dann eine SoundComplete Ereignis ausgelöst wird .
-Legen Sie im Abschnitt " Abwechselnd " die Kontur- bzw . Flächenoptionen für das erste und das nachfolgende Muster angeben .
+Legen Sie im Abschnitt " Abwechselnd " die Kontur- bzw. Flächenoptionen für das erste und das nachfolgende Muster angeben .
 Contribute erstellt eine Verbindung mit dem Blogserver , und die Homepage des Blogeintrags wird im Contribute-Browser angezeigt .
 Klicken Sie dann mit dem Text-Werkzeug in den Rahmen und mit der Eingabe beginnen .
 Um einen Ordner oder eine Festplatte aus der Liste der Lieblingsseiten , klicken Sie mit der rechten Maustaste auf das Element , und wählen Sie " [ Ordnername ] " Aus Lieblingsseiten entfernen .
@@ -2807,7 +2807,7 @@ Wählen Sie die Option zum Starten der Video wiedergegeben wird , wenn die Seite
 Die von Ihnen festgelegte Farbe wird zur Darstellung registration-colored Objekte auf dem Bildschirm verwendet werden .
 Mit diesem Code wird beispielsweise einen Geschliffen-Filter und ein Glühen-Filter auf die zuvor erstellte Anzeigeobjekt angewendet werden :
 Verwenden Sie Tastaturbefehle füllen .
-Andere Ereignisse kann Objekte , die sich nicht in der Anzeigeliste befindet , wie z . B . Ereignisse , um eine Instanz der Socket-Klasse ausgelöst .
+Andere Ereignisse kann Objekte , die sich nicht in der Anzeigeliste befindet , wie z. B. Ereignisse , um eine Instanz der Socket-Klasse ausgelöst .
 Dynamisches Laden bezieht sich auf das Laden einer SWF-Datei mit dem Loader.loadBytes ( ) -Methode .
 UI-Komponenten mit einer zugeordneten Komponenteninspektor .
 Portrays ein Bild , als ob sie von ungefähr ausgeschnittenen Teilen von Buntpapier vorgenommen wurden .
@@ -2848,7 +2848,7 @@ Weitere Informationen zum Anordnen der Stapelreihenfolge der ausgewählten Objek
 Bestimmt , wie die Datei angezeigt wird .
 Klicken Sie auf die Registerkarte Layer , um das Bedienfeld " Ebenen " in den Vordergrund bringen , oder wenn das Fenster nicht geöffnet ist , wählen Sie " Fenster " " Ebenen . "
 Wenn Flash Player gestartet wird , liest das Programm die Sicherheitseinstellungen aus dieser Datei und verwendet diese Funktionen zu beschränken .
-Um zwischen den Einheiten umzuschalten , klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf die aktuelle Zeitanzeige in der linken oberen Ecke der Zeitleiste .
+Um zwischen den Einheiten umzuschalten , klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf die aktuelle Zeitanzeige in der linken oberen Ecke der Zeitleiste .
 Speichern Sie das PDF-Dokument , um sicherzustellen , dass die zuletzt hinzugefügten Kommentare einbezogen werden .
 Geben Sie einen Wert in Pixel oder ziehen Sie den Schieberegler .
 Höhere Videoqualität führt auch zu einer größeren Datei .
@@ -2860,7 +2860,7 @@ Geben Sie die maximale Anzahl der Bindestriche , die in aufeinander folgenden Ze
 Wenn Sie ein InDesign-Dokument in das XFL-Format exportieren , werden die einzelnen Seiten oder Druckbögen zu einem separaten Clip .
 Dateien , die außerhalb der AIR-Anwendungs-Sandbox befinden , sind jedoch nicht zulässig , um die AIR-Datei Cross-Scripting ) .
 Optionen für " Kontur " und " Fläche " nicht automatisch die Farben im Bedienfeld " Werkzeuge " ändern .
-So können Sie z . B. die Anfangsfarbe auf 100 % Deckkraft und die Füllung schrittweise in eine letzte Angleichungsfarbe mit 50 % Deckkraft .
+So können Sie z. B. die Anfangsfarbe auf 100 % Deckkraft und die Füllung schrittweise in eine letzte Angleichungsfarbe mit 50 % Deckkraft .
 Sie können eine Visio-Zeichnung mit Ebenen zu einem PDF-Dokument und behalten einige oder alle Ebenen in der endgültigen PDF-Datei konvertieren , oder Sie können die Ebenen reduzieren .
 Exportiert Text auf einem Pfad als Element .
 Die nicht zu einem runden Join anwenden .
@@ -2965,7 +2965,7 @@ Wählen Sie dann Abflachen aus dem Menü des Ebenenbedienfelds die Option " Bild
 Wenn Sie Kommentare exportieren möchten , erstellen Sie eine FDF-Datei ( Forms Data Format ) , die nur Kommentare enthält .
 " Fluchtpunkt " können Sie die Ebene des Seitenverhältnisses berechnen .
 Das Element ist numerisch oder alphabetisch , je nach dem von Ihnen ausgewählten Stil beschriftet .
-Formate automatisch Brüche ; Zahlen durch einen Schrägstrich getrennt werden ( z . B . 1 / 2 ) , um einen shilling Bruch konvertiert werden ( z . B . ) .
+Formate automatisch Brüche ; Zahlen durch einen Schrägstrich getrennt werden ( z. B. 1 / 2 ) , um einen shilling Bruch konvertiert werden ( z. B. ) .
 Wählen Sie ein Seitenelement im Dokument .
 Kopieren Sie die Auswahl in Photoshop und fügen Sie sie in Illustrator .
 Hinzufügen von Code für Objekte auf der Bühne wird nicht empfohlen .
@@ -2994,7 +2994,7 @@ Spot Farbkanäle zusätzliche Platten für das Drucken mit Volltonfarben angeben
 Ordnen Sie Ihren Code auf diese Weise , damit sie gut organisiert und das Risiko des Codes überschrieben werden .
 Manchmal sehen Sie Nachrichten mit Warnungen oder Eingabeaufforderungen ausgegeben .
 Die Symbolleiste sucht die aktuell geöffnete PDF-Datei suchen .
-n . Pin mehrere Skripten aus verschiedenen Objekten und im Bedienfeld " Aktionen " gleichzeitig mit ihnen arbeiten .
+n. Pin mehrere Skripten aus verschiedenen Objekten und im Bedienfeld " Aktionen " gleichzeitig mit ihnen arbeiten .
 Wählen Sie ein Zeichenwerkzeug aus und legen Sie die Optionen tool-specific ( siehe Shape Werkzeugoptionen ) .
 Wählen Sie " Verknüpfen mit " Externe Video-Datei aus , und klicken Sie auf " Weiter . "
 Wählen Sie den Befehl erneut , um die Auswahl anzuzeigen .
@@ -3031,7 +3031,7 @@ Der Standard für Film ist 24 fps .
 Klicken Sie auf " Fertig " ( Windows ) oder " Fertig stellen " ( Mac OS ) , um die Verbindung herzustellen .
 Alternativ können sie vollständig in einer Sitzung erstellt werden .
 Wählen Sie , was Sie transformieren möchten .
-Um den Pfad geöffnet zu lassen , klicken Sie bei gedrückter Strg-Taste ( Windows ) bzw . Befehlstaste ( Mac OS ) auf eine beliebige Stelle außerhalb der Objekte .
+Um den Pfad geöffnet zu lassen , klicken Sie bei gedrückter Strg-Taste ( Windows ) bzw. Befehlstaste ( Mac OS ) auf eine beliebige Stelle außerhalb der Objekte .
 Dies führt dazu , dass sich das Wort möglicherweise nicht , wo Sie es erwarten .
 Legen Sie die Zoom-Steuerung bis 400 % , um das Bild zu vergrößern .
 Standardmäßig werden HTML-Kommentare nicht in den Code enthalten .
@@ -3077,7 +3077,7 @@ Wählen Sie die Vorgabe aus , und klicken Sie auf " Bearbeiten " oder " Löschen
 Beim Drucken können Sie den Standardspeicherort für Beschnittzugabemarken überschreiben , die in den Bereich zugeschnitten und Slug des Bereichs Marken und zugeschnitten .
 Neben den Mustern können Sie einen regulären Ausdruck Flags enthalten , die angeben , wie der reguläre Ausdruck abgeglichen werden soll .
 Dreht den Objektfang und legt fest , ob Punkte , Bogen , Kanten , Silhouettenkanten oder Flächen gefangen werden .
-Wenn Sie z . B . Koreanisch auswählen , werden die folgenden Unicode Zeichenbereiche eingebettet werden :
+Wenn Sie z. B. Koreanisch auswählen , werden die folgenden Unicode Zeichenbereiche eingebettet werden :
 Wenn Sie Korrekturen durchführen , die vor und nach Farbwerten im Bedienfeld " Info " anzuzeigen .
 Die Reihenfolge der Elemente ist nützlich , wenn Sie die PDF-Datei in Acrobat als HTML- oder XML-Datei gespeichert wird .
 Einblenden zugreifbares Member Variablen Variablen angezeigt , die nicht mit anderen Klassen oder Namespaces zugänglich .
@@ -3090,7 +3090,7 @@ Zusammenfassen von Kommentaren ist eine bequeme Möglichkeit , um eine Übersich
 Mit diesem Code überwacht die Rückrufmethode onMetaData und ruft die metaDataHandler ( ) -Methode , die eine Zeichenfolge verfolgt .
 Platzieren Sie die Einfügemarke im Entwurf an die Stelle , an der Sie das HTML-Codefragment einfügen möchten .
 Acrobat unterstützt Seitenübergänge und Aufzählungszeichen Flyins aus PowerPoint .
-Wenn Sie einen Teil eines Objekts ( z . B. einen Ankerpunkt ) , wird die gesamte Gruppe .
+Wenn Sie einen Teil eines Objekts ( z. B. einen Ankerpunkt ) , wird die gesamte Gruppe .
 Um sicherzustellen , dass das Wasserzeichen eingebettet wurde , führen Sie den Filter Wasserzeichen lesen .
 Weitere Strichzählung , wird jedes Zeichen durch ( 1 ) Kontur zählen , ( 2 ) ersten Strich und ( 3 ) zweiten Strich sortiert .
 Diese Option wird nur angezeigt , wenn ein Textrahmen ausgewählt ist oder eine Einfügemarke platziert wird .
@@ -3177,7 +3177,7 @@ Verwenden Sie die FLVPlayback-Komponente .
 Schließlich wird das Bild mit Blau " gleich + 100 % und der andere gleich 0 % anzuzeigen .
 Passen Sie die Randoption aus , um festzulegen , wie Sie alle resultierenden leeren Bildkanten handhaben möchten .
 Photoshop PDF-Dateien können nur ein einzelnes Bild enthalten .
-Bestimmen Sie , welche Transparenzeinstellungen Farbräumen erforderlich ist und ob Elemente wie z . B . CMY Platten , Farbräume und Überdrucken zulässig sind .
+Bestimmen Sie , welche Transparenzeinstellungen Farbräumen erforderlich ist und ob Elemente wie z. B. CMY Platten , Farbräume und Überdrucken zulässig sind .
 Bestimmt die Ähnlichkeit oder die Differenz der Pixel ausgewählt .
 Run-time Fehler ist schwieriger zu erkennen , da für den fehlerhaften Code auftreten , muss tatsächlich ausgeführt werden .
 Um den Inhalt einer Datei zu erhalten , speichern Sie die Datei im Photoshop-Format oder ein anderes unterstütztes Bildformat .
@@ -3223,8 +3223,8 @@ Wählen Sie " Bearbeiten " " Skalierung unter Berücksichtigung des Inhalts .
 Benutzerdefinierte Zellrenderer für eine Wiedergabe-Schaltfläche in einer Rasterzelle ( nur Flash ) .
 Es wird eine Seite mit drei Frames - Navigation , Logo und Hauptinhalt - tatsächlich über vier Dateien : das Frameset und drei Webseiten , eine für jeden Frame .
 Geben Sie einen Dateinamen und einen Speicherort für die PDF-Datei ein , und klicken Sie auf " Speichern . "
-Beispielsweise enthält ActionScript 3.0 globale Funktionen , wie z . B. isNaN ( ) und parseInt ( ) , die an einer beliebigen Stelle in Ihrem Code verfügbar sind .
-Wenn Sie z . B. die Eigenschaft auf 1 ( Spur = = 1 ) , wird die FLVPlaybackCaptioning-Komponente der Cue-Punktparameter zu suchen .
+Beispielsweise enthält ActionScript 3.0 globale Funktionen , wie z. B. isNaN ( ) und parseInt ( ) , die an einer beliebigen Stelle in Ihrem Code verfügbar sind .
+Wenn Sie z. B. die Eigenschaft auf 1 ( Spur = = 1 ) , wird die FLVPlaybackCaptioning-Komponente der Cue-Punktparameter zu suchen .
 Beispielsweise können Sie einen Rahmen auszuschließen , die das platzierte Bild umschließt .
 Die Breite und Höhe in Pixel für den Rahmen des QuickTime-Films an .
 Wenn Sie vorübergehend zu dem Auswahl-Werkzeug zu wechseln , wenn ein anderes Werkzeug aktiv ist , halten Sie die Strg-Taste ( Windows ) bzw. die Befehlstaste ( Macintosh ) .
@@ -3236,7 +3236,7 @@ Nehmen Sie die Pläne , um zu bestimmen , welche Datenfelder Sie in Ihrem Quell-
 Sie können mit denselben Tastaturbefehlen , die Sie in Contribute verwenden , während der Arbeit in den In-Browser-Editor .
 Wenn Sie Änderungen an den Quellinhalt speichern , werden die Änderungen in allen verknüpften Instanzen des Smart-Objekts in das Photoshop-Dokument angezeigt werden .
 Wenn Sie das nächste Mal auf die Konsole anmelden , wird die Website nicht auf der Liste .
-Sie können eine Ebene verschieben , um den Inhalt auf der Ebene positionieren , z . B . Gleiten einer Azetatfolie in einem Stapel .
+Sie können eine Ebene verschieben , um den Inhalt auf der Ebene positionieren , z. B. Gleiten einer Azetatfolie in einem Stapel .
 Photoshop umfasst mehrere optionale Plug-Ins , Erweiterungen und Vorgaben , die nicht mit Ihrer Anwendung installiert werden .
 Wenn Sie Seiten hinzufügen oder entfernen , bevor Sie einen Druckbogen , die Seiten in der Standardeinstellung mischen .
 Das erste Bild ist der Auf-Zustand , der für die Schaltfläche , wenn der Zeiger nicht über die Schaltfläche .
@@ -3315,7 +3315,7 @@ Mithilfe der Verbindungsassistent ( Windows oder Mac OS ) können Sie schnell un
 Mit dem Befehl " Einfügen " können Sie ein klassisches Tween kopieren und nur bestimmte Eigenschaften einzufügen , um auf ein anderes Objekt anzuwenden .
 Änderungen am Dokument werden im Fenster " Unterschriften " angezeigt .
 Dokumentautoren können die Integrität des Dokuments verbessern und sicherstellen , dass die Dokumente zertifiziert bleiben , indem Sie die folgenden Probleme , bevor sie PDFs zertifizieren :
-Bei 90 Grad , z . B. die Linien horizontal ; bei 180 ° ausführen , werden die Linien vertikal ausgeführt .
+Bei 90 Grad , z. B. die Linien horizontal ; bei 180 ° ausführen , werden die Linien vertikal ausgeführt .
 Es wird die Greetings2 Klasse in den folgenden Schritten definiert werden .
 Beachten Sie die folgenden grundlegenden Schritte beim Einrichten eines Druckers :
 Der Druckserviceanbieter können Sie auch auf die optimale Auflösung für Bilder .
@@ -3354,7 +3354,7 @@ Sie müssen sich in der Layoutansicht auf Stromverbrauch zoomen .
 Wenn Sie den Text skalieren möchten , passen Sie seine Punktgröße vor dem Konvertieren .
 Wenn Sie die Animation über mehrere Zustände als den aktuellen Film verfügt , können Sie festlegen , dass automatisch mehr Zustände hinzuzufügen .
 Geben Sie die Einstellungen im Bedienfeld " Optimieren " aus .
-Wenn Sie z . B. den CPS auf einem Server mit dem Namen cpsserver installiert ist , wird die Internetadresse https : / / cpsserver : 8900 / contribute .
+Wenn Sie z. B. den CPS auf einem Server mit dem Namen cpsserver installiert ist , wird die Internetadresse https : / / cpsserver : 8900 / contribute .
 Klicken Sie auf die Registerkarte " Beschreibung " aus , und geben Sie den Namen des Autors , das Thema und Stichwörter .
 Beim progressiven Herunterladen können Sie ActionScript verwenden , um externe FLV-Dateien in eine SWF-Datei laden und dann zur Laufzeit abzuspielen .
 Geben Sie Werte für die Attribute ein .
@@ -3447,7 +3447,7 @@ Geben Sie im Feld " Suchen nach " ein , oder fügen Sie den Text aus , den Sie s
 Wenn Sie mit dem Dokument zufrieden sind , wird die Paketerstellung erneut beginnen .
 Über Dreiecke Polygone sind .
 In ActionScript 3.0 wird die ältere Klassen - XMLDocument , XMLNode , XMLParser und XMLTag - im flash.xml-Paket hauptsächlich für die Legacy-Unterstützung einbezogen werden .
-Es ist nicht möglich , Formen von Schriftarten erstellen können , die keine Gliederungsdaten einzuschließen ( z . B . Bitmap-Schriftarten ) .
+Es ist nicht möglich , Formen von Schriftarten erstellen können , die keine Gliederungsdaten einzuschließen ( z. B. Bitmap-Schriftarten ) .
 Beim Entwickeln und Anwendungen ausgeführt werden , können Sie verschiedene Arten von Fehlern und terminologische Fehler auftreten .
 Wenn Sie das Hinzufügen von Farbfeldern abgeschlossen haben , klicken Sie auf " Fertig . "
 Hängende Einzüge sind besonders nützlich , wenn Sie eingebundene Grafiken am Anfang des Absatzes hinzufügen möchten .
@@ -3455,11 +3455,11 @@ Um ein Tabulatorzeichen in einer Tabelle einzufügen , wählen Sie " Schrift " "
 Die AlarmEvent Klasse , die hier angezeigt werden , erhalten Sie zusätzliche Informationen über die Alarmereignis , insbesondere die Meldung für den Weckalarm :
 Zeichnen Sie in das Bild .
 Zusätzlich zu den grundlegenden Sortierung für ein Array-Objekt verfügbar ist , können Sie auch eine benutzerdefinierte Sortierregel definieren .
-n . " Menü , das geöffnet wird , wenn Sie in der Codeansicht bestimmte Zeichenmuster eingeben .
+n. " Menü , das geöffnet wird , wenn Sie in der Codeansicht bestimmte Zeichenmuster eingeben .
 getChildIndex ( ) : Setzt die Indexposition eines Anzeigeobjekts .
 Wenn Sie die Plug-In-Software haben , die weitere Effekte hinzufügt , wird der Befehl " Eckenoptionen " im Konturbedienfeld können Sie zusätzliche Formen aufnehmen .
 Beispielsweise hat eine runde Schaltfläche mit einem quadratischen Hotspot .
-Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf die Elemente , die Sie löschen möchten .
+Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf die Elemente , die Sie löschen möchten .
 Verwenden Sie den standardmäßigen Blog Kategorie " Blogvorgaben " des Dialogfelds " Voreinstellungen " können Sie Optionen festlegen .
 Suchen und Ersetzen können Sie das aktuelle Dokument oder mehrere Dateien suchen .
 Entfernt schwarze Markierungen in schwarzweiße Seiteninhalte isoliert .
@@ -3515,9 +3515,9 @@ Wählt das Objekt am oberen Rand des Stapels .
 Um die Zielanwendung alphabetisch sortieren , klicken Sie auf die Bezeichnung " Name " oben im Fenster " Ziele " aus .
 Die slice ( ) -Methode funktioniert ähnlich wie die substring ( ) -Methode .
 Sie können eine Liste gängiger Zugriffspunkte in der Hilfe-Dokumentation anzuzeigen .
-Gibt den Bereich der Zellen aus , die mit einem Doppelpunkt ( : ) , um den Bereich festzulegen ( z . B . A1 : G15 ) .
+Gibt den Bereich der Zellen aus , die mit einem Doppelpunkt ( : ) , um den Bereich festzulegen ( z. B. A1 : G15 ) .
 Weisen Sie mehr Arbeitsspeicher in Photoshop .
-Sie können diese Option auch verwenden , um zu sehen , wo ein anderweitig transparente Volltonfarbe ( z . B. ein Lack ) wird angezeigt .
+Sie können diese Option auch verwenden , um zu sehen , wo ein anderweitig transparente Volltonfarbe ( z. B. ein Lack ) wird angezeigt .
 Um Ablaufverfolgungen im Hintergrund im extrahierten Bereich löschen , verwenden Sie das Werkzeug " Cleanup . "
 Der Eigenschafteninspektor kann in halber Höhe mit zwei Zeilen von Eigenschaften oder bei voller Höhe mit vier Zeilen geöffnet werden .
 Bei verknüpften Dateien , ersetzen Sie das Bild mit dem Verknüpfungenbedienfeld oder dem Befehl " Datei " " Platzieren . "
@@ -3565,7 +3565,7 @@ Sie können auch die Umschalttaste gedrückt halten , um Objekte in ein Vielfach
 " TextField " für das Hinzufügen von Text .
 Dieser Vorgang wird durch die parseBitmapData ( ) -Methode ausgeführt , die sich teilweise im Folgenden abgebildet :
 Klicken Sie mit der rechten Maustaste auf die Seite , und wählen Sie " Seite löschen " aus dem Popup-Menü aus .
-Die Farbe für die Glanzfarben-Eigenschaften ( z . B . Hervorhebung des Glanzlichtes und Glanzes ) angezeigt .
+Die Farbe für die Glanzfarben-Eigenschaften ( z. B. Hervorhebung des Glanzlichtes und Glanzes ) angezeigt .
 In der Regel enthält die HTML-Datei Verknüpfungen mit anderen Dateien , die entweder auf der Webseite angezeigt werden , oder bestimmen , wie sie dargestellt wird oder funktioniert .
 Wenn Sie die Installation auf Solaris-Systemen ™ , ersetzen Sie linux im Befehl solaris .
 tx = 0 ;
@@ -3597,7 +3597,7 @@ So erstellen Sie ein Skript in ColdFusion , um einen Datei-Upload von Flash Play
 Um Textzeilen vertikal zwischen dem oberen und unteren Rand des Rahmens gleichmäßig verteilen , wählen Sie " Blocksatz . "
 Verwenden Sie Aufzählungen , um Informationen , jedoch nicht in einer bestimmten Reihenfolge organisieren .
 Gibt den Abstand von der Mitte oder Kante der Auswahl , wo alle Weichzeichnen erfolgen soll .
-Um um die entgegengesetzte Ecke zu drehen , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Macintosh ) .
+Um um die entgegengesetzte Ecke zu drehen , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Macintosh ) .
 Wählen Sie das Zeichenformat aus der Dropdown-Liste im Steuerungsbedienfeld .
 Erweitern Sie die Webebene , indem Sie auf das Dreieck .
 else if -Anweisungen , ist jedoch leichter lesbar .
@@ -3623,7 +3623,7 @@ Verwenden Sie die aktuellen Einstellungen veröffentlichen , erstellt eine Datei
 Legen Sie die Auflösung und die Leinwandfarbe aus , und klicken Sie auf " OK . "
 Wählen Sie " Vergrößern " oder eine voreingestellte Vergrößerung aus dem Menü " Ansicht . "
 Wenn Sie den Tastaturbefehl für das Makro zuweisen , wird der vorherige Tastaturkurzbefehl für die Funktion überschrieben .
-Sie können auch Zertifikate aus einem Zertifikatspeicher , z . B. dem Windows-Zertifikatspeicher zu importieren .
+Sie können auch Zertifikate aus einem Zertifikatspeicher , z. B. dem Windows-Zertifikatspeicher zu importieren .
 Um festzulegen , wie Sie den Fluss der Pinselspuren steuern möchten , wählen Sie eine Option aus der Dropdown-Liste " Steuerung " :
 Tweenable Symboltypen Movieclips , Schaltflächen , Grafiken und Text enthalten .
 Mit der Klasse mithilfe der folgenden Anweisung importieren :
@@ -3673,7 +3673,7 @@ Wählen Sie " Filter " " Rauschen " > " Medianfilter . "
 Zeigt einen Punkt in der Mitte der Zeichenfläche .
 Sie können eine IDPP-Datei laden , oder Sie können das eingebettete Profil im Dokument geladen werden soll .
 Eine Tween-Ebene kann nur Tween-Folgen ( benachbarte Gruppen von Bildern , die ein Tween ) , statische Bilder , leere Schlüsselbilder oder leere Frames enthalten .
-Andere Methoden , z . B. play ( ) und stop ( ) sind selbsterklärend , sodass sie keine zusätzlichen Informationen erforderlich sind .
+Andere Methoden , z. B. play ( ) und stop ( ) sind selbsterklärend , sodass sie keine zusätzlichen Informationen erforderlich sind .
 Wenn " Nur Namen " ausgewählt ist , wird die Formatvorlage leere Stile enthält .
 Wählen Sie im Adobe-Farbwähler Werte für L ( von 0 bis 100 ) und für A und B ( zwischen ‑ 128 bis + 127 ) eingeben .
 Zeigt Teile , die nicht Teil des Querschnitts sind .
@@ -3722,7 +3722,7 @@ Gibt das oberste Frame im aktuellen Fenster .
 Wenn Sie eine Tabelle erstellen , wird die neue Tabelle füllt die Breite des Containers Textrahmen .
 Weitere Informationen finden Sie unter Hinzufügen von Ebenenmasken .
 Wählen Sie die Ebene aus , die Sie trennen möchten und führen Sie einen der folgenden Schritte aus :
-Sie können die meisten Bildformate von Zeichnungs- und Bildbearbeitungsanwendungen , wie z . B . Adobe Photoshop und Adobe Illustrator kopieren .
+Sie können die meisten Bildformate von Zeichnungs- und Bildbearbeitungsanwendungen , wie z. B. Adobe Photoshop und Adobe Illustrator kopieren .
 Passungenauigkeiten verhindern , indem Sie sicherstellen , dass aneinander angrenzende Prozessfarben gängige Druckfarben aufweisen .
 Wenn Sie myObject als Schlüssel in ein Dictionary-Objekt verwenden , erstellen Sie einen weiteren Verweis auf das ursprüngliche Objekt .
 Wenn Sie QuickTime 4 oder höher auf Ihrem System installiert haben , können Sie diese zusätzlichen Dateiformate importieren :
@@ -3775,8 +3775,8 @@ Beachten Sie die folgenden Punkte beim Einsatz von zusammengesetzten Formen mit 
 Wenn Sie nicht möchten , dass das Bild abgedunkelt werden , indem Sie die Farbe filtern möchten , stellen Sie sicher , dass die Option " Luminanz beibehalten " aktiviert ist .
 Erstellen Sie eine Messskala .
 Sie können eine oder mehrere PDF-Dokumente in verschiedenen Dateiformaten speichern und dann diese Dateien in anderen Anwendungen öffnen und verwenden .
-Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf das Symbol " Löschen " .
-n . Geschrieben Codefragmente , die Sie hinzufügen können , um Teile einer FLA-Datei .
+Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf das Symbol " Löschen " .
+n. Geschrieben Codefragmente , die Sie hinzufügen können , um Teile einer FLA-Datei .
 ( Optional ) Wählen Sie den Pfad an die aktuellen Ankerpunkte anzuzeigen .
 Wählen Sie dann " Objekt " " Anordnen " > " In Aktuelle Ebene .
 Darüber hinaus können Sie den Zeiger über die Volltonfarbe im Farbfeldbedienfeld .
@@ -3791,7 +3791,7 @@ PrintJob.send ( ) : Sendet die Seiten an den Drucker des Betriebssystems .
 Kopiert die Pixel in der Breite des Pinsels .
 Video-Lehrgänge zum Arbeiten mit Dateien finden Sie in den folgenden Abschnitten :
 Sie können Keyframes und Eigenschaftenschlüsselbilder in der Zeitleiste anordnen , um die Abfolge der Ereignisse in Ihrem Dokument und die Animation bearbeiten .
-Wenn Sie Zeichen auswählen , können Sie auch ein Zeichen eingeben , wie z . B. einen Doppelpunkt oder einen Punkt , um das verschachtelte Format enden .
+Wenn Sie Zeichen auswählen , können Sie auch ein Zeichen eingeben , wie z. B. einen Doppelpunkt oder einen Punkt , um das verschachtelte Format enden .
 Nachdem Sie den Text bearbeiten , wird die zwischengespeicherte Bild mit tatsächlichem Text ersetzt .
 Klicken Sie auf die Schaltfläche " Kommentare " im Navigationsfenster .
 So öffnen Sie die FDF-Datei , doppelklicken Sie darauf , oder führen Sie einen der folgenden Schritte aus :
@@ -3846,11 +3846,11 @@ Geben Sie ein Kennwort zum Öffnen der Datei durch nicht autorisierte Benutzer o
 Volltonfarben sind speziell vorgemischte Druckfarben anstelle von oder zusätzlich zu den Prozessfarben ( CMYK ) Druckfarben verwendet .
 Eine ActionScript-Klasse , die Daten von einer Remote-URL abruft .
 Wenn Sie Abschnitte hinzufügen oder entfernen möchten , ziehen Sie die Abschnitte Steuerpunkt .
-InDesign umfasst mehrere vordefinierte Variablen , wie z . B . " Erstellungsdatum " und " Dateiname " ein .
+InDesign umfasst mehrere vordefinierte Variablen , wie z. B. " Erstellungsdatum " und " Dateiname " ein .
 Die Entwurfskonsole ist nicht verfügbar , wenn Sie eine Website-Verbindung mit einem Administrator zugewiesen haben .
 Siehe Farbe anwenden .
 Sie können das Gesamtlayout der Toolbox ändern , um Ihre bevorzugten Fenster einpassen und Schaltschrank-Aufbau .
-In einer Ausgangsanwendung wie z . B . Adobe InDesign , wählen Sie " Datei " " Seiteneinrichtung " aus .
+In einer Ausgangsanwendung wie z. B. Adobe InDesign , wählen Sie " Datei " " Seiteneinrichtung " aus .
 Die Syntax des Mitarbeiters .
 Die Keyframes bleiben nach dem Einfügen ausgewählt , sodass Sie sie sofort in der Zeitleiste verschieben .
 Anschließend wird diese Datei für alle Projekte festzulegen .
@@ -3897,7 +3897,7 @@ Globale Transformationen und Versetzungen sind in Bezug auf die Bühne .
 Wählen Sie eine Option aus dem Menü " Sortieren nach " in der Kommentarliste .
 Wählen Sie Importoptionen , wenn Sie auf die Option " Importoptionen anzeigen " aus .
 Wählen Sie aus dem Kontextmenü in Soundbooth bearbeiten .
-Ein geladenes Dokument einen Instanznamen nicht erforderlich , da Sie die Ebenennummer als Instanznamen verwenden ( z . B . _ level5 ) .
+Ein geladenes Dokument einen Instanznamen nicht erforderlich , da Sie die Ebenennummer als Instanznamen verwenden ( z. B. _ level5 ) .
 So erstellen Sie ein umkehren , können Sie den Text ändern , die Füllfarbe Weiß oder [ Papier ] und die Füllfarbe des Rahmens in eine dunkle Farbe .
 Die CD-Wiedergabe bewerten .
 Wählen Sie als Dateiformat Illustrator EPS ( * .EPS ) , und klicken Sie auf " Speichern . "
@@ -3911,7 +3911,7 @@ Die Elemente werden nicht dauerhaft aus dem Dokument entfernt , bis Sie sie spei
 Samples kontinuierlich Pixel , ohne dass sich dies auf die aktuelle Aufnahmepunkt , selbst wenn Sie die Maustaste loslassen .
 Führen Sie einen der folgenden Schritte aus , um die Seite oder Datei :
 Sie können bis zu vier Volltonfarben verwenden , eine pro Platte .
-Hier können Sie Contribute mit Benutzerverzeichnisdiensten , wie z . B . Lightweight Directory Access Protocol ( LDAP ) oder Active Directory integrieren .
+Hier können Sie Contribute mit Benutzerverzeichnisdiensten , wie z. B. Lightweight Directory Access Protocol ( LDAP ) oder Active Directory integrieren .
 Zuordnungs- und ihre Komponenten werden im Aufgabenbedienfeld aufgeführt und in InCopy geöffnet werden .
 Stellen Sie sicher , dass das Dokument mindestens drei Seiten enthält und die Option " Doppelseite " aktiviert ist .
 ASCII : Ein System für die Darstellung von Textzeichen und Symbole in Computerprogrammen .
@@ -3939,7 +3939,7 @@ Flächen mit einer dicken Linie markiert sind , und die Kanten werden mit einer 
 Dies bedeutet , dass in einigen Fällen kann zu unerwarteten Werten führen , wenn Sie den Bereich eines Typs überschritten wird .
 Wenn Sie Benutzerdefiniert wählen , klicken Sie auf das Farbfeld , wählen Sie eine Farbe aus und klicken Sie auf " OK . "
 " Dieses Dokument ist nicht strukturiert , sodass die Leserichtung möglicherweise nicht korrekt .
-Photoshop unterstützt auch weitere Formate , wie z . B . Avid AVR Codecs . Es wird jedoch die erforderliche QuickTime Codecs installiert werden müssen .
+Photoshop unterstützt auch weitere Formate , wie z. B. Avid AVR Codecs . Es wird jedoch die erforderliche QuickTime Codecs installiert werden müssen .
 Verwenden Sie zum Hinzufügen von SWF-Dateien für Animationen und Hintergründe für das 3D-Modell .
 In diesem Beispiel wird die Fortschrittsleiste des Ereignisses .
 Wählen Sie auf einer Webseite , Verknüpfungen werden in der Regel durch die Farbe aus dem umgebenden Text unterstrichen und differenziert .
@@ -3995,7 +3995,7 @@ Klicken Sie auf das Farbfeld der Druckfarbe , die Sie anpassen möchten .
 Dieses Objekt wird das Zielobjekt des Tween-Bereichs aufgerufen .
 Beispielsweise können Sie Farben ändern , ein Firmenlogo und Kontaktinformationen hinzufügen , verschieben Sie die Formularfelder und Feldeigenschaften ändern .
 Sie können den Inhaber für einen Entwurf ändern , die zur Überprüfung gesendet wurde , und Sie können auch einen beliebigen Entwurf aus dem Entwurfsüberprüfungsprozess zu entfernen .
-( Optional ) Legt fest , welche Art des Menüs angezeigt wird , wenn der Benutzer mit der rechten Maustaste ( Windows ) bzw . Command-clicks ( Macintosh ) auf das Anwendungsgebiet im Browser .
+( Optional ) Legt fest , welche Art des Menüs angezeigt wird , wenn der Benutzer mit der rechten Maustaste ( Windows ) bzw. Command-clicks ( Macintosh ) auf das Anwendungsgebiet im Browser .
 Verwenden Sie für klare Druckfarben , um sicherzustellen , dass zugrunde liegende Objekte überfüllen .
 Aktivieren Sie " Alle Ebenen in der Optionsleiste , um Elemente mit Daten aus allen sichtbaren Ebenen .
 Wählen Sie " Schrift " " Glyphen " aus .
@@ -4022,7 +4022,7 @@ Um die Farbe der Rasterlinien zu ändern , klicken Sie auf das Quadrat " Linienf
 Der Arbeitsbereich von Adobe Bridge besteht aus drei Spalten oder Fensterbereiche , die verschiedene Bedienfelder enthalten .
 Zeigt die Ebenen gemäß den Einstellungen exportieren " im Dialogfeld " Ebeneneigenschaften " ( Exportiert Wenn " Sichtbar , " " Nie Exportiert , Immer Exportiert ) .
 Wenn Sie ein Anzeigeobjekt anwenden möchten , lediglich eine Leinwand zum Zeichnen von Inhalten verwenden , können Sie eine Shape-Instanz verwenden .
-Im Gegensatz zu herkömmlichen Unterschriften , digitale Unterschriften können zusätzliche Informationen enthalten , z . B. das Datum und die Uhrzeit der Signatur und den Grund für die Unterschrift .
+Im Gegensatz zu herkömmlichen Unterschriften , digitale Unterschriften können zusätzliche Informationen enthalten , z. B. das Datum und die Uhrzeit der Signatur und den Grund für die Unterschrift .
 Wählen Sie einen oder mehrere Typen von Variablen :
 Gibt die Art des text-smoothing angewendet werden soll .
 Diese Option wandelt InDesign alle Seitenobjekte Bitmap .
@@ -4048,7 +4048,7 @@ Wenn Sie nur das Bildmaterial zuordnen , nicht auf die Geometrie eines 3D-Objekt
 Die folgende Tabelle enthält empfohlene Druckertreiber und Ausgabemethoden für die besten Ergebnisse mit Nachbearbeitungsanwendungen und InDesign .
 Wählen Sie im Zeichenbedienfeld , geben Sie einen numerischen Wert für Skewing .
 Nehmen Sie die gewünschten Änderungen vor , und klicken Sie auf " OK . "
-Wählen Sie die Tabulatortaste , Komma oder Absatz , oder geben Sie das Zeichen , wie z . B. ein Semikolon ( ; ) in das Feld " Zeilentrennzeichen " und " Zeilentrennzeichen " aus .
+Wählen Sie die Tabulatortaste , Komma oder Absatz , oder geben Sie das Zeichen , wie z. B. ein Semikolon ( ; ) in das Feld " Zeilentrennzeichen " und " Zeilentrennzeichen " aus .
 Pfad : Ein Pfad besteht aus einem oder mehreren gerade oder gekrümmte Segmente .
 Datumswerte werden intern in Millisekunden gespeichert , sodass Sie andere Werte in Millisekunden zu konvertieren , bevor Sie sie zum Hinzufügen oder Abziehen aus Date Objekte .
 Vergrößert oder verkleinert ein Objekt horizontal ( entlang der x-Achse ) und vertikal ( entlang der y-Achse ) .
@@ -4079,16 +4079,16 @@ Der DropShadowFilter ist das erste Element ( Index 0 ) im filters-Array initiali
 Bildschirmleseprogramme lesen nicht fett Überschriften in einer Zeile oder Spalte zentriert .
 Ersetzt Schriftarten im Dokument .
 Klicken Sie zwischen die Wörter oder Zeichen , an der Sie Text einfügen möchten .
-Wenden Sie eine 2D-Ebene um ein dreidimensionales Objekt , wie z . B. einen Kegel , Würfel oder Zylinder .
+Wenden Sie eine 2D-Ebene um ein dreidimensionales Objekt , wie z. B. einen Kegel , Würfel oder Zylinder .
 So definieren Sie , wie die Fireworks-HTML-Datei exportiert , die Sie im Dialogfeld " HTML-Einstellungen " verwenden .
 Geben Sie das neue Kennwort ein , und geben Sie dann das neue Kennwort erneut ein .
-Diese Sprachen sind nicht plattformübergreifend , jedoch können Sie mehrere Anwendungen , wie z . B . Adobe Photoshop , Adobe Illustrator und Microsoft Office steuern .
+Diese Sprachen sind nicht plattformübergreifend , jedoch können Sie mehrere Anwendungen , wie z. B. Adobe Photoshop , Adobe Illustrator und Microsoft Office steuern .
 Wenn Sie eine Regel nicht angezeigt werden sollen , heben Sie die Auswahl auf .
 Wählen Sie " Interaktive Elemente " aus , damit Medienclips im PDF-Dokument wiedergegeben werden kann .
 Beispielsweise können Sie die ScrollBar Symbol wird automatisch in Flex Container-Ausfertigungen , wenn deren Inhalt gescrollt werden .
 Beachten Sie die Verteilung der Bilder entlang des Pfads .
 Klicken Sie auf Schließen , wenn die Indizierung abgeschlossen ist .
-Hier können Sie einen Querverweis auf den ersten Teil eines Absatzes erstellen , bis zu dem angegebenen Trennzeichen , wie z . B. ein Doppelpunkt oder Geviertstrich .
+Hier können Sie einen Querverweis auf den ersten Teil eines Absatzes erstellen , bis zu dem angegebenen Trennzeichen , wie z. B. ein Doppelpunkt oder Geviertstrich .
 Dies behält die ursprüngliche Stapelreihenfolge aller Objekte auf der Bühne .
 So wählen Sie den Bereich , den Sie das Auswahlrechteck zu verschieben , wählen Sie " Ziel . "
 Alle Treiberabhängigkeiten werden entfernt .
@@ -4236,8 +4236,8 @@ Dies erzeugt einen leeren Film oder Sound Rahmen .
 Wenn ein Benutzer den Entwurf bearbeiten , wenn Sie Besitzer ändern oder den Auscheckvorgang rückgängig machen , werden die Änderungen des Benutzers verloren .
 Geben Sie Ihren Namen , Ihre E-Mail-Adresse und Kontaktinformationen .
 Drücken Sie die Nach-rechts- und Nach-links-Tasten , um die nächste und vorhergehende Bild im Ordner an .
-Die Seiten mit Frames entwerfen , die in einer HTML-Anwendung entwerfen , wie z . B . Adobe Dreamweaver .
-So heben Sie die Auswahl für alle Objekte auf jeder Ebene , wählen Sie " Bearbeiten " " Auswahl aufheben , " oder drücken Sie Strg + Umschalt + A ( Windows ) bzw . Befehl + Umschalt + A ( Macintosh ) .
+Die Seiten mit Frames entwerfen , die in einer HTML-Anwendung entwerfen , wie z. B. Adobe Dreamweaver .
+So heben Sie die Auswahl für alle Objekte auf jeder Ebene , wählen Sie " Bearbeiten " " Auswahl aufheben , " oder drücken Sie Strg + Umschalt + A ( Windows ) bzw. Befehl + Umschalt + A ( Macintosh ) .
 Bei 0 Grad beträgt , wird die Farbe nur auf die Oberfläche angewendet , wenn es sich direkt nach vorne zeigt , ohne Abfall Winkel .
 Alle Attribute im Dialogfeld " Drucken " in den Stil einbezogen werden .
 Wählen Sie einen Wert aus dem Popupmenü .
@@ -4260,7 +4260,7 @@ Klicken Sie auf Freigabe vorhanden , um den Inhalt im Dokument zu verlassen , kl
 Um die Ergebnisse des Codes in der SWF-Datei erstellt .
 Sie können mit der bedingten Kompilierung in ActionScript 3.0 auf die gleiche Weise , dass es in C + + und anderen Programmiersprachen verwendet werden .
 Geben Sie einen Wert in das Feld ganz rechts , oder verwenden Sie den Schieberegler " Maximum . "
-" Fluchtpunkt " vereinfacht perspective-correct bearbeiten , die Bilder mit perspektivischen Ebenen , z . B. die Seiten eines Gebäudes , Wände , Geschossdecken oder eines rechteckigen Objekts .
+" Fluchtpunkt " vereinfacht perspective-correct bearbeiten , die Bilder mit perspektivischen Ebenen , z. B. die Seiten eines Gebäudes , Wände , Geschossdecken oder eines rechteckigen Objekts .
 Mit dieser Option wird eine FLVPlayback-Komponente auf der Bühne platzieren .
 Weitere Informationen finden Sie unter Sicherheit .
 Außerdem wird eine Sprite-Instanz mit dem Namen der Textur .
@@ -4349,7 +4349,7 @@ Die Datei enthält zwei Parameter , monthNames und dayNames .
 Klicken Sie auf " Durchsuchen " , um das Bild angezeigt werden soll , wenn das Video , Sound oder interaktiven Inhalt nicht aktiviert ist .
 Das Standardverzeichnis , auf das Fireworks exportiert Dateien bestimmt wird , indem Sie die folgenden Schritte in der angegebenen Reihenfolge aus :
 Angenommen , doppelklicken Sie auf die TextArea-Komponente auf der Bühne , um die Elemente im Symbolbearbeitungsmodus geöffnet .
-Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf die Schaltfläche " Arbeitspfad erstellen " am unteren Rand des Pfadebedienfelds .
+Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf die Schaltfläche " Arbeitspfad erstellen " am unteren Rand des Pfadebedienfelds .
 Wählen Sie im Popupmenü " Exportieren " eine der folgenden Optionen aus :
 Sie können die Klasse , auf die dieser Bildschirm zugewiesen ist , und Sie können festlegen , dass einige Parameter für einen Bildschirm im Eigenschafteninspektor ändern .
 Wenn Sie einen Umschlag Richtlinie erstellt wurde , wählen Sie ihn aus oder klicken Sie auf " Neue Richtlinie , und befolgen Sie die Schritte aus , um eine Richtlinie zu erstellen .
@@ -4401,7 +4401,7 @@ Sie können das HTML-Dokument automatisch erstellen , wenn Sie eine SWF-Datei ve
 Legt fest , welche Abschnitte oder den Bereich des Glühen-Effekts für die Kontur eingesetzt werden soll .
 Wenn Sie Änderungen an Teile eines Bildes anwenden möchten , müssen Sie zunächst die Pixel , aus denen die Teile auszuwählen .
 Wählen Sie " Dokument " " Seiten " Zuschneiden . "
-Ein Drahtmodell mit Auswahlgriffe angezeigt , d. h . , Sie können die Größe und Form anzupassen .
+Ein Drahtmodell mit Auswahlgriffe angezeigt , d. h. , Sie können die Größe und Form anzupassen .
 Verwenden Sie Ebenen , um separate Elemente , die während der Animation von Elementen , die sich nicht ändern .
 Die Daten aus der RadioButton-Komponente in einer TextArea-Komponente angezeigt wird .
 Wählen Sie das Bild aus .
@@ -4464,7 +4464,7 @@ Wenn Sie Bildmaterial auf DXF- oder DWG-Format exportieren , können Sie die fol
 Sie können die Darstellung von Mustern in Popup-Bedienfeldern angezeigt werden , indem Sie eine Option aus dem Popup-Menü .
 boolescher Wert ; wenn der Wert true lautet , wird die Größe der Komponente zur Laufzeit , um die Quelle Videodimensionen verwenden .
 Wählen Sie das Objekt aus , und fügen Sie den Namen des Tastaturbefehls in das Bedienfeld " Eingabehilfen " , sodass das Bildschirmleseprogramm gelesen werden kann .
-Sie können z . B . Seiten , Kapitel oder Abschnitt Zahlen ; Titel oder Überschriftentext , den Namen des Autors und dem Dateinamen des Dokuments und des Erstellungs- bzw . Änderungsdatums einzubeziehen .
+Sie können z. B. Seiten , Kapitel oder Abschnitt Zahlen ; Titel oder Überschriftentext , den Namen des Autors und dem Dateinamen des Dokuments und des Erstellungs- bzw. Änderungsdatums einzubeziehen .
 Ziehen Sie den mittleren Bereich , um die gesamte Korrektur Schiebereglers verschieben ( einschließlich der Dreiecke und vertikale Leisten ) , um eine andere Farbe auszuwählen .
 Klicken Sie auf die Registerkarte " Optionen , " klicken Sie auf die Schaltfläche " Benutzerdefiniert " und geben Sie niedrigere Werte für " Fehlerkorrektur-Level " und " Y / X-Verhältnis .
 Klicken Sie auf den ersten Punkt , bewegen Sie den Zeiger auf den zweiten Punkt , und klicken Sie erneut .
@@ -4477,7 +4477,7 @@ Wählen Sie " Datei " " Importieren " und wählen Sie das Gerät aus dem Unterme
 Ziehen Sie den Tag an die gewünschte Position .
 Wenn Sie eine Vorgabe speichern , wenn diese Option ausgewählt ist , können Sie die gespeicherte Voreinstellung nur auf Dateien mit mehreren Zeichenflächen verwenden .
 Alle Druckertreiber verfügt über verschiedene Optionen für das Farbmanagement .
-n . Blöcke , die Sie zum Hinzufügen eines Rahmens auf einer Zeitleiste .
+n. Blöcke , die Sie zum Hinzufügen eines Rahmens auf einer Zeitleiste .
 Wiedergeben des Films in einem separaten Fenster .
 Bewirkt , dass Dateinamen kompatibel mit Windows , Mac OS und UNIX-Betriebssysteme .
 Wählen Sie ein tweenbares Objekt auf der Bühne .
@@ -4497,7 +4497,7 @@ Sie können mehrere Effekte gleichzeitig auswählen .
 Um alle Frames auszuwählen , wählen Sie " Alles auswählen " im Menü des Animationsbedienfelds die Option " Frames . "
 Die Anzahl und die Position von Bezier-Punkte beibehalten wird .
 Verborgene Ebenen und Objekte werden beim Exportieren eines Dokuments nicht berücksichtigt .
-Wählen Sie " Bearbeiten " " Voreinstellungen " > " Silbentrennung " ( Windows ) bzw . " Illustrator " > " Voreinstellungen " > " Silbentrennung " ( Mac OS ) .
+Wählen Sie " Bearbeiten " " Voreinstellungen " > " Silbentrennung " ( Windows ) bzw. " Illustrator " > " Voreinstellungen " > " Silbentrennung " ( Mac OS ) .
 Wählen Sie dann ein Dateiformat aus dem Popupmenü aus .
 Bestätigen Sie den Löschvorgang in der Meldung , die angezeigt wird , indem Sie auf " OK . "
 Bettet Informationen darüber , ob Ihr Zertifikat gültig ist oder gesperrt wurde ( für die Signaturüberprüfung erforderlich ) .
@@ -4530,7 +4530,7 @@ Verwirft den aktuellen Status und ersetzt sie vorübergehend mit dem vorherigen 
 Erstellt ein Feld , das nicht dynamisch zu aktualisieren .
 Weitere character-level Attribute , geben Sie das -Tag am Anfang des Textes aus , die Sie ändern möchten .
 Dies erleichtert das Gruppieren mehrerer Genres in einer einzelnen Variable , die an den Konstruktor übergeben werden können .
-Entwickelt webbasierte Anwendungen , z . B. für Abwesenheitsauswertungen und Finanzreporting , an die Benutzer über das Internet verteilt .
+Entwickelt webbasierte Anwendungen , z. B. für Abwesenheitsauswertungen und Finanzreporting , an die Benutzer über das Internet verteilt .
 Wenn Sie Kommentare senden , wird eine PDF-Datei mit den Kommentaren an den Initiator der Überprüfung als E-Mail-Anlage gesendet werden .
 Exportiert alle Filme , Sounds und Schaltflächen .
 Wenn Sie eine Regel mit Überschriften in Ihrem Dokument verwenden möchten , sollten Sie die Regel zu einem Teil eines Absatzformates machen .
@@ -4596,7 +4596,7 @@ Wählen Sie einen Videoclip in der Bibliothek .
 Sie können eine Vorschau von Bildern in Adobe Bridge im Vorschau-Bedienfeld in Vollbildvorschau und im Prüfmodus .
 Bei den Verwaltungseinstellungen in Contribute handelt es sich um eine Gruppe von Einstellungen , die für alle Benutzer der Website gelten .
 Sie können auch Frames als animierte GIF-Datei speichern ( wählen Sie " Datei " " Für Web und Geräte speichern " ) .
-3 . Benennen Sie die benutzerdefinierte Vorgabe aus und klicken Sie auf " Speichern . "
+3. Benennen Sie die benutzerdefinierte Vorgabe aus und klicken Sie auf " Speichern . "
 Wählen Sie eine Datei im Verknüpfungenbedienfeld aus , und wählen Sie im Bedienfeldmenü den Befehl " Bild einbetten . "
 Wählen Sie im Entwurf , wählen Sie " Format " " Bild bearbeiten " > " Originalgröße " Wiederherstellen . "
 Ziehen Sie das Musterfeld auf der Zeichenfläche aus , und bearbeiten Sie das Musterelement auf der Zeichenfläche .
@@ -4614,12 +4614,12 @@ Zwingt den Benutzer in das ausgewählte Formularfeld zu füllen .
 Um die Anzeigegröße des Videos zu ändern , klicken Sie auf Resize Video , und ändern Sie die Breite und Höhe ein .
 Videoebenen funktionieren nicht im Frame-Modus ( Animationsbedienfeld ) .
 Bild-Maps ermöglichen es Ihnen , einen oder mehrere Bereiche eines Bildes , den so genannten Hotspots , um einen URL-Link .
-Entfernen Sie alle Artefakte , wie z . B . Pentagon wurde , Produkt , Bäumen oder XYZ-Koordinaten aus dem 3D-Modell .
+Entfernen Sie alle Artefakte , wie z. B. Pentagon wurde , Produkt , Bäumen oder XYZ-Koordinaten aus dem 3D-Modell .
 Ein Pfad , der Sie Text vorübergehend verliert seine Kontur , Fläche und Filterattribute anhängen .
 Wenn Informationen zur Verfügung stehen , einen Bereich erweitern , um Details zum Problem anzuzeigen .
 Positionieren Sie das Symbol für geladenen Text über dem vorherigen oder nächsten Frame , um die unthread Symbol angezeigt .
 Sie können den Inhalt in einem mehrstufigen PDF-Dokument mit dem Auswahl-Werkzeug oder dem Schnappschuss-Werkzeug auswählen oder kopieren .
-Einige Effekte in Illustrator aufgenommen haben texturizing Optionen , wie z . B. die Effekte " Glas , " " Grobes Pastell , " " Körnung " und Fresco .
+Einige Effekte in Illustrator aufgenommen haben texturizing Optionen , wie z. B. die Effekte " Glas , " " Grobes Pastell , " " Körnung " und Fresco .
 Wählen Sie den Ordner aus , in dem Sie das Fireworks-Dokument exportieren möchten , und klicken Sie auf " Öffnen . "
 Siehe automatische Layoutanpassung .
 Sie können Schaltflächen erstellen , die eine Aktion ausführen , wenn Sie das Dokument in das SWF- oder PDF-Format exportiert wird .
@@ -4646,12 +4646,12 @@ Niedrigere Prozentsätze erhöhen die Empfindlichkeit und Ergebnisfarbe in mehre
 Der Hauptunterschied besteht darin , wo die Separationen erstellt werden , d. h. auf dem Host-Computer ( System mit Acrobat und dem Druckertreiber ) oder im RIP des Ausgabegeräts .
 Wählen Sie " Fenster " " Verlauf " , um den Verlaufsbedienfeld anzuzeigen .
 Dieses Verfahren ist nicht erforderlich , wenn Ihr Code leicht zu finden ist , wird das Dokument nicht freigegeben ist , oder den gesamten Code auf die Frames in der Hauptzeitleiste platziert .
-Wählen Sie " Bearbeiten " " Voreinstellungen " > " Schrift " ( Windows ) bzw . " " > " Voreinstellungen " > " Schrift " ( Mac OS ) .
+Wählen Sie " Bearbeiten " " Voreinstellungen " > " Schrift " ( Windows ) bzw. " " > " Voreinstellungen " > " Schrift " ( Mac OS ) .
 Aktivieren Sie in der Optionsleiste die Möglichkeit , wählen Sie die Farbe ändern möchten , aus dem Menü " Modus " :
 Um die Position eines Punkts ändern möchten , verschieben Sie die Markierung des Lineals .
 Wählen Sie ein Mal- oder Bearbeitungswerkzeug aus , und klicken Sie in der Optionsleiste auf das Pinsel- Popupmenü .
 InCopy sucht dann den Text unmittelbar vor der Einfügemarke ein und ersetzt CDC mit dem Makrotext Amerikanischen Gesundheitsbehörden .
-Wählen Sie die Optionen , einschließlich , unabhängig davon , ob Sie eine importierte Grafik aufnehmen möchten , z . B. eine gescannte Signatur .
+Wählen Sie die Optionen , einschließlich , unabhängig davon , ob Sie eine importierte Grafik aufnehmen möchten , z. B. eine gescannte Signatur .
 Die Architektur der Sprache ist intuitiver als frühere Versionen .
 In den folgenden ActionScript-Code in Bild 1 der SeekBar-Komponente für die Verwaltung des Griffs :
 Blendet Scheitelpunkte auf der Rückseite zweiseitiger Komponenten .
@@ -4675,12 +4675,12 @@ Laden Sie die HTML- und Bilddateien auf Ihrem Webserver bereitgestellt werden .
 Wenn Sie den Entwurf enthält Hyperlinks zu neuen Seiten veröffentlichen " im Dialogfeld " Neue verknüpfte Seiten " wird angezeigt .
 Unicode kann die meisten Sprachen kodieren und Zeichen in der Welt verwendet werden .
 Dies ist das empfohlene Verfahren zum Nachschärfen , wenn Sie nicht über eine bestimmte Schärfe filtern .
-Wenn der Abstand zwischen den ausgewählten Wörtern zu entfernen , drücken Sie Alt + Strg + Rücktaste ( Windows ) bzw . Wahl- + Befehlstaste + Rückschritttaste ( Mac OS ) .
+Wenn der Abstand zwischen den ausgewählten Wörtern zu entfernen , drücken Sie Alt + Strg + Rücktaste ( Windows ) bzw. Wahl- + Befehlstaste + Rückschritttaste ( Mac OS ) .
 Gibt die Größe des Abstands , der den eigentlichen Druckbogen nach dem Stutzen umschließt .
 Schärfen erhöht den Kontrast der Pixel um die Kanten von Objekten , um die Definition des Bildes zu erhöhen oder zu erkennen sind .
 Im folgenden Beispiel wird der Text mit einer Beschreibung der Schaltfläche außerhalb und rechts von der Schaltfläche angezeigt .
 Rastert den Text in eine abgeflachte Bitmap , um das genaue Erscheinungsbild der Textebene in Photoshop beizubehalten .
-Unter Mac OS können Sie Sprachen verwenden , wie z . B . AppleScript , mit denen Sie die Apple Ereignisse senden .
+Unter Mac OS können Sie Sprachen verwenden , wie z. B. AppleScript , mit denen Sie die Apple Ereignisse senden .
 Wenden Sie einen benutzerdefinierten Pinselstrich als Bewegungspfad .
 Suchen Sie die Datei , und klicken Sie auf " Öffnen . "
 Geben Sie einen Dateinamen ein .
@@ -4766,7 +4766,7 @@ Klicken Sie und halten Sie die Maustaste auf dem Rechteckwerkzeug , und wählen 
 Wenn Sie diese Elemente in der Tag-Struktur ( falls erforderlich ) wird sichergestellt , dass ein Bildschirmleseprogramm vorhanden , können Sie den Inhalt an einen Benutzer .
 Das Dialogfeld " Konvertierung " wird nicht angezeigt , wenn Sie nicht die Anzeige während des Dialogfelds die Option " Konvertierung " am unteren Rand dieses Dialogfelds ausgewählt ist .
 Bewegung Tween-Folgen können gestreckt und skaliert werden , die in der Zeitleiste und als einzelnes Objekt behandelt werden .
-Sie können z . B . Textverarbeitungsdateien mit Folie Präsentationen , Kalkulationstabellen und Webseiten kombinieren .
+Sie können z. B. Textverarbeitungsdateien mit Folie Präsentationen , Kalkulationstabellen und Webseiten kombinieren .
 Zum Duplizieren einer Tween-Folge und halten Sie die Alt-Taste ( Windows ) bzw. die Befehlstaste ( Macintosh ) gedrückt , während Sie die Tween-Folge an eine neue Position in der Zeitleiste oder den Tween-Bereich kopieren und einfügen .
 Die Extender.thanks ( ) -Methode verwendet die Anweisung super zum Aufrufen Base.thanks ( ) .
 Im Allgemeinen ist ein Zieldokument mit Farbfeldern als Teil eines Drittanbieters Farbmanagement Softwarepaket geliefert wurde .
@@ -4784,7 +4784,7 @@ Um die Anmerkungen auszublenden , die Änderungen anzuzeigen , klicken Sie auf "
 Vektorgrafiken sind auflösungsunabhängig .
 Wählen Sie den Namen des Players , die niedrigste Versionsnummer des Players und den Status .
 Um alle Farbeinstellungen auf 0 und kehren Sie das Objekt in den ursprünglichen Zustand zurückzusetzen , klicken Sie auf " Filter zurücksetzen . "
-Um die interaktive Qualität eines Dokuments verbessern , können Sie Aktionen angeben , wie z . B. das Ändern des Wertes zoomen , treten auf , wenn eine Seite geöffnet oder geschlossen ist .
+Um die interaktive Qualität eines Dokuments verbessern , können Sie Aktionen angeben , wie z. B. das Ändern des Wertes zoomen , treten auf , wenn eine Seite geöffnet oder geschlossen ist .
 Wenn die Datei mehrere Seiten mit Bildern aufweist , geben Sie die gewünschte Seitenzahl .
 Ein Formular kann ein Eingabetextfeld einzuschließen , in dem die Benutzer ihren Namen eingeben .
 Bettet alle in der Datei verwendeten Schriften .
@@ -4870,7 +4870,7 @@ Ziehen Sie die FLVPlayback- und FLVPlaybackCaptioning in das Bedienfeld " Biblio
 Alle Bilder mit der Auflösung über diesen Schwellenwert neu berechnet werden .
 Beispielsweise kann ein Maß Länge von 5 bewirkt , dass das Raster für die Anzeige 5 Leerzeichen , wenn die Verknüpfung ausgewählt ist .
 Wenn Sie fertig sind , klicken Sie auf die Schaltfläche Minimieren in der oberen rechten Ecke der Popup-Notiz , oder klicken Sie auf eine Stelle außerhalb der Popup-Notiz .
-Metadaten beinhalten Informationen über die Videodatei , wie z . B . Dauer , Breite , Höhe und Framerate .
+Metadaten beinhalten Informationen über die Videodatei , wie z. B. Dauer , Breite , Höhe und Framerate .
 Wählen Sie die PDF-Datei .
 Frames ( oder Tabellen ) im Dokument muss mit Tags versehen werden , deren Namen identisch mit denen Elemente in der XML-Datei , die Sie importieren möchten .
 Klicken Sie am unteren Rand des Bedienfelds auf das Papierkorbsymbol .
@@ -4894,12 +4894,12 @@ Diese Bitmap-Grafiken sind auflösungsabhängig . Dies bedeutet , dass die Daten
 Um einen Platzhalter zu ändern , wählen Sie den Platzhalter oder den eigentlichen Daten , und wählen Sie einen anderen Feldnamen im Datenzusammenführungsbedienfeld .
 Klicken Sie im Dialogfeld " JDF-Auftragsdefinitionen " auf " Hinzufügen . "
 Sie können Tabellen im Textmodus bearbeiten .
-Verwenden Sie entweder die vordefinierten Einstellungen in Distiller bzw . InDesign oder Einstellungen , die von Ihrem Druckdienstleister bereitgestellt werden .
+Verwenden Sie entweder die vordefinierten Einstellungen in Distiller bzw. InDesign oder Einstellungen , die von Ihrem Druckdienstleister bereitgestellt werden .
 Verwenden Sie die SVG Standard zum Erstellen von Inhalten .
 Geben Sie Übergang Stile und Geschwindigkeit .
 Wenn Sie Ihren eigenen ActionScript-Code schreiben und den gesamten Code in der Hauptzeitleiste , brauchen Sie nur die Änderungen in der Zeitleiste vornehmen .
 Klicken Sie auf die Schaltfläche " Neues Farbfeld " und doppelklicken Sie auf das neue Farbfeld .
-Häufig wird die Anwendung XML-Daten von einer externen Quelle , wie z . B. einen Webdienst oder einen RSS-Feed .
+Häufig wird die Anwendung XML-Daten von einer externen Quelle , wie z. B. einen Webdienst oder einen RSS-Feed .
 Wählen Sie " Neu laden " aus dem Bedienfeld " Bibliothek " im Menü " Optionen " auf das neue Symbol neu laden .
 Geben Sie die Anzahl der Zeilen und Spalten ein , oder übernehmen Sie die Voreinstellungen für eine Tabelle mit drei Zeilen und drei Spalten .
 Klicken Sie im Dialogfeld " Exportieren " DXF oder 3DS exportieren , wählen Sie einen Speicherort für die gespeicherte Datei ein und klicken Sie auf " Speichern . "
@@ -4979,10 +4979,10 @@ Geben Sie an , ob beim Schreiben einer temporären Datei zulässig ist .
 Fügen Sie ein Bild in einem InDesign-Dokument , und verwenden Sie dann das Verknüpfungsbedienfeld , um die Position des Bilds anzuzeigen .
 Klicken Sie auf die Schaltfläche " Ordner auswählen " neben dem Dateinamen , um den Entwurf an einem anderen Ort auf Ihrer Website speichern .
 Dies gilt für alle Klassen , die von ActionScript 3.0 definiert sind , sowie alle benutzerdefinierten Klassen , die Sie erstellen .
-Wenn Sie z . B . NTSC DV Standard wählen , verwendet Illustrator eine Pixelgröße von 654 x 480 , also 740 x 480 Pixel in video-based Anwendungen .
+Wenn Sie z. B. NTSC DV Standard wählen , verwendet Illustrator eine Pixelgröße von 654 x 480 , also 740 x 480 Pixel in video-based Anwendungen .
 Wenn die Wiedergabe bereits angehalten haben , wird durch Klicken auf diese Schaltfläche hat keine Auswirkungen .
 Document : Eine einzelne XML-Struktur .
-Zum Drucken von Kommentaren , wie z . B . Haftnotizen , klicken Sie im Dialogfeld " Voreinstellungen " Kommentieren , " und wählen Sie " Drucken , " " Notizen " und " Popups . "
+Zum Drucken von Kommentaren , wie z. B. Haftnotizen , klicken Sie im Dialogfeld " Voreinstellungen " Kommentieren , " und wählen Sie " Drucken , " " Notizen " und " Popups . "
 Um die Größe der QuickInfo mit Druck zu ändern , wählen Sie " Form " Dynamik " ( klicken Sie auf das Wort , nicht nur das Kontrollkästchen im Pinselbedienfeld ) .
 Wählen Sie eine importierte Grafik mit dem Positionierungswerkzeug aus .
 Bei der Neuauflösung Pixel oder Subtraktion Pixel aus einer Größenänderung Bitmap , um das Erscheinungsbild des ursprünglichen Bitmaps so weit wie möglich entspricht .
@@ -5039,7 +5039,7 @@ Nur die Bemaßung einer Bildlaufleiste , dessen Länge geändert werden kann .
 Beim Konvertieren einer Bitmap auf eine Vektorgrafik angewendet wird , ist die Vektorgrafik nicht mehr mit dem Bitmap-Symbol in das Bedienfeld " Bibliothek . "
 Movieclip ist der standardmäßige Symboltyp in Flash .
 Wenn Sie eine Maske dauerhaft entfernt .
-Wenn Sie z . B. ein Rechteck ändern und dann ein zweites Rechteck zeichnen .
+Wenn Sie z. B. ein Rechteck ändern und dann ein zweites Rechteck zeichnen .
 Wählen Sie eine andere Kategorie , die Sie ändern möchten , oder klicken Sie auf " Schließen , " um das Dialogfeld " Website verwalten " zu beenden und Ihre Änderungen zu speichern .
 Drücken Sie die Eingabetaste ( Windows ) bzw. den Zeilenschalter ( Mac OS ) , klicken Sie in der Optionsleiste auf die Schaltfläche " Bestätigen " oder doppelklicken Sie im Freistellungsrechteck .
 Text ist standardmäßig horizontal , aber statischen Text kann auch vertikal ausgerichtet werden .
@@ -5053,7 +5053,7 @@ Der Bewegungspfad wird aktualisiert und enthält die neue Position .
 Wenn Sie Schaltflächensymbole mit einer höheren Ebene zu exportieren , wählen Sie " Button " Qualität " beibehalten .
 Der Filter ist hilfreich für Strichskizzen und große schwarzweiße Bereiche aus gescannten Bildern extrahiert .
 Auch PDFs in andere PDF-Anlagen nicht dieselben Vorteile wie PDF-Portfolios bieten .
-Ausführen von automatisierten Aufgaben , z . B . Batchbefehle .
+Ausführen von automatisierten Aufgaben , z. B. Batchbefehle .
 Nachdem das Menü geschlossen wird , werden die Elemente in den ausgeblendeten Zustand zurückzukehren .
 Wählen Sie eine Druckfarbe , die ausgewählte Druckfarbe beschreibt .
 Jedes Objekt verfügt über die folgenden Eigenschaften :
@@ -5127,7 +5127,7 @@ Zeichnen Sie auf einer Bitmap-Maske mit einem der Bitmap Zeichenwerkzeuge .
 Wenn Sie eine Verbindung mit einem Blog in Contribute erstellen , einer Dreamweaver-Vorlage ( DWT-Datei ) wird automatisch erzeugt .
 Gefüllte Striche werden als einzelne Zeichenobjekte importiert .
 Schärfen erhöht den Kontrast der Pixel um die Kanten von Objekten , um die Definition des Bildes zu erhöhen oder zu erkennen sind .
-Um die Dauer eines Keyframes zu erweitern , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Macintosh ) auf das endgültige Bild der neuen Sequenz .
+Um die Dauer eines Keyframes zu erweitern , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Macintosh ) auf das endgültige Bild der neuen Sequenz .
 Layout Geometrien enthalten Seitendimensionen sowie Text- und Grafikrahmen .
 Ein Pluszeichen neben dem Zeiger angezeigt , wenn Sie eine Auswahl hinzufügen möchten .
 Sie sind auch für die Erstellung von Vorlagen für Websites , in denen eine einheitliche Gestaltung verantwortlich .
@@ -5147,7 +5147,7 @@ Für Volltonfarben , die aus Farbbibliotheken " im Menü " Farbmodus " aus .
 Sie können Konturen oder Flächen überdrucken , Absätze , Regeln und Regeln über Fußnoten .
 Geben Sie den Makrocode , gefolgt von einem word-ending Zeichen ( Leerzeichen , Komma , Punkt oder Absatzmarke ) .
 Klicken Sie auf die Schaltfläche " Durchsuchen , " und suchen Sie die Videodatei , die Sie aufnehmen möchten .
-Sie können z . B. ein Formular erstellen , das die Erträge des Bestandes Verkäufe berechnet .
+Sie können z. B. ein Formular erstellen , das die Erträge des Bestandes Verkäufe berechnet .
 Drücken Sie die Eingabetaste bzw. den Zeilenschalter , und klicken Sie dann auf die Schaltfläche Ausrücken in der Symbolleiste zur Textformatierung .
 Doppelklicken Sie auf die Gruppe .
 Bei einem Wert von 100 % der Spalten , Balken oder Clustern bündig gegeneinander verschoben werden .
@@ -5342,7 +5342,7 @@ Sie können eine Reihe von Pinseloptionen als Vorgabe speichern , damit Sie schn
 ( Optional ) Klicken Sie auf " Erweitert " und wählen Sie die entsprechenden erweiterten Optionen für die Verbindung , die Sie in Schritt 3 festgelegt haben .
 Sie können ein Feld zu einer anderen Seite , um eine Optionsschaltfläche zu einer anderen Gruppe oder ein Feld auf eine Optionsschaltfläche nicht verschoben werden .
 Wählen Sie " Datei " " Exportieren " .
-Um ein einzelnes Musterelement aus der Mustervorlage abtrennen , indem Sie die Strg- und Umschalttaste ( Windows ) bzw . Befehls- und Umschalttaste ( Mac OS ) gedrückt und klicken Sie auf das Element auf einer Dokumentseite überschreiben .
+Um ein einzelnes Musterelement aus der Mustervorlage abtrennen , indem Sie die Strg- und Umschalttaste ( Windows ) bzw. Befehls- und Umschalttaste ( Mac OS ) gedrückt und klicken Sie auf das Element auf einer Dokumentseite überschreiben .
 Halten Sie die Alt-Taste ( Windows ) bzw. die Wahltaste ( Mac OS ) gedrückt und doppelklicken Sie , um den Pfad durch ein gerades Segment zu schließen .
 Geben Sie ActionScript 3.0 oder ECMAScript als Dialekt verwendet werden soll .
 Wenn Sie ein vorhandenes Objekt befindet , in dem Sie Text eingeben möchten , können Sie das Objekt sperren oder ausblenden .
@@ -5357,7 +5357,7 @@ Wählen Sie eine Füllmethode aus .
 Allerdings ist die Fehlerverarbeitung eine breite Kategorie enthält , die Reaktion auf viele Arten von Fehlern , die während der Kompilierung oder zur Laufzeit ausgelöst werden .
 Ändern Sie die Einstellungen .
 Geben Sie die Anzahl der Spalten , die Spaltenbreite sowie den Abstand zwischen den Spalten ( Bundsteg ) für den Textrahmen .
-Mit der Funktion " Suchen und ersetzen " können Sie zum Suchen und Ersetzen von Elementen , wie z . B . Text , URLs , Schriften und Farben .
+Mit der Funktion " Suchen und ersetzen " können Sie zum Suchen und Ersetzen von Elementen , wie z. B. Text , URLs , Schriften und Farben .
 Wenn Sie diese Dateien für die Konfiguration der -Authoring-Umgebung ändern , werden die ursprünglichen Dateien zu sichern .
 Wenn die Schaltflächen nicht funktionieren , sind hier einige Punkte :
 Wählen Sie " Schrift " " Schrift " auf einem Pfad , und wählen Sie einen Effekt aus dem Untermenü aus .
@@ -5372,7 +5372,7 @@ Um die Zeichen ' vertikalen Kanten perfekt unabhängig von der Pfadform vertikal
 Wählen Sie den Namen einer Aktion , um das Element am Ende der Aktion einfügen .
 Wählen Sie zum Drehen entlang konzentrischen kreisförmigen Linien , und geben Sie dann einen Rotationsgrad weichzeichnen .
 Über und unter anderen Seiten , abgedunkelten Rahmen , in dem Sie die Maustaste loslassen , um die ausgewählten Seiten angezeigt werden .
-Um zu wechseln , wählen Sie " Bearbeiten " " Voreinstellungen " > " Allgemein " ( Windows ) bzw . " Illustrator " > " Voreinstellungen " > " Allgemein " ( Mac OS ) und wählen Sie die Option " Automatisch hinzufügen / löschen " deaktivieren .
+Um zu wechseln , wählen Sie " Bearbeiten " " Voreinstellungen " > " Allgemein " ( Windows ) bzw. " Illustrator " > " Voreinstellungen " > " Allgemein " ( Mac OS ) und wählen Sie die Option " Automatisch hinzufügen / löschen " deaktivieren .
 Die Auswahl wird in ein Graustufenbild konvertiert und in die Maske hinzugefügt .
 Außerdem können Sie das Bildmaterial auf jede Oberfläche eines 3D-Objekts zuzuordnen .
 Wenn Sie den Bildtyp ändern , klicken Sie auf Mode , um das Dialogfeld " Kanäle zusammenfügen " zurückzukehren .
@@ -5411,8 +5411,8 @@ Die Abfragen werden nach Typ gruppiert .
 Markiert den Inhalt der einzelnen Tabellenzellen .
 Sie können die Textzeilen in einem Rahmen entlang der vertikalen Achse zu gewährleisten , geben Sie vertikal konsistent zwischen Frames und deren Spalten ausgerichtet oder verteilt werden .
 Diese Einstellungen werden auch verwendet , wenn Sie einzelne Dokumente in einem PDF-Portfolio drucken .
-Sie können den aktuellen Frame als EPS 3.0 für die Platzierung in einer anderen Anwendung exportieren , wie z . B. einem Seitenlayout .
-Optimiert die ursprünglichen Bilddateien , die angewendeten Transformation enthalten ( z . B . Drehung oder Skalierung ) und platziert sie in einem Unterordner " Bilder " gespeichert .
+Sie können den aktuellen Frame als EPS 3.0 für die Platzierung in einer anderen Anwendung exportieren , wie z. B. einem Seitenlayout .
+Optimiert die ursprünglichen Bilddateien , die angewendeten Transformation enthalten ( z. B. Drehung oder Skalierung ) und platziert sie in einem Unterordner " Bilder " gespeichert .
 Platzieren Sie die Einfügemarke an den Anfang des Absatzes in der ersten Zelle , drücken Sie die Nach-links-Taste , und beginnen Sie mit der Eingabe .
 Um eine schwebende Werkzeugleiste anzudocken , ziehen Sie sie an der Titelleiste oder Griffleiste an den Werkzeugleistenbereich .
 Sie können nur ein Profil einbetten .
@@ -5423,7 +5423,7 @@ Wenn Sie bereits ausgewählt haben , den Bereich des Bildes , den Sie anzeigen m
 Nehmen wir zum Beispiel einen Kreis mit einer Linie gezeichnet .
 Speichern Sie die PDF-Datei .
 EPS , TIFF und EPS PICT-Format werden in früheren Versionen von Photoshop mehr relevant .
-Einige Speicheroptionen nicht verfügbar sind , die in den Batch oder Befehle Droplet erstellen ( z . B . JPEG-Komprimierung oder TIFF ) .
+Einige Speicheroptionen nicht verfügbar sind , die in den Batch oder Befehle Droplet erstellen ( z. B. JPEG-Komprimierung oder TIFF ) .
 Wählen Sie die Seiten- und Mustervorlagen-Bereichs gleichmäßig :
 Die Zeichenfolge ist eine Reihe von positiven Ganzzahlen , die jedes Mal erhöhen , um jeden eindeutigen Namen zu erhalten .
 Mit dem Befehl " Tags zu Dokument hinzufügen " werden alle Tags , die im Dokument wurden , bevor der Befehl ausgeführt wurde .
@@ -5477,7 +5477,7 @@ Operatoren sind besondere Symbole ( oder gelegentlich Wörter ) , die zum Durchf
 Optimierung auf die gleichen Elemente mehrmals anwenden .
 Deaktivieren Sie diese Option , um die Flagge zu entfernen .
 Wenn Sie eine Komponente in ein Dokument einfügen , wird in Flash importiert sie als Movieclip in das Bedienfeld " Bibliothek . "
-Wenn Sie einen Filter auf eine Ebene beeinflussen , muss die Ebene sichtbar sein muss und Pixel enthalten , z . B. eine neutrale Füllfarbe .
+Wenn Sie einen Filter auf eine Ebene beeinflussen , muss die Ebene sichtbar sein muss und Pixel enthalten , z. B. eine neutrale Füllfarbe .
 Die FLA-Dateien oder Skriptdateien ( im Skriptfenster ) mithilfe der Authoring-Umgebung erstellen .
 Klicken Sie auf ein Zeichen in das Textfeld " Dateizeichensatz " festlegen .
 Verwechseln Sie keine Verzeichnisformatvorlagen mit Absatzformaten , die über ein Präfix " TOC " ein .
@@ -5515,7 +5515,7 @@ Das Verschieben dieser Elemente können Sie die Kurven in einem Pfad .
 XML : Stellt ein einzelnes XML-Element kann es sich um ein XML-Dokument mit mehreren untergeordneten Elemente oder einen einwertigen Element in einem Dokument .
 Geben Sie einen Stil Eigenschaft , die die Schriftfamilie definiert .
 Namespaces , wenn explizit erstellt wurden , werden nicht unbedingt während der Kompilierung bezeichnet .
-Sicherheitswarnungen werden nicht angezeigt , wenn Sie die PDF-Datei und das Zertifikat vertrauenswürdig ist für privilegierte Systemvorgänge ( z . B . Netzwerk- , Druck- und Dateizugriffe ) zertifiziert ist .
+Sicherheitswarnungen werden nicht angezeigt , wenn Sie die PDF-Datei und das Zertifikat vertrauenswürdig ist für privilegierte Systemvorgänge ( z. B. Netzwerk- , Druck- und Dateizugriffe ) zertifiziert ist .
 Klicken Sie im Bereich " Datum " legen Sie Datum und Uhrzeit für die Veröffentlichung des Dokuments , den Sie planen möchten .
 Geben Sie den Inhalt für den Blogeintrag , und veröffentlichen Sie sie .
 Wählen Sie " Datei " " Neu " > " Dokument aus Vorlage .
@@ -5526,12 +5526,12 @@ Erstellen Sie Ihr Dokument .
 Dieser Code würde den folgenden Text in das Textfeld mit dem Namen outputText schreiben :
 Sie müssen nicht nur auf die Farbe , um bestimmte Informationen oder Anweisungen an die Benutzer kommunizieren .
 Beispielsweise enthält eine Bibliothek Stile für das Erstellen von Schaltflächen ; eine andere Bibliothek enthält Stile Effekte auf Text hinzufügen .
-Anstatt Bilder in einen Unterordner exportieren , wird mit dieser Option können Sie eine lokale URL eingeben ( z . B . " images / " ) , die im Vordergrund des Bildes angezeigt wird .
+Anstatt Bilder in einen Unterordner exportieren , wird mit dieser Option können Sie eine lokale URL eingeben ( z. B. " images / " ) , die im Vordergrund des Bildes angezeigt wird .
 Durch Festlegen der Voreinstellungen können Sie Codehinweise deaktivieren oder bestimmen , wie schnell sie angezeigt werden .
 Wählen Sie " Ohne " aus dem Popupmenü " Stil " aus , und klicken Sie auf " OK . "
-Gemeinsame Objekte werden am häufigsten verwendet , um Ihre web-browsing Erfahrungen verbessern , z . B . , indem Sie das Erscheinungsbild einer Website personalisieren , die Sie häufig besuchen .
+Gemeinsame Objekte werden am häufigsten verwendet , um Ihre web-browsing Erfahrungen verbessern , z. B. , indem Sie das Erscheinungsbild einer Website personalisieren , die Sie häufig besuchen .
 Um die Farbe für die Zählungsgruppe festzulegen , klicken Sie auf die Farbauswahl .
-Ermöglicht Suchergebnisse bei Verwendung eines externen Servers , wie z . B. ein webbasiertes Suchmechanismus hervorgehoben .
+Ermöglicht Suchergebnisse bei Verwendung eines externen Servers , wie z. B. ein webbasiertes Suchmechanismus hervorgehoben .
 Auf dem Bildschirm E-Mail , führen Sie die folgenden Schritte aus , und klicken Sie dann auf Senden :
 Das Grundlinienraster der Zeilenabstand für Text in einem Dokument darstellt .
 Diese Option ist nur verfügbar für hohe ( 128-Bit RC4 oder AES ) .
@@ -5559,12 +5559,12 @@ Wenn Sie das InDesign-Dokument in Portable Document Format ( PDF ) exportieren ,
 Sie können diese Vorgaben ändern oder eigene benutzerdefinierte Scaneinstellungen verwenden .
 Klicken Sie auf die Registerkarte für das Dokument , das Sie anzeigen möchten .
 Anschließend können Sie die Einstellungen der Rolle ändern .
-Zum Korrigieren der Großschreibung von Fehlern ( z . B . " germany " anstelle von " Deutschland " ) eingeben , wählen Sie die Autokorrektur für die Großschreibung aus .
+Zum Korrigieren der Großschreibung von Fehlern ( z. B. " germany " anstelle von " Deutschland " ) eingeben , wählen Sie die Autokorrektur für die Großschreibung aus .
 Dadurch wird verhindert , dass widerrechtlicher Nutzung der Schriftart eingebettet wird .
 Wählen Sie " Bild " " Bild , " und wählen Sie im Untermenü einen der folgenden Befehle :
 Das Objekt verschwindet aus der Liste gemeinsamer Elemente .
 Informationen zu unterschiedlichen Ebenen eines PDF-Dokuments gespeichert werden kann .
-Suchen und Ersetzen funktioniert nur in Fireworks PNG-Dateien oder in Dateien mit Vektorobjekte , wie z . B . Adobe FreeHand ® und Adobe Illustrator ® -Dateien .
+Suchen und Ersetzen funktioniert nur in Fireworks PNG-Dateien oder in Dateien mit Vektorobjekte , wie z. B. Adobe FreeHand ® und Adobe Illustrator ® -Dateien .
 Kopiert die Kommentare in der geöffneten PDF-Datei in Ihre Kopie .
 Bewegungsvoreinstellungen , die als XML-Dateien gespeichert werden .
 Diese Einstellung kann in der Palette " 3D-Messwerkzeug " geändert werden .
@@ -5674,7 +5674,7 @@ Wählen Sie im Kanälebedienfeld den unseparierten Farbkanal aus .
 Sie können Objekte in ihrer vertikalen oder horizontalen Achse spiegeln , ohne ihre relative Position auf der Bühne verschieben .
 Die Elemente müssen sich auf der gleichen Ebene der Strukturhierarchie .
 Klicken Sie auf die Mitte der Skin , bis seine Farbe in der Farbauswahl " Füllung " im Eigenschafteninspektor angezeigt wird .
-Verwenden Sie das Drehen-Werkzeug aus , klicken Sie bei gedrückter Alt- + Umschalttaste ( Windows ) bzw . Wahl- + Umschalttaste ( Mac OS ) auf den linken unteren Ecke des Begrenzungsrahmens .
+Verwenden Sie das Drehen-Werkzeug aus , klicken Sie bei gedrückter Alt- + Umschalttaste ( Windows ) bzw. Wahl- + Umschalttaste ( Mac OS ) auf den linken unteren Ecke des Begrenzungsrahmens .
 In Illustrator können Sie Dokumente für viele unterschiedliche Ausgabetypen erstellen .
 Die standardmäßige Compiler Einstellungen für Adobe Flex Builder 3 und Adobe Flash CS4 Professional sind -as3 = true und -es = false .
 Wählen Sie die Skin in der Komponente des Ordners " Elemente " in das Bedienfeld " Bibliothek . "
@@ -5682,7 +5682,7 @@ Die kopierte Element aus dem gleichen oder anderen Dokument werden kann .
 Die Überlaufmodi werden nur in Flash Player 8 und höher unterstützt .
 Um Text auf der anderen Seite des Pfads spiegeln , klicken Sie auf den Text , und ziehen Sie den Mauszeiger über den Pfad aus .
 Sie helfen XML-Struktur und XML-Tags verstehen .
-Wenn Sie z . B. ein blaues Objekt auf einem gelben Hintergrund zeichnen , wird das Objekt grün angezeigt .
+Wenn Sie z. B. ein blaues Objekt auf einem gelben Hintergrund zeichnen , wird das Objekt grün angezeigt .
 Wenn Sie Lesemodus stellt die Arbeit wieder auf die vorherige Ansicht mit den gleichen Navigationsschaltflächen und die Symbolleiste angezeigt wird .
 Geben Sie einen Namen für die Gruppe ein und klicken Sie auf " OK . "
 Die IFilterFactory definiert die getFilter ( ) -Methode , die in der FilterWorkbenchController-Klasse verwendet wird :
@@ -5786,7 +5786,7 @@ Das Plugin wird automatisch installiert , wenn Sie Contribute installieren .
 Wählen Sie " Ansicht " " Cursorkoordinaten . "
 Zusammengesetzte Formen verhalten sich wie gruppierte Objekte und als Elemente im Bedienfeld " Ebenen " angezeigt werden .
 Ändern Sie die ausgewählten Musterelemente wie gewünscht .
-Mit der logischen Baumstruktur bezieht sich auf die Organisation des Dokumentinhalts , wie z . B . Titel , Kapitel , Abschnitte und Subschnitt .
+Mit der logischen Baumstruktur bezieht sich auf die Organisation des Dokumentinhalts , wie z. B. Titel , Kapitel , Abschnitte und Subschnitt .
 Weitere Informationen finden Sie unter Speichern einer Datei im Photoshop-Format .
 Vermeiden Sie unsichtbare Schaltflächen in barrierefreien SWF-Dateien , da Bildschirmlesehilfen diese Schaltflächen nicht erkannt werden .
 Hängende Interpunktion steuert die Ausrichtung der Satzzeichen für einen bestimmten Absatz .
@@ -5866,7 +5866,7 @@ Um einen Stil Tastaturbefehl definieren , positionieren Sie die Einfügemarke in
 So erstellen Sie einen Stil mit dem Standardnamen , klicken Sie auf die Schaltfläche " Neuer Stil erstellen .
 Um Messungen auszublenden , klicken Sie im Ebenenbedienfeld auf das Augensymbol .
 Klicken Sie auf das zweite Bild , um sie auf den ersten Thread .
-n . Ein Beispiel für eine Farbe oder eine Sammlung von Farben samples _ de .
+n. Ein Beispiel für eine Farbe oder eine Sammlung von Farben samples _ de .
 Wählen Sie den neuen Keyframe und ziehen Sie einen der Learning Interaction Movieclips aus dem Bedienfeld " Bibliothek " auf die Bühne .
 Graustufenmodus Bilder mit einer Farbtiefe von 8 256 mögliche Grauwerte aufweisen .
 Das Informationsfenster zeigt den Umfang .
@@ -5889,7 +5889,7 @@ Die eigenständigen Interaktionen Frage Daten gesendet werden , während die Qui
 Kunststoff spiegelt die Farbe des Lichts ; Metallisch spiegelt die Farbe des Objekts .
 Um eine Unterstreichung nach links oder rechts von vertikalem Text anzuwenden , wählen Sie " Links " Unterstrichen " oder " Unterstrichen " Rechts " im Menü des Zeichenbedienfelds .
 Um eine Hilfslinie zu erstellen , positionieren Sie den Zeiger in einer horizontalen oder vertikalen Lineal , und ziehen Sie dann an die gewünschte Stelle auf dem Zieldruckbogen .
-Alle sichtbaren Ebenen reduziert sein soll , d. h . , alle ausgeblendeten Ebenen werden verworfen .
+Alle sichtbaren Ebenen reduziert sein soll , d. h. , alle ausgeblendeten Ebenen werden verworfen .
 Sie können mehrere Fenster mit dem Suffix Inkrementierung mit jedem neuen Fenster geöffnet .
 Die Acrobat Druckfarbenverwaltung dieselben Optionen und Steuerelemente wie andere Adobe-Anwendungen verwendet werden .
 Die Codepage , die zum Erstellen der SWF-Datei verwendet wurde , muss die Codepage auf dem Computer des Endbenutzers übereinstimmen .
@@ -5900,7 +5900,7 @@ Wählen Sie den Grad der Neuberechnung angewendet werden soll .
 Adobe Labs fördert eine einen kollaborativen Softwareentwicklungsprozess .
 Beim Bearbeiten einer Bitmapgrafik können Sie die Qualität des Erscheinungsbilds ändern .
 Sie können JDF-Dateien generieren , Auftragsdefinitionen direkt aus oder einer Vorlage JDF-Dateien vom Druckdienstleister geliefert wurde .
-Andere internen Server , wie z . B . Movable Type , dass die MetaWeblog-API unterstützt wird .
+Andere internen Server , wie z. B. Movable Type , dass die MetaWeblog-API unterstützt wird .
 Die pop ( ) und shift ( ) sowohl das Element zurück , das entfernt wurde .
 Um einen Kommentar Tagging in einem PDF-Dokument aktivieren , wird in der Registerkarte " Tags " Tag Annotations aus dem Menü " Optionen " wählen .
 Klicken Sie in der Toolbox einen der folgenden Schritte aus :
@@ -5992,7 +5992,7 @@ Wählen Sie das Element aus , und klicken Sie auf das Papierkorb-Symbol am unter
 Wählen Sie im Dialogfeld " PDF importieren " die Option " Seiten " oder " Bilder , " je nachdem , welche Elemente des PDF-Dokuments , die Sie importieren möchten .
 Die Vorlagen , die in den Bedienfeldvoreinstellungen eingestellt ist nur beim Erstellen von neuen Projekten verwendet werden .
 Eine definierte Liste kann durch andere Absätze und Listen unterbrochen werden , und Sie können verschiedene Textabschnitte und andere Dokumente in einem Buch erstrecken .
-n . Anwendung , in der ein Entwickler können Anwendungen in einer interaktiven Umgebung Code , testen und debuggen .
+n. Anwendung , in der ein Entwickler können Anwendungen in einer interaktiven Umgebung Code , testen und debuggen .
 Gibt an , welche Schriftart ersetzt alle Dokumente Ihres Systems Schriftarten zur Verfügung stehen .
 Sie legen die Quelleigenschaft nicht im manuellen Modus .
 Klicken Sie im Dialogfeld " Füllung " eine der folgenden Optionen für Mit , oder wählen Sie ein benutzerdefiniertes Muster :
@@ -6047,7 +6047,7 @@ Erhöhen oder verringern Sie die Größe des Bereichs Zoom-Rechteck umgeben mith
 Ziehen Sie diagonal , bis die Ellipse die gewünschte Größe hat .
 Das Drehen eines Objekts im lokalen 3D-Raum entspricht dem Verschieben relativ zu seinem übergeordneten Movieclip .
 Doppelklicken Sie auf ein Segment im Dialogfeld " Für Web und Geräte speichern " mit dem Slice-Auswahlwerkzeug .
-n . Anonyme Funktion , die Sie mit einem bestimmten Ereignis verknüpfen .
+n. Anonyme Funktion , die Sie mit einem bestimmten Ereignis verknüpfen .
 Klicken Sie im Vorschaubereich des Indexbedienfelds , wählen Sie einen Eintrag aus .
 Zeigt die Intensitätsstufe des Bereichs unterhalb des Zeigers .
 Wenn Sie alle Querverweise aktualisieren möchten , stellen Sie sicher , dass keine Shapes markiert sind .
@@ -6063,7 +6063,7 @@ Verwenden Sie die Symmetriepinsels anpassen , um die Größe der Symmetrie und d
 Die openHandler ( ) -Methode das Textformat für die ProgressBar-Komponente legt die Eigenschaft label und aktiviert die Schaltfläche " Abbrechen " klicken , die es dem Benutzer ermöglicht , um den Download sofort anzuhalten .
 Wenn Sie eine Illustrator-Datei platzieren , die mehrere Zeichenflächen enthält , können Sie angeben , welche Zeichenfläche wie beim Platzieren mehrseitige PDF-Dateien verwendet wird .
 Füllt den Inhalt der Ebene mit einem Farb- , Farbverlaufs- oder Muster .
-Um die kopierte Kurve in eine andere Beschleunigungskurve einzufügen , drücken Sie Strg + V ( Windows ) bzw . Befehl + V ( Macintosh ) .
+Um die kopierte Kurve in eine andere Beschleunigungskurve einzufügen , drücken Sie Strg + V ( Windows ) bzw. Befehl + V ( Macintosh ) .
 Sie können die Stapelverarbeitung Skript zur späteren Verwendung gespeichert werden , ohne dass Dateien hinzugefügt werden .
 ( Optional ) Klicken Sie auf die Option " Am Rücken ausrichten " oder " Ausrichten " Nicht am Rücken " aus .
 Mit dieser Option wird nur die im Dialogfeld angezeigt werden .
@@ -6143,11 +6143,11 @@ Wählen Sie " Auswahl " " Ähnliche in Pixel im gesamten Bild aufnehmen , nicht 
 Um die flexibelste Skalierung zu erhalten , stellen Sie das mittlere Segment so groß wie möglich .
 Wählen Sie im Dialogfeld " Dokument unterschreiben " eine digitale ID aus dem Menü Unterschreiben unter .
 Adobe Bridge können Sie kreative Arbeitsabläufe vereinfachen , indem Sie einen Ausgangspunkt für Projekte mit sowohl Adobe-fremder Dateien verwendet werden .
-Geben Sie an , ob alle Seiten im Dokument enthalten sind , oder geben Sie einen Seitenbereich ein , z . B . 1-7 , 9 , um die Seiten 1 bis 7 und 9 gedruckt werden .
+Geben Sie an , ob alle Seiten im Dokument enthalten sind , oder geben Sie einen Seitenbereich ein , z. B. 1-7 , 9 , um die Seiten 1 bis 7 und 9 gedruckt werden .
 Das Graphics-Objekt verwendet die aktuelle Zeichnungsposition für den ersten Ankerpunkt .
 Wählen Sie eine Option aus dem Untermenü aus :
 Bilder normalerweise auf Papier gedruckt ( rechts ) , während von Bildern auf Film gedruckt werden , sind in der Regel nach unten gedruckt ( rechts ) .
-Smartfilter bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf den Pfad auf die Schaltfläche " Pfadfläche füllen . "
+Smartfilter bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf den Pfad auf die Schaltfläche " Pfadfläche füllen . "
 Contribute spaltet nur jeweils eine Zelle , selbst wenn Sie mehrere Zellen auswählen .
 Ändern Sie die Einstellungen nach Bedarf .
 Verbesserte Navigation von Formularfeldern und Verknüpfungen in Dokumenten , die eine Tabulatorreihenfolge nicht angeben .
@@ -6189,7 +6189,7 @@ Halten Sie die Alt-Taste ( Windows ) bzw. die Wahltaste ( Mac OS ) gedrückt und
 Die Vorteile bei der Arbeit im RGB-Modus werden :
 Zeichnet mit Schatten , Reflexionen und Refraktionen mit der CPU-Nutzung auf der Hauptplatine des Computers .
 Wenn Sie verschachtelte Formate auf einen Absatz , wählen Sie " Initialen und verschachtelte Formate " im Menü des Absatzbedienfelds hinzuzufügen .
-n . Informationen , die in Ihrer Anwendung wiederverwendet wird , oder Informationen , die auf Ihrem Computer gespeichert ist , damit sie wiederverwendet werden können .
+n. Informationen , die in Ihrer Anwendung wiederverwendet wird , oder Informationen , die auf Ihrem Computer gespeichert ist , damit sie wiederverwendet werden können .
 Die Hilfslinien , Objektgrößen , die Drehung und die X- und Y-Koordinaten dynamisch angezeigt werden , können Sie Objekte im Verhältnis zu anderen Objekten im Layout ausgerichtet werden .
 Das Drehen des Druckbogens Ansicht wirkt sich nicht auf den Druck oder die Ausgabe .
 In der Layoutansicht wird durch Drücken der BILD-AUF oder BILD-AB zum nächsten oder vorherigen Seite im Layout verschoben .
@@ -6234,7 +6234,7 @@ Die folgende Prozedur verwendet die Videoimportassistenten , um eine FLVPlayback
 Wählen Sie die Ebene mit der gewünschten Vektormaske aus und klicken Sie auf die Schaltfläche " Maske aktivieren / deaktivieren " im Maskenbedienfeld .
 Wählen Sie " Erweitert " " Sicherheitseinstellungen . "
 Dieses Ereignis wird von der ExternalInterfaceProxy-Klasse ausgelöst , wenn ein Funktionsaufruf aus Flash Player .
-Wählen Sie unter " Dateityp " ( Windows ) bzw . " Format " ( Mac OS ) , wählen Sie im Menü Textbaustein InDesign .
+Wählen Sie unter " Dateityp " ( Windows ) bzw. " Format " ( Mac OS ) , wählen Sie im Menü Textbaustein InDesign .
 Geben Sie den Drehwinkel in das Textfeld " Winkel " ein .
 Die addCallback ( ) -Methode hat zwei Parameter .
 Eine Anzahl von Importieren , Exportieren und special-effects Zusatzmodule mit Ihrem Programm stammen .
@@ -6245,7 +6245,7 @@ Die Anzahl der Pixel pro Zoll ( ppi ) in einer Bitmap-Grafik aus .
 Wählen Sie den CMYK-Modus , die alle CMYK-Prozessfarben verwenden , können Sie einen Wert zwischen 0 und 100 % ein .
 Öffnet das PDF-Dokument im Vollbildmodus in Adobe Acrobat .
 Bereiten Sie , um einen Tastaturbefehl hinzufügen , indem Sie einen der folgenden Schritte ausführen :
-Legt die Art der Währung , wie z . B . Euros , Dollar oder Yen .
+Legt die Art der Währung , wie z. B. Euros , Dollar oder Yen .
 Das Diagrammdaten-Fenster bleibt geöffnet , bis Sie ihn schließen .
 Weitere Informationen zu erweiterten Technologien finden Sie in der Rich Media Advertising Center unter http : / / www.adobe.com / go / rich _ media _ Werbeeinschaltungen _ de www.adobe.com / go / rich _ media _ Werbezeile .
 Contribute entfernt die Website-Verbindung aus der Liste der Websites , die in der CPS-Konsole .
@@ -6275,7 +6275,7 @@ Das Installationsprogramm muss von einem Benutzer mit Administratorrechten ausge
 Wenn beim Zeichnen deaktiviert ist , können Sie Linien nachträglich begradigen , indem Sie eine oder mehrere Liniensegmente und wählen Sie " Modifizieren " " Form " > " Begradigen " Linien erkennen .
 Gibt an , wie die Rundheit der Pinselspuren in einem Strich variiert .
 Wählen Sie den Videoclip auf dem lokalen Computer zu importieren .
-Um eine einzelne Ecke in einen anderen Typ umzuwandeln , klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf einen beliebigen Ecken-Kontrollpunkt .
+Um eine einzelne Ecke in einen anderen Typ umzuwandeln , klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf einen beliebigen Ecken-Kontrollpunkt .
 Wenn Sie in das SWF-Format exportieren , erstellen Sie eine Datei , die für die Anzeige in Adobe Flash Player bereit .
 Wählen Sie " Bearbeiten " " HTML-Code kopieren . "
 Adobe PDF ist der Standard für die sichere und zuverlässige Verteilung und den Austausch elektronischer Dokumente und Formulare weltweit .
@@ -6358,7 +6358,7 @@ Das Dialogfeld " Fluchtpunkt " wirkt sich nicht auf andere Movieclips aus .
 Die letzte Bestellung ist jedoch basierend auf der relativen Seitenreihenfolge zwischen Seiten unter dem gleichen Übergeordnet bestimmt .
 Es kann eine andere Seite für jede Verknüpfung in einem Rahmen .
 Andernfalls wird ein Fehler ausgelöst .
-Alternativ können Sie Geräteschriftarten verwenden , um eine allgemeine Art der Schriftart , wie z . B. serifenlose Schriften angeben .
+Alternativ können Sie Geräteschriftarten verwenden , um eine allgemeine Art der Schriftart , wie z. B. serifenlose Schriften angeben .
 Wenn ein anderer Benutzer die Datei bearbeitet wird , wird es von Contribute wird der Benutzer informiert , dass die Datei nicht für die Bearbeitung verfügbar ist .
 Die Schaltflächen und Menübefehle im Transformierenbedienfeld sind auch im Steuerungsbedienfeld verfügbar .
 Der Wert muss between10 und 30 ein .
@@ -6414,7 +6414,7 @@ Klicken Sie im Reihenfolge-Fenster , navigieren Sie zum Anzeigen einer Liste der
 Weitere Informationen finden Sie unter Angabe von Zeitachsendauer und Framerate ( Photoshop Extended ) .
 ( Optional ) Wenn Sie den Hintergrund selektiv auf einzelne Seiten anzuwenden , klicken Sie auf " Optionen für Seitenbereich .
 Während der Code zeigt , Kugel instanziiert wird .
-Sie können auch verschiedene Layouthilfen verwenden , wie z . B . Lineale , Raster , Dokument und Grundlinienraster .
+Sie können auch verschiedene Layouthilfen verwenden , wie z. B. Lineale , Raster , Dokument und Grundlinienraster .
 Klicken Sie auf den Anfangspunkt .
 Klicken Sie entweder eine durch Kommas getrennte ( CSV ) oder einen Tabulator ( tabulatorgetrennte ) , dass jeder Variablenname oder Wert trennt .
 Sie müssen Contribute konfigurieren , um die alternativen Internetadressen , auf die Benutzer zugreifen müssen , nicht alle möglichen alternativen Internetadressen erkannt werden .
@@ -6422,7 +6422,7 @@ Der sucht nach einem beliebigen Zeichen ( .
 Wählen Sie " Modifizieren " " Transformieren " > " Verzerren " aus .
 Wählen Sie zum Ändern der Zusatzmodule Liste anzuzeigen , wählen Sie eine Option aus , oder heben Sie die Auswahl im Abschnitt anzeigen .
 Die ursprünglichen Dateien behalten ihre individuellen Identitäten jedoch in einem PDF-Portfolio eingebaut werden .
-Infinite Lichtquellen leuchten aus einer direktionalen Ebene , z . B . Sonnenlicht .
+Infinite Lichtquellen leuchten aus einer direktionalen Ebene , z. B. Sonnenlicht .
 Im Allgemeinen sollten Sie die Füllmethode auf " Farbe " beizubehalten .
 Sobald die Anmerkungen gespeichert sind , werden die vorgenommenen Änderungen in der Version in Illustrator widergespiegelt .
 Wenn das Compositing mit dem GPU-beschleunigte ist , kann die Leistung von YUV-Konvertierung , Farbkorrektur , Drehung oder Skalierung und die Verschmelzung verbessern .
@@ -6494,7 +6494,7 @@ Mit einem niedrigen Wert wird ein dunkles Störungsmuster generiert und mit eine
 Wählen Sie " Bearbeiten " " Marker , " und führen Sie einen der folgenden Schritte aus :
 Zum Drucken von Booklets , muss Ihr Drucker den automatischen oder manuellen Duplexdruck unterstützen ( Drucken auf beiden Seiten des Papiers ) .
 Das Flächentext-Werkzeug ändert sich geschlossene Pfade , Textrahmen und ermöglicht es Ihnen , Text eingeben und bearbeiten .
-Einige Filter ( z . B . Auto-Tonwertkorrektur , Gaußscher Weichzeichner und Unscharf maskieren ) , die Plugins oder Filter sind nun auch verfügbar , da Fireworks-Live-Filter irreversibel waren .
+Einige Filter ( z. B. Auto-Tonwertkorrektur , Gaußscher Weichzeichner und Unscharf maskieren ) , die Plugins oder Filter sind nun auch verfügbar , da Fireworks-Live-Filter irreversibel waren .
 In diesem Fall wird der Indexeintrag mit dem Querverweis für Gleitkommabilder enthält auch die Seitenzahlen und / oder Untereinträge , die sich direkt auf das Thema des Eintrags .
 Wenn Sie AutoCAD PDFMaker verwenden , um eine PDF-Datei zu erstellen , können Sie die Kommentare in der AutoCAD-Zeichnung importieren , anstatt zwischen AutoCAD und Acrobat zu wechseln .
 Alle Teilnehmer müssen Lese- und Schreibzugriff auf den Ordner Dokumentbibliothek innerhalb des Arbeitsbereichs angegeben wird .
@@ -6509,7 +6509,7 @@ Sie können diese Einstellungen als Vorgabe für die spätere Verwendung speiche
 Siehe auch IDE .
 Die unsichtbaren , überlappenden Bereiche der Formen gelöscht werden .
 Jedes Pixel wird eine Farbe zugewiesen .
-n . Auch Bedienfeld " Ausgabe " angezeigt .
+n. Auch Bedienfeld " Ausgabe " angezeigt .
 Darüber hinaus können Sie Ihre Skripts aus dem Bedienfeld " Aktionen " in externen ActionScript-Dateien exportieren .
 Eine Datei , die die Videodateien in das Video Jukebox geladen werden .
 Darüber hinaus können Sie Text mithilfe des Notizmodus konvertieren .
@@ -6519,7 +6519,7 @@ Wählen Sie " Ebene " " Ebenenstil " > " Effekte skalieren " aus .
 So erstellen Sie eine Reihe von glatten Kurven , ziehen Sie das Zeichenstift-Werkzeug aus anderen Speicherorten fortzusetzen .
 Diese Sätze sind einige häufig verwendete Kurven und Farben .
 Wählen Sie ein Textwerkzeug aus und wählen Sie " Auswählen " " Auswahl aufheben , " um die Auswahl aller Objekte auf der Leinwand .
-Zur Laufzeit verwenden Sie die Methode setSize ( ) oder die entsprechenden Eigenschaften der ProgressBar-Klasse , wie z . B. height , width , scaleX und scaleY .
+Zur Laufzeit verwenden Sie die Methode setSize ( ) oder die entsprechenden Eigenschaften der ProgressBar-Klasse , wie z. B. height , width , scaleX und scaleY .
 Movieclips in Schaltflächen sind in der -Authoring-Umgebung nicht sichtbar .
 Das Dialogfeld " Öffnen " SWF-Inhalt auswählen " Von Website , " " SWF suchen " oder " Gemeinsame Elemente einfügen " wird angezeigt .
 Illustrator bietet die folgenden Methoden , um Objekte auszuschneiden , teilen und trimmen :
@@ -6584,7 +6584,7 @@ Wählen Sie den optischen Randausgleich .
 Wenn das Element eines Textankers oder Seitenziel , InDesign springt zu diesem Speicherort .
 Wenn Sie die Kurve anpassen , werden die Werte automatisch in die prozentualen Textfelder eingegeben haben .
 Ereignisablauf Informationen in die übrigen Eigenschaften enthalten ist .
-n . Unidirektionale Kanal für Informationen , um von außerhalb eines Modells / / Controller System in das System anzuzeigen .
+n. Unidirektionale Kanal für Informationen , um von außerhalb eines Modells / / Controller System in das System anzuzeigen .
 Weitere Informationen zum Konvertieren von 3D-Dateien finden Sie in den folgenden Online-Ressourcen :
 Die SWF-Datei können Klassen aus der geladenen SWF-Datei abrufen , indem Sie Loader.contentLoaderInfo.applicationDomain.getDefinition ( ) .
 Sie können die Nummerierung anwenden , wenn Sie die Liste erstellen , oder Sie können die Nummerierung zu einer vorhandenen Liste hinzuzufügen .
@@ -6600,7 +6600,7 @@ Klicken Sie im Korrekturbedienfeld , führen Sie einen der folgenden Schritte au
 Wählen Sie den Symboltyp , mit dem Sie das Video in die SWF-Datei einzubetten .
 Sie können diese Warnung ignorieren , wenn Ihr Bibliothekssymbol keine einzigartige Funktionalität über die Funktionalität der MovieClip-Klasse erforderlich sind .
 Sie können 3D-Modelle in unterstützten Dateiformate als Grundlage für neue PDFs verwenden , oder Sie können sie direkt in vorhandene PDF-Dokumente zu öffnen .
-Sie können auch die Befehle Kopieren und Einfügen verwenden , um Vektorobjekte zwischen einem Photoshop-Bild duplizieren und ein Bild in einer anderen Anwendung , wie z . B . Adobe Illustrator .
+Sie können auch die Befehle Kopieren und Einfügen verwenden , um Vektorobjekte zwischen einem Photoshop-Bild duplizieren und ein Bild in einer anderen Anwendung , wie z. B. Adobe Illustrator .
 Weitere Informationen zum Erstellen und Bearbeiten von Blendeffekte finden Sie in diesem Thema in der Webhilfe .
 Ein Video zur Verwendung von Textstilen finden Sie unter http : / / www.adobe.com / go / vid0076 _ de www.adobe.com / go / vid0076 .
 Wenn dieses Feld leer ist oder die Datei in die Vorlage veröffentlicht wurde , wird es nicht funktionieren .
@@ -6615,7 +6615,7 @@ Als Alternative zu rechteckigen Textblöcke , können Sie einen Pfad zeichnen un
 Sie können auch ein Farbfeld aus dem Farbwähler hinzufügen , indem Sie auf die Schaltfläche " Hinzufügen " zu " Farbfelder . "
 Die Texturmap als Smart-Objekt in einem eigenen Dokumentfenster geöffnet wird .
 Öffnet die Datei in Device Central für die Vorschau auf einem bestimmten Mobiltelefon oder Gerät .
-Alle Transformationen für die Grafiken in der Aufgabe , wie z . B . Verschieben , Skalieren , Drehen oder Verbiegung einbezogen .
+Alle Transformationen für die Grafiken in der Aufgabe , wie z. B. Verschieben , Skalieren , Drehen oder Verbiegung einbezogen .
 Der Standardwert für Variablen , die für den Datentyp " int " ist 0 .
 Das Vertikaler-Flächentext-Werkzeug aus ändert sich geschlossene Pfade , Textrahmen und ermöglicht es Ihnen , Text eingeben und bearbeiten .
 Das timer-Ereignis , das durch die SoundFacade.play ( ) -Methode auslöst ein TimerEvent Instanz pro Sekunde erstellt wird .
@@ -6640,7 +6640,7 @@ Das XML-Beispiel wird davon ausgegangen , dass Sie die folgenden Schritte zum Er
 Die Klasse " speichert einen Keyframe Animationssequenz , die auf ein sichtbares Objekt angewendet werden können .
 In einigen Fällen kann die Stapelreihenfolge der ausgewählten Objekte bestimmt , wie der Vorgang funktioniert .
 Wählen Sie das Bitmap-Objekt aus .
-Um die Bühne auszuwählen , drücken Sie Strg + Alt + Pos1 ( Windows ) bzw . Befehl + Wahl + Pos1 ( Macintosh ) .
+Um die Bühne auszuwählen , drücken Sie Strg + Alt + Pos1 ( Windows ) bzw. Befehl + Wahl + Pos1 ( Macintosh ) .
 Umfasst Bilder in der PDF-Datei .
 Darüber hinaus können Sie 3D-Objekte erstellen .
 Wählen Sie einen Wert aus dem Menü des Textfelds .
@@ -6686,7 +6686,7 @@ Ein Benutzer kann eine Dateiübertragung abzubrechen und alle weitere Byte angeh
 Ziehen Sie den Wert in das Feld Lockerung oder geben Sie einen Wert ein , um die Änderungsrate für Zwischenbilder anzupassen :
 Beispielsweise können Sie die toString ( ) -Methode auch außerhalb der Object Klassendefinition definiert werden , wie im Folgenden dargestellt :
 Klicken Sie auf den Shape-Stempel .
-Das Sperren von Slices wird verhindert , dass Sie versehentlich Änderungen vorzunehmen , wie z . B. das Verschieben oder Ändern der Größe .
+Das Sperren von Slices wird verhindert , dass Sie versehentlich Änderungen vorzunehmen , wie z. B. das Verschieben oder Ändern der Größe .
 InDesign überprüft nicht , ob das CSS vorhanden ist oder gültig ist , sollten Sie Dreamweaver verwenden , um die externen CSS setup bestätigen .
 Sie können einzelne Ebenen im Ebenenbedienfeld neu anordnen .
 Wählen Sie im Menü " Farbe / Graustufe im Dialogfeld " Optimierungsoptionen " verlustfreie Komprimierung , um ein gescanntes Bild anwenden , indem Sie " CCITT für Schwarzweißbilder oder " Verlustfrei " für Farb- oder Graustufenbilder .
@@ -6775,7 +6775,7 @@ Wenn Sie den Listener auf das Objekt DrawingCanvas wird sichergestellt , dass da
 Sie können die folgenden Optionen einstellen :
 Die lastIndexOf ( ) -Methode sucht das letzte Vorkommen einer Subzeichenkette in einer Zeichenfolge :
 Um einen Zeiger zu entfernen , ziehen Sie ihn nach unten und die Definitionsleiste zu deaktivieren .
-Darüber hinaus können Sie sie einzeln zugreifen ( z . B. das Öffnen der Schublade und ein einzelner Ordner auswählen ) .
+Darüber hinaus können Sie sie einzeln zugreifen ( z. B. das Öffnen der Schublade und ein einzelner Ordner auswählen ) .
 Die Datei behält keine einzelne Objekte konvertiert .
 In den meisten Fällen wird eine Entfernung von 1 oder 2 Pixel abzuspielen .
 Sie können Tags importieren , exportieren , hinzufügen , löschen und umbenennen .
@@ -6791,7 +6791,7 @@ In früheren Versionen von Flash Player , der FileReference.upload ( ) -Methode 
 Anders ausgedrückt , wird ein LoaderInfo-Objekte zwischen dem geladenen Objekt und dem Loader-Objekt , dass sie geladen ( zwischen loader und loadee ) .
 Bei vertikalem Text , der der Mittelachse der Zeichen .
 Um den Versatz gleichmäßig auf allen Seiten der Seite erweitern , klicken Sie auf die Option " Alle Einstellungen desselben Symbols .
-Wenn Sie z . B . Brennweite auf 100 eingestellt ist , werden Pixel mit 1 und 255 sind vollkommen unscharf und näher zu 100 Pixel weniger weichgezeichnet werden .
+Wenn Sie z. B. Brennweite auf 100 eingestellt ist , werden Pixel mit 1 und 255 sind vollkommen unscharf und näher zu 100 Pixel weniger weichgezeichnet werden .
 In XML-Dateien , Elemente innerhalb anderer Elemente zum Erstellen einer hierarchischen Struktur für die Daten verschachtelt sind .
 In diesem Beispiel wird ein Mischmodus basierend auf Luminanz aufzuhellen .
 ( InDesign ) Das InDesign-Dokumentfenster muss sich im Normalmodus für die Rahmenkanten angezeigt werden sollen .
@@ -6801,7 +6801,7 @@ complete-Ereignis ( Event.COMPLETE ) : Wird ausgelöst , wenn der Speichervorgan
 Ziehen Sie die Hilfslinie an die gewünschte Position .
 Sie können die Position animieren , indem Sie einen Keyframe mit der Eigenschaft " Position " und dann den Marker für die aktuelle Zeit verschieben und die Ebene im Dokumentfenster ziehen .
 Die Originaldateien werden in den aktuellen Ordner , um einen ursprünglichen Dateien Unterordner verschoben , und eine aufsteigende Zahl , um jeden Dateinamen angehängt .
-Wenn Sie z . B. das Objekt in der oberen linken Ecke der Seite verschieben möchten , wählen Sie den oberen linken Referenzpunkt .
+Wenn Sie z. B. das Objekt in der oberen linken Ecke der Seite verschieben möchten , wählen Sie den oberen linken Referenzpunkt .
 Der wesentlichste Faktor bei der Auswahl einen Wert für die Rasterweite ist die Art der Druckmaschine Ihres Auftrags verwendet wird .
 Um den Rahmen samt Inhalt spiegeln , verwenden Sie das Auswahl-Werkzeug , um den Rahmen auszuwählen .
 Um eine oder mehrere der folgenden Dienste deaktivieren möchten , deaktivieren Sie das entsprechende Kontrollkästchen , und klicken Sie auf " Einstellungen speichern . "
@@ -6862,7 +6862,7 @@ Sie können auch die Position der Spitze und am Ende der einzelnen Bones später
 Die folgenden Begriffe werden in diesem Handbuch verwendet :
 Ein Begrenzungsrahmen zeigt den Bereich der Bitmap , die Sie beim Zuschneiden beibehalten möchten .
 Wählen Sie diese Option , wenn Sie den Benutzer eingeben möchten .
-n . Reihe von einem oder mehreren Strings , die in einem Textfeld oder in einer Komponente der Benutzeroberfläche angezeigt werden kann .
+n. Reihe von einem oder mehreren Strings , die in einem Textfeld oder in einer Komponente der Benutzeroberfläche angezeigt werden kann .
 Bilddateien werden nie upsampled .
 Die Optionen " Unterstrichen " Links " und " Rechts " Unterstrichen " im Menü des Zeichenbedienfelds nur dann , wenn Sie eine Textebene mit vertikalem Text ausgewählt ist .
 Zwingt Photoshop aufgefordert , die Sie für Schnappschuss benennt , auch wenn Sie die Schaltflächen auf der Kontrollleiste verwenden .
@@ -6913,7 +6913,7 @@ Um alle Dateitypen , die nicht über zugeordnete Anwendungen auszublenden , wäh
 Klicken Sie auf " OK , " oder klicken Sie auf " Speichern , " um Ihre Änderungen zu speichern , ohne das Dialogfeld zu schließen .
 Zeigt die Geometrie , die PMI-Daten ( Product Manufacturing Information ) und alle Ansichten ( einschließlich PMI Ansichten nur für das isolierte Teil ) .
 Der Student beginnt ein integriertes Quiz mit einer Quizvorlage arbeiten .
-Steuert den Fluss zwischen Bildschirmen ( z . B. aktivieren , können Sie zu einem anderen Bildschirm wechseln , wird ein Bildschirm ausblenden oder einen Bildschirm anzuzeigen .
+Steuert den Fluss zwischen Bildschirmen ( z. B. aktivieren , können Sie zu einem anderen Bildschirm wechseln , wird ein Bildschirm ausblenden oder einen Bildschirm anzuzeigen .
 Weitere Informationen zum Erstellen von Maus- und Tastaturinteraktion finden Sie unter Erfassen von Benutzereingaben .
 Fügen Sie die folgenden ActionScript 2.0 in das Bedienfeld " Aktionen " :
 Folgen Sie den Anweisungen des Assistenten und klicken Sie auf " Weiter " ( Windows ) oder " Fortfahren " ( Macintosh ) , um mit dem nächsten Bildschirm fortzufahren .
@@ -6925,7 +6925,7 @@ Klicken Sie auf " Weiter , " um die Bildschirme in den Assistenten verschieben .
 Sie können die getweenten Frames einzeln bearbeiten , nachdem Sie sie erstellen .
 Schnappschüsse können für eine ganze Arbeitssitzung gespeichert werden .
 ( Aktionenbedienfeld ) Klicken Sie den Skripthilfemodus , erhalten Sie eine Benutzeroberfläche für die Eingabe von Elementen zum Erstellen von Skripts erforderlich sind .
-Es ist nicht möglich , eine Webseite oder einen Blogeintrag bearbeiten , wenn es gesperrt ist , d. h . , wenn ein anderer Benutzer zurzeit bearbeitet wird .
+Es ist nicht möglich , eine Webseite oder einen Blogeintrag bearbeiten , wenn es gesperrt ist , d. h. , wenn ein anderer Benutzer zurzeit bearbeitet wird .
 Beschriftet ein ausgewähltes Bild oder eine Beschriftung als einzelnes Tag .
 Um die Zusammenfassung als ASCII-Textdatei zu speichern , klicken Sie auf " Speichern . "
 Speichern Sie Filtereinstellungen als voreingestellten Bibliotheken können Sie schnell und einfach auf Movieclip- und Textobjekte angewendet werden .
@@ -6953,10 +6953,10 @@ Der Höchstwert ist 100 , wodurch der deutlichste Beschleunigungseffekt auf die 
 PDF-Optimierung ist nicht verfügbar , wenn Reflow im Menü " Ansicht " aktiviert ist .
 " Drehen " können Sie die Auswahl schrittweise durch Ziehen eines Auswahlpunktes in die Richtung zu drehen .
 Wählen Sie den Bereich für die Verknüpfung .
-Sie können auch bei gedrückter Strg-Taste ( Windows ) bzw . Wahltaste ( Macintosh ) gedrückt , um mehrere Steuerpunkte aus dem ausgewählten Bone zu entfernen .
+Sie können auch bei gedrückter Strg-Taste ( Windows ) bzw. Wahltaste ( Macintosh ) gedrückt , um mehrere Steuerpunkte aus dem ausgewählten Bone zu entfernen .
 Gruppiert alle Operatoren in der Inhalte streamen , die auf die gleichen Grafik-Status Verschachtelungsebene in der q / Q Operatoren gehören .
 Geben Sie in das Textfeld " Label " auf die Schaltfläche , die als Senden-Schaltfläche identifiziert werden .
-Verzerren oder Verformen von Objekten , wie z . B . Pfade , Text , Netze , Verschmelzungen und Rasterbilder .
+Verzerren oder Verformen von Objekten , wie z. B. Pfade , Text , Netze , Verschmelzungen und Rasterbilder .
 Mit dem Pfadtext-Werkzeug , führen Sie einen der folgenden Schritte aus :
 Wenn Sie Probleme auftreten , erhöhen Sie die Größe des Arbeitsspeichers für Photoshop .
 Klicken Sie auf eine beliebige Stelle im Dokument , und halten Sie die Maustaste gedrückt .
@@ -7007,7 +7007,7 @@ Klicken Sie im Dialogfeld " Meine Verbindungen " den Blogserver aus , den Sie ko
 Weitere Informationen zu Funktionen finden Sie unter Funktionen .
 Um den Cue-Point zu berechnen , teilen Sie die Startzeit durch die Framerate .
 Verwenden Sie die Matrix3D ( ) -Konstruktormethode , um eine neue Matrix instanziieren .
-Sie können die Komponente Multimediadateien , wie z . B . MOV , AVI und WMV , PDF- , SWF- oder FLV-Dateien in einem PDF-Portfolio konvertieren .
+Sie können die Komponente Multimediadateien , wie z. B. MOV , AVI und WMV , PDF- , SWF- oder FLV-Dateien in einem PDF-Portfolio konvertieren .
 Ein Statusdialogfeld zeigt den Fortschritt der Datei .
 Wenn Sie diese Option wählen , werden alle Objekte mit Transparenz reduziert .
 Einige Optionen für das Bewegen in einem Textabschnitt , hängt davon ab , ob Sie in der Druckfahnen- , Textabschnitts- und Layoutansicht arbeiten .
@@ -7034,7 +7034,7 @@ Um die Verlaufsliste für das aktuelle Dokument zu löschen , deaktivieren Sie d
 Fügen Sie eine Aktion aus , oder wählen Sie eine Anweisung in das Skriptfenster .
 Klicken Sie im Dialogfeld " Farbtabelle " eine vordefinierte Tabelle aus dem Menü " Tabelle . "
 Sie können einen Movieclip oder ein Grafiksymbol in der Bibliothek als Symbol mit dem Effekt " Füllung " Raster . "
-Geben Sie im Feld Titel einen Titel für das Inhaltsverzeichnis ein ( z . B . Inhalt oder Abbildungsliste ) .
+Geben Sie im Feld Titel einen Titel für das Inhaltsverzeichnis ein ( z. B. Inhalt oder Abbildungsliste ) .
 Wenn Sie einen Stil mit einem benutzerdefinierten Namen zu erstellen , wählen Sie im Bedienfeldmenü die Option " Neuer Stil . "
 Geben Sie eine Zahl im Feld Process Dateien , die größer als ein .
 Geben Sie einen Namen für die Vorgabe ein .
@@ -7051,7 +7051,7 @@ Ziehen Sie den entsprechenden Farbunterbrechungsregler nach links oder rechts an
 Jeder neue Keyframe anfänglich den gleichen Inhalt wie das vorhergehende Schlüsselbild enthält , können Sie die Frames in der Animation schrittweise zu ändern .
 Adobe Director , Flash-SWF-Datei abspielen ; $ nopage Director .
 Wenn Sie ein Bild mithilfe der TWAIN-Schnittstelle importieren , wird das optionale TWAIN-Zusatzmodul installieren .
-Wenn Sie die Option " Acrobat 6.0 Compatible Media , müssen Sie viele weitere Optionen , wie z . B. die Option , um das Video einzubetten und mehrere Formatvarianten hinzuzufügen .
+Wenn Sie die Option " Acrobat 6.0 Compatible Media , müssen Sie viele weitere Optionen , wie z. B. die Option , um das Video einzubetten und mehrere Formatvarianten hinzuzufügen .
 Eine Ablenker ist eine Reihe von verfügbaren Optionen .
 Mit dem Direktauswahl-Werkzeug einen Ankerpunkt des Segments aus , den Sie anpassen möchten .
 Bei Bedarf können Sie weitere Registerkarten im Dialogfeld Schaltflächeneigenschaften öffnen und andere Eigenschaften anzuwenden .
@@ -7138,7 +7138,7 @@ Um die Komponente Pfade umzugruppieren , ohne dass Sie Änderungen an einzelnen 
 Wenn das Objekt eine gemusterte Fläche enthält , wählen Sie " Muster , um das Muster zu skalieren .
 Textfelder sind in InDesign Textrahmen konvertiert .
 Sie können ein Bildfeld auf ein vorhandenes Bild zuweisen , um ein verschiebbares Bild zu erstellen .
-Kategorien werden häufig Zeiteinheiten , wie z . B . Tage , Monate oder Jahre .
+Kategorien werden häufig Zeiteinheiten , wie z. B. Tage , Monate oder Jahre .
 Führen Sie ggf. die letzten Anpassungen im Korrekturbedienfeld vornehmen .
 Dokumentteile , Copyright , Focoltone Colour System .
 Die Kombination aus Pixelabmessung und Auflösung bestimmen die Menge der Bilddaten an .
@@ -7162,7 +7162,7 @@ Klicken Sie im Absatzbedienfeld oder Optionsleiste , klicken Sie auf eine Ausric
 ( Mac OS ) , klicken Sie bei gedrückter Ctrl-Taste auf das Anwendungssymbol , und wählen Sie Paketinhalt anzeigen .
 Es gibt zwei verschiedene Arten von Videos :
 uploadCompleteData Ereignis ( DataEvent.UPLOAD _ COMPLETE _ DATA ) : Wird ausgelöst , nachdem Daten aus dem Server nach einem erfolgreichen Upload empfangen werden .
-Eine Kopfzeile kann Text und Grafiken , wie z . B. ein Logo , den Firmennamen oder Kontaktinformationen enthalten .
+Eine Kopfzeile kann Text und Grafiken , wie z. B. ein Logo , den Firmennamen oder Kontaktinformationen enthalten .
 Wenn Sie einen anderen Arbeitsbereich als " Erweitert " wählen , werden einige Menübefehle verborgen .
 Wenn Sie immer mit dem gleichen Frame aus , den Sie ursprünglich für malen , wählen Sie Bild sperren .
 Klicken Sie auf " Dateien hinzufügen , " wählen Sie " Dateien hinzufügen " oder " Geöffnete Dateien hinzufügen " und wählen Sie die Dateien aus .
@@ -7213,7 +7213,7 @@ Außerdem können Sie den Text in ein anderes Objekt verketten .
 Die Inhalte , die in den einzelnen Frames angezeigt werden , die in separaten Dateien gespeichert werden .
 Sie können auch mit dem Dialogfeld " Meine Verbindungen " , um die Typen der Audio- , Video- und Bilddateien angeben , die in Blogeinträgen veröffentlicht werden kann .
 Erstellen Sie ein Animationssymbol , entweder von Grund auf oder durch Konvertieren eines vorhandenen Objekts in ein Symbol .
-Wenn Sie Ihre digitale ID auf einer Smartcard oder einem Hardware-Token , müssen Sie angeben , dass beim Signieren bzw . Zertifizieren von Dokumenten gespeichert werden .
+Wenn Sie Ihre digitale ID auf einer Smartcard oder einem Hardware-Token , müssen Sie angeben , dass beim Signieren bzw. Zertifizieren von Dokumenten gespeichert werden .
 Drücken Sie die Eingabetaste bzw. den Zeilenschalter .
 Wählen Sie diese Option , um eine HTML-Seite zu generieren , die die SWF-Datei abgespielt wird .
 Es ist schwer zu debuggen .
@@ -7348,7 +7348,7 @@ Beachten Sie auf Regierungsendbenutzer .
 Sie können auch auf die Schaltfläche " Vorgabe speichern " klicken , um Dokumenteinstellungen für die spätere Verwendung speichern .
 Das Verhältnis zwischen Bildauflösung , Auflösung und Rasterweite , bestimmt die Qualität des gedruckten Bildes .
 Ein Video zum Arbeiten mit Füllmethoden finden Sie unter http : / / www.adobe.com / go / vid0055 _ de www.adobe.com / go / vid0055 .
-Sie können die Seite Zoomstufe ändern ( z . B. in Echtgröße ) , das Seitenlayout ( z . B . " Fortlaufend - Facing ) oder die Drehung ausgerichtet .
+Sie können die Seite Zoomstufe ändern ( z. B. in Echtgröße ) , das Seitenlayout ( z. B. " Fortlaufend - Facing ) oder die Drehung ausgerichtet .
 Sie legen den Basistyp des Vektors mit der Syntax .
 Die Filtereigenschaft Bedienfelder in der Anwendung diese Factory-Klassen zum Erstellen von Instanzen individuelle Filter , die die FilterWorkbenchController-Klasse abruft und bezieht sich auf den Bildinhalt verwenden .
 Die LOG-Datei wird am unteren Rand des Dialogfelds angezeigt .
@@ -7371,7 +7371,7 @@ Wählen Sie " Datei einbetten " im Menü des Verknüpfungenbedienfelds .
 Sie können auch Objekte und Ebenen schützen , indem Sie diese ausblenden .
 Wenn ein Benutzer auf den Hyperlink klickt , wird der Webbrowser zur angegebenen URL und Zielrahmen navigiert .
 Klicken Sie auf eine andere Instanz in den Ergebnissen .
-Wenn Sie einen Ordner für die Archivierung auf einem externen Datenträger , z . B. eine CD oder DVD kopiert wird , werden die Cache-Dateien ebenfalls kopiert .
+Wenn Sie einen Ordner für die Archivierung auf einem externen Datenträger , z. B. eine CD oder DVD kopiert wird , werden die Cache-Dateien ebenfalls kopiert .
 Klicken Sie auf den Text , den Sie bearbeiten möchten .
 Ziehen Sie den Regler " auf der linken Seite , um die Abweichungsbereich zu verringern , oder nach rechts , um den Bereich zu erhöhen .
 Diese Vorgaben werden automatisch im Menü " Adobe PDF-Vorgaben " aus .
@@ -7406,7 +7406,7 @@ Weitere Informationen finden Sie auf der Website von Section 508 .
 Weitere Informationen zu Hyperlinks finden Sie unter Tabellenbezeichnungen .
 Die überarbeiteten Kategorien im Popupmenü " Kategorien " in der Symbolleiste angezeigt .
 Es ist auch möglich , überlappende Verbindungspfade zu erstellen .
-Die Math-Klasse enthält Konstanten gängiger mathematischer Interesse , wie z . B . Math.PI ( etwa 2 * Pi ... ) , eine Konstante für das Verhältnis des Umfangs eines Kreises zu seinem Durchmesser .
+Die Math-Klasse enthält Konstanten gängiger mathematischer Interesse , wie z. B. Math.PI ( etwa 2 * Pi ... ) , eine Konstante für das Verhältnis des Umfangs eines Kreises zu seinem Durchmesser .
 Wählen Sie dann einen Container auf die Seite , zu der Sie den Container verschieben möchten , und wählen Sie " Einfügen " aus dem Menü " Optionen . "
 ( Nur Windows ) Wenn Sie Internet Explorer als Lesezeichen anzuzeigen , wählen Sie " Lesezeichen " " Andere Lesezeichen , und wählen Sie dann ein Lesezeichen aus der Liste aus .
 Klicken Sie auf die Schaltfläche " Filter hinzufügen , " und wählen Sie " Alle aktivieren " oder " Alle deaktivieren " aus .
@@ -7498,7 +7498,7 @@ Erstellen Sie eine neue ActionScript-Datei .
 Sucht nach der Durchschnittsfarbe eines Bildes oder der Auswahl und füllt dann das Bild oder die Auswahl mit der Farbe , um eine glatte Darstellung zu erstellen .
 Wenn Sie ein Vorschaubild erstellen möchten , wählen Sie " Ohne " aus dem Menü " Format " aus .
 Weitere Informationen zu neuen Adobe InCopy CS4-Funktionen finden Sie unter http : / / www.adobe.com / go / ic _ newfeatures _ de www.adobe.com / go / ic _ newfeatures _ de .
-Zum Ändern der Reihenfolge , in der die Komponenten gedruckt werden soll , wählen Sie eine Komponente aus , und klicken Sie auf die Schaltfläche " Nach oben " bzw . " Nach unten . "
+Zum Ändern der Reihenfolge , in der die Komponenten gedruckt werden soll , wählen Sie eine Komponente aus , und klicken Sie auf die Schaltfläche " Nach oben " bzw. " Nach unten . "
 Ein Bewegungspfad ohne Beschleunigung angewendet .
 Standardmäßig ist der Name der SWF-Datei .
 Es wird zunächst ein Dialogfeld geöffnet , in dem der Benutzer einen neuen Dateinamen und den Speicherort einer Datei eingeben .
@@ -7585,7 +7585,7 @@ So legen Sie die Rate für die Befestigung des Lasso-Werkzeugs verweist , geben 
 Ein Störungseffekt auf die statische , die in einer untuned Fernsehschirm vergleichbar .
 Weitere Informationen finden Sie unter Rendern von Rastern in Photoshop .
 Wählen Sie " Objekt " " Darstellung erweitern . "
-n . Objekte , die alle Eigenschaften und Methoden einer bestimmten Klasse enthalten .
+n. Objekte , die alle Eigenschaften und Methoden einer bestimmten Klasse enthalten .
 Die Zeitleiste für ein Movieclip-Objekt entspricht der Zeitleiste im Flash-Authoring-Tool .
 Der Beleuchtungseffekte-Filter können Sie zahllose Beleuchtungseffekte für RGB-Bilder erzeugen .
 Die Szenen im Dokument in der Reihenfolge abgespielt , in der sie im Bedienfeld " Szene " aufgeführt sind .
@@ -7616,7 +7616,7 @@ Aktiviert den Debugger und Remotedebugging von einer SWF-Datei ermöglicht .
 Erstellen Sie eine Farbfeldbibliothek , die die Farben enthält , die Sie in der Netzverfolgung verwenden möchten .
 Wählen Sie im daraufhin angezeigten Dialogfeld , um Ihre Auswahl zu bestätigen .
 Wählen Sie unter " Produktbereich " den Bereich mit den Befehlen , die Sie definieren oder neu definieren möchten .
-Klicken Sie bei gedrückter Alt- ( Windows ) bzw . Wahltaste ( Mac OS ) auf ein Farbfeld im Farbfeldbedienfeld .
+Klicken Sie bei gedrückter Alt- ( Windows ) bzw. Wahltaste ( Mac OS ) auf ein Farbfeld im Farbfeldbedienfeld .
 In Contribute können Sie eine vorhandene Seite aktualisieren und dann eine neue Seite veröffentlichen , ohne die Originalseite zu überschreiben .
 Wenn Sie eine kurze Videodatei aufgerufen startrekintro.f4v , erzeugt dieses Beispiel den folgenden Zeilen nachzeichnen .
 Diese Option ist aktiviert , wenn Sie Ihre Scanner-Optionen festgelegt werden , verwenden Sie das Dialogfeld " Acrobat Scan anstelle des Scanners .
@@ -7641,7 +7641,7 @@ Aktivieren Sie zeitlich für einzelne Eigenschaftenschlüsselbilder für die X- 
 Ziehen Sie den ausgewählten Text aus einer anderen Anwendung in den Contribute-Entwurf .
 Geben Sie den Wert ein .
 Durch das Gruppieren von Videoebenen in Photoshop ist vergleichbar mit dem Erstellen von Unterkompositionen in Adobe After Effects .
-Die Funktion eval wandelt eine Zeichenfolge in einen Movieclip verweisen , der zum Aufrufen von Methoden , wie z . B. play verwendet werden kann .
+Die Funktion eval wandelt eine Zeichenfolge in einen Movieclip verweisen , der zum Aufrufen von Methoden , wie z. B. play verwendet werden kann .
 Wählen Sie eine Farbe aus und klicken Sie auf die Schaltfläche " Farbe bearbeiten " am unteren Rand des Bedienfelds " Optimieren . "
 Definition enthält gültige Namen von Stilen und Listen definiert .
 Geben Sie den Befehl in der Befehlszeile oder im Textfeld " URL " ein .
@@ -7650,7 +7650,7 @@ Wenn Sie den Vektor verwenden .
 Stellen Sie sicher , dass Formmarken logischen sind .
 Zeigt Hilfslinien , die die Bereiche darstellen , die innerhalb des sichtbaren Bereichs liegen .
 Sie können Dateien aus Adobe Illustrator und Adobe Photoshop direkt in Flash importieren .
-Hier können Sie eine benutzerdefinierte PPD-Datei auszuwählen , z . B. ein von Ihrem Servicebüro für die Verwendung mit dem angegebenen Drucker bereitgestellt .
+Hier können Sie eine benutzerdefinierte PPD-Datei auszuwählen , z. B. ein von Ihrem Servicebüro für die Verwendung mit dem angegebenen Drucker bereitgestellt .
 Die Position der Komponente Paketordner bezieht sich auf den Speicherort der Quelldateien für die Komponente .
 Mausabhängige Effekte auf Hotspots , so wie sie in Segmente angewendet werden .
 Optionen zur Verfügung , die mit jedem Werkzeug variieren .
@@ -7670,7 +7670,7 @@ Mit dieser Option erzielen Sie die genauesten Beweise , aber es ist nicht für a
 Wählen Sie in der Toolbox , das Feld " Fläche " oder " Kontur " aus .
 Wählen Sie aus dem Menü des Pfadebedienfelds die Option " Auswahl " erstellen .
 Verwendet alle Pixel in der Auswahl , um eine Textur zu erstellen , mit der die Fläche zu beheben .
-Nicht Anweisungen ( z . B . " Geben Sie den Vornamen " ) als Beschreibung verwenden .
+Nicht Anweisungen ( z. B. " Geben Sie den Vornamen " ) als Beschreibung verwenden .
 Wenn Sie diese Informationen nicht verlieren möchten , wählen Sie " Speichern , " um , bevor Sie den Befehl aus dem Bedienfeld " Ausgabe " im Menü " Datei . "
 Sie können unbefugte Änderungen an Preflight-Profile verhindern , indem Sie die Sperrung von Profilen und zum Gewähren von Kennwörtern .
 Verwendet die Norm mit 216 Farben websichere Standardpalette , um das PNG-Bild für gute Bildqualität und die schnellstmögliche Verarbeitung auf dem Server zu erstellen .
@@ -7709,7 +7709,7 @@ Bewegen Sie die Punkte einer Vektormaske mit dem Teilauswahlwerkzeug .
 Daher kann der Mitte des Bildschirms die Mitte der Bühne .
 Die Textgröße wird in der Eigenschaftsgruppe " Text " einbezogen .
 Geben Sie einen Dateinamen ein , und wählen Sie einen Zielordner aus .
-Als hochgestellter bzw. tiefgestellter Text ( für Potenzzahlen bzw . Indizes ) wird bei verringerter Größe von Text , der im Verhältnis zur Grundlinie der Schrift nach oben bzw. unten versetzt ist .
+Als hochgestellter bzw. tiefgestellter Text ( für Potenzzahlen bzw. Indizes ) wird bei verringerter Größe von Text , der im Verhältnis zur Grundlinie der Schrift nach oben bzw. unten versetzt ist .
 Bestimmt die Analyse .
 Um einen Parameter für den ausgewählten Cue-Point hinzuzufügen , klicken Sie auf das Pluszeichen ( + ) über dem Abschnitt " Parameter , " und geben Sie Werte in den Spalten Name und Wert .
 Bei Graustufenbildern , wird die Konvertierung automatisch durchgeführt .
@@ -7787,14 +7787,14 @@ Wie bei Webserver-Konfigurationen mit mehrfachen DNS-Aliasnamen , ist es wichtig
 Zeigt das ausgewählte Kontrollkästchen , es sei denn , der Benutzer wird die Auswahl aufgehoben .
 Fügt eine ausgeschnittene oder kopierte Auswahl in eine andere Auswahl desselben oder eines anderen Bildes .
 Wenn Sie die Ersetzung eines Stils abbrechen , wird die Gruppe nicht gelöscht .
-2 . Indexmarken hinzufügen .
+2. Indexmarken hinzufügen .
 Klicken Sie auf die Schaltfläche Signaturen im Navigationsfenster angezeigt wird , wählen Sie die Signatur , und wählen Sie " Unterschrift prüfen " aus dem Menü " Optionen . "
 Ein Tween-Bereich in der Zeitleiste als eine Gruppe von Frames in einer einzelnen Ebene mit einem blauen Hintergrund angezeigt .
 Verschachtelte Tabellen nicht Abstandhalter verwenden .
 Wenn Sie die Einheiten im Bedienfeld " Info " ändert sich automatisch die Einheiten auf den Linealen .
 Besuchen Sie Adobe Support-Website unter http : / / www.adobe.com / support www.adobe.com / support , wenn Sie produktspezifische Informationen zur Fehlerbehebung und Informationen zu kostenlosen und kostenpflichtigen Supportoptionen suchen .
 Exportiert Gruppen , zusammengesetzte Formen , Ebenen und Segmente als separate , bearbeitbare Photoshop-Ebenen verschachtelt .
-Gibt den Zeichensatz der Übersetzung , wie z . B . ANSI , Unicode , UTF8 oder Windows CE , die zum Erstellen der Textdatei verwendet wurde .
+Gibt den Zeichensatz der Übersetzung , wie z. B. ANSI , Unicode , UTF8 oder Windows CE , die zum Erstellen der Textdatei verwendet wurde .
 Klicken Sie auf der Registerkarte Form die Option Quadrat für eine quadratische Spitze , oder deaktivieren Sie diese Option für eine runde Spitze .
 Um alle Ebenen und Ordner anzuzeigen , klicken Sie darauf .
 Der Inhalt der Auswahl in das Bild eingefügt wird , werden die Pixel , die darunter ersetzt werden .
@@ -7821,7 +7821,7 @@ In diesem Dialogfeld können Sie das Kennwort des Administrators ändern .
 Die Symbole für Überschriften und Stile des Elements anzugeben .
 Wenn Flash Player oder AIR ein Ereignisobjekt , stellt einen Roundtrip von der Bühne auf das Anzeigeobjekt , auf dem das Ereignis aufgetreten ist .
 Für Auflösung , geben Sie einen neuen Wert ein .
-Um den Text ohne Formatierung , halten Sie die Umschalttaste gedrückt , nachdem Sie mit dem Ziehen begonnen haben , und lassen Sie dann die Maustaste los , bevor Sie die Alt- bzw . Wahltaste ablegen .
+Um den Text ohne Formatierung , halten Sie die Umschalttaste gedrückt , nachdem Sie mit dem Ziehen begonnen haben , und lassen Sie dann die Maustaste los , bevor Sie die Alt- bzw. Wahltaste ablegen .
 Indem Sie das Token % PREVIMAGE % enthalten in einer separaten Zeile , stellen Sie sicher , dass Photoshop nicht andere Token in der Vorlage ignorieren .
 Dies ist besonders nützlich , wenn Sie Text in einer Spalte markieren .
 Grafische Stile , die mit dem aktiven Dokument gespeichert werden , die in dem Bedienfeld angezeigt werden , wenn das Dokument geöffnet und aktiv ist .
@@ -7940,7 +7940,7 @@ Weitere Informationen finden Sie unter Definieren von Preflight-Profile .
 Ziehen Sie den Zeiger nach oben oder unten , um das Modell um seine x-Achse zu drehen , oder seitlich , um ihn um seine Y-Achse zu drehen .
 Legen Sie die Einstellungen aus .
 Mit dieser Option wird verhindert , dass nicht autorisierte Benutzer aus der Website zu ändern , wenn die lokal installierten Contribute-Installation verwenden .
-Umfasst Farbeigenschaften , wie z . B . Farbräume , alternative Farbräume , Muster und Volltonfarben .
+Umfasst Farbeigenschaften , wie z. B. Farbräume , alternative Farbräume , Muster und Volltonfarben .
 Diese Methode eignet sich am besten für das Navigatorobjekt des Skriptfensters .
 Wenn Sie bestimmte Volltonfarbplatten konvertieren möchten , verwenden Sie Druckfarbenverwaltung in Kombination mit dem Werkzeug " Farben " konvertieren .
 Um Probleme zu vermeiden , befolgen Sie die folgenden Richtlinien bei Aufnahmen für die Verwendung mit " Photomerge " :
@@ -7968,7 +7968,7 @@ Verwenden Sie das Auswahl-Werkzeug , um einen oder mehrere Textrahmen , oder ver
 Deaktivieren Sie das Kontrollkästchen " Keine Verbindung herstellen mit Website oder Blogserver beim Start .
 Um die neuen Beschriftungen auf die Schaltflächen anzuzeigen , wählen Sie " Steuerung " " Film testen . "
 Die Farbpalette enthält bis zu 128 Farben .
-Informationen über das aktuelle Dokument , z . B . Position , Datum der letzten Änderung , den Namen des Verfassers und die Dateigröße , wenn in dem Dokument kein Text ausgewählt ist .
+Informationen über das aktuelle Dokument , z. B. Position , Datum der letzten Änderung , den Namen des Verfassers und die Dateigröße , wenn in dem Dokument kein Text ausgewählt ist .
 Wählen Sie eine der folgenden URLs , um die Seite zu verknüpfen .
 Klicken Sie auf eine Vorschau , um den Scan anzuzeigen .
 Wenden Sie ein Absatzformat mit Aufzählungszeichen und Nummerierungen .
@@ -8063,14 +8063,14 @@ Um eine gesamte Ebene zu transformieren , stellen Sie die aktive Ebene , und ste
 Interfaces basieren auf den Unterschied zwischen einer Schnittstelle einer Methode und ihre Implementierung .
 Die Erweiterung der Eigenschaft ist nur in der AIR-Laufzeitumgebung unterstützt .
 Doppelklicken Sie am Ende auf die Gesamtfläche anzuzeigen .
-Jedes Anzeigeobjekt , wie z . B. ein Movieclip-Objekt oder ein Sprite-Objekt , rendert letztlich selbst in zwei Dimensionen auf einer einzelnen Ebene .
+Jedes Anzeigeobjekt , wie z. B. ein Movieclip-Objekt oder ein Sprite-Objekt , rendert letztlich selbst in zwei Dimensionen auf einer einzelnen Ebene .
 Die Beschreibung oben im Bedienfeld " Aktionen " wird angezeigt .
 Klicken Sie auf die Schaltfläche " Zurück " links neben der Bearbeitungsleiste am oberen Rand der Bühne .
 Die Farben und Farbtönen werden in der Einstellungsebene gespeichert und gelten für alle Ebenen .
 Nun können Sie die WAR-Datei bereitstellen .
 Deaktivieren Sie die Option " , um die Beschneidung des Verhaltens deaktivieren .
 Berücksichtigen Sie die folgenden Abhängigkeiten , wenn Sie InCopy-Inhaltsdateien in einem InDesign-Dokument platzieren :
-Der Code sieht für die Pause- und Abspielen-Schaltflächen , z . B . :
+Der Code sieht für die Pause- und Abspielen-Schaltflächen , z. B. :
 Klicken Sie im Eigenschafteninspektor , geben Sie einen neuen Wert in das Feld " Fluchtpunkt " ein , oder ziehen Sie die , um den Wert zu ändern .
 Wenden Sie einen Grafikstil auf ein Objekt im Dokument .
 Sie haben drei Optionen für die Bereitstellung eines Werts für diesen Parameter :
@@ -8087,26 +8087,26 @@ Wählen Sie diese Option , um nacheinander Kapitel in einem Buch .
 Fügt Vorschläge für Ein- / Ausgabehilfe-Probleme den HTML-Bericht oder Kommentare behoben werden .
 Verwenden Sie , bevor Sie einen Suchbegriff ein , um alle Dokumente mit diesem Begriff ausschließen .
 Um eine Kopie eines Zeichen- oder Absatzformat erstellen möchten , ziehen Sie den Stil auf die Schaltfläche " Neuer Stil . "
-Andernfalls könnten Sie z . B. eine französische XML-Datei in die Spalte für Deutsch zu importieren .
+Andernfalls könnten Sie z. B. eine französische XML-Datei in die Spalte für Deutsch zu importieren .
 Der Seitenbereich erstreckt sich nicht über die aktuelle Seite .
 Mit den Optionen auf der linken Seite aus und ändern Sie die Einstellungen nach Bedarf , und klicken Sie dann auf " OK . "
 Standardmäßig werden bedeckte Flächen in Schwarz angezeigt werden .
 Zweitens wenden Sie Ihren Namespace , indem Sie sie anstelle eines Zugriffskontrollbezeichners in einer Eigenschaft oder Methodendeklaration definiert .
 Dieses Beispiel veranschaulicht die folgenden Schritte aus :
-Die Web-Entwickler ( oder Konstruktionsteams ) verwendet eine website-creation Anwendung , wie z . B . Adobe Dreamweaver ® , um die Website zu erstellen .
+Die Web-Entwickler ( oder Konstruktionsteams ) verwendet eine website-creation Anwendung , wie z. B. Adobe Dreamweaver ® , um die Website zu erstellen .
 Geben Sie den Algorithmus von Photoshop , die Sie verwenden möchten , um den gesamten Tonwertbereich eines Bildes anzupassen :
 InDesign behält die Standardbezugspunkt für neue Dokumente , so dass Sie nicht zurückgesetzt .
 Mit den Reglern im Farbbedienfeld können Sie die Vordergrund- und Hintergrundfarben mit unterschiedlichen Farbmodelle bearbeiten .
 Der Text wird als Textdatei exportiert .
 Acrobat 4.0 und 5.0 festlegen , dass Sounds eingebettet werden und Filme verknüpft werden .
-n . ActionScript , die Sie auf Instanzen anhängen .
-Eine Pinselvorgabe ist eine Pinselspitze mit vordefinierten Merkmale , wie z . B . Größe , Form und Härte gespeichert .
+n. ActionScript , die Sie auf Instanzen anhängen .
+Eine Pinselvorgabe ist eine Pinselspitze mit vordefinierten Merkmale , wie z. B. Größe , Form und Härte gespeichert .
 Darüber hinaus können Sie neue Bilder als 32 Bit im Dialogfeld " Neu " angeben .
 Um die Sortierreihenfolge zu ändern , klicken Sie auf die Schaltfläche " Aufsteigend sortieren " oder " Absteigend sortieren " rechts neben dem Menü Sortieren nach .
 Im Folgenden ist ein Beispiel für eine spezielle AppError Klasse , die die Error-Klasse erweitert :
 Wenn Sie den Namen einer Aufzählung falsch schreiben , wird der ActionScript Compiler ein Fehler generiert .
 Die SimpleClock.onTick ( ) -Methode wird einmal pro Sekunde ausgeführt werden , wenn das timer-Ereignis empfangen wird :
-Es ist möglich , für eine Seite , ohne die aktuelle Seite , wie z . B . , wenn ein fortlaufendes Seitenlayout zeigt die Seiten nebeneinander sichtbar sein .
+Es ist möglich , für eine Seite , ohne die aktuelle Seite , wie z. B. , wenn ein fortlaufendes Seitenlayout zeigt die Seiten nebeneinander sichtbar sein .
 Fireworks aktualisiert Live-Filter , wenn Sie Objekte bearbeiten , die sie angewendet haben .
 Wenn Sie ein Kennwort vergessen haben , gibt es keine Möglichkeit , ihn aus dem PDF-Dokument wiederherstellen .
 Klicken Sie im Stichwort-Bedienfeld , wählen Sie das Feld neben dem Namen des Stichwortes oder untergeordneten Stichwortes .
@@ -8125,7 +8125,7 @@ Verwenden Sie dieses Attribut , um die Hintergrundfarbe der SWF-Datei angibt , a
 Um eine vollständige Spalte links neben einer bestimmten Zelle einzufügen , klicken Sie in die Zelle .
 Wenn Sie ein Objekt nicht mehr verschieben möchten , relativ zu seinem zugehörigen Text , können Sie sie an die Anker zu entfernen .
 Wenn Sie ein Bild , eine SWF-Datei oder ein Video in einer Seite einfügen , wird die ausgewählte Datei nicht auf Ihrem lokalen Computer heruntergeladen .
-Bei Microsoft Office 2007-Anwendungen , z . B . Word , Excel , PowerPoint und Access , klicken Sie auf der Acrobat-Multifunktionsleiste auf die Schaltfläche " PDF erstellen . "
+Bei Microsoft Office 2007-Anwendungen , z. B. Word , Excel , PowerPoint und Access , klicken Sie auf der Acrobat-Multifunktionsleiste auf die Schaltfläche " PDF erstellen . "
 Verwendet das Dokument , das Reduzieren der Voreinstellung für diesen Druckbogen .
 Der Modus bestimmt , wie der Hintergrund und die Zielebene für die Vorschau kombiniert werden .
 Um die Fehlerdatei überprüfen , öffnen Sie mit einem Texteditor nach dem Befehl " Stapelverarbeitung " ausgeführt wurde .
@@ -8182,7 +8182,7 @@ Für Cell Füllung , Farbe und Farbton angeben .
 Der Administrator führt die folgenden Aufgaben aus :
 Dies speichert den Inhalt als .incx Datei anstelle einer .icml Datei .
 Entspricht einem Zeilenvorschubzeichen .
-Öffnet die Tabelle in einer CSV-compliant Anwendung , wie z . B . Excel .
+Öffnet die Tabelle in einer CSV-compliant Anwendung , wie z. B. Excel .
 Verwenden Sie die Werkzeuge im Dialogfeld extrahieren , um anzugeben , welcher Teil des Bildes extrahiert werden sollen .
 Wenn Sie das i-Flag ( ignoreCase ) eingestellt ist , wird die Groß- und Kleinschreibung ignoriert .
 Wählen Sie unter Folgende Verzeichnisse einschließen , klicken Sie auf " Hinzufügen , " wählen Sie einen Ordner mit einige oder alle PDF-Dateien indiziert werden soll , und klicken Sie auf " OK . "
@@ -8202,7 +8202,7 @@ Siehe " Optionen . "
 Erstellen Sie ein Erscheinungsbild für Ihre digitale Signatur .
 Klicken Sie auf Standard , um alle Rasterwinkel auf die Standardwerte zurück .
 Dies ist nützlich , wenn Sie einen Grafikrahmen zurücksetzen , die Sie versehentlich geändert werden .
-n . Fügen Sie Elemente in die Liste " Verfügbare Werkzeuge . "
+n. Fügen Sie Elemente in die Liste " Verfügbare Werkzeuge . "
 Sie können Audio- und Videodateien aus den folgenden Positionen des Blogeintrags hinzuzufügen :
 bietet zahlreiche Möglichkeiten zum Arbeiten mit Text .
 Weitere Informationen über den Flash Player-Sicherheitsmodell im Allgemeinen und die Definition der Sandboxen finden Sie unter Flash Player-Sicherheit .
@@ -8236,7 +8236,7 @@ Wählen Sie " Auf alle anwenden , " wenn Sie die gleiche Option , um alle neuen 
 Dieser Code sollte ähnlich wie im folgenden Beispiel aussehen :
 Weitere Informationen finden Sie unter " Einrichten einer Site-Verbindung in Contribute auf die Schaltfläche " Contribute Support Center .
 Mit dieser Komponente können Sie die Parameter für das Quiz festgelegt .
-Simulieren von einigen Typen von Perspektive , wie z . B. isometrische Projektion .
+Simulieren von einigen Typen von Perspektive , wie z. B. isometrische Projektion .
 Wählen Sie unter " Drucken , " wählen Sie " Dokument . "
 Sie können jederzeit auf Zurücksetzen klicken , um die Vorgabeplatzierung wiederherzustellen .
 Wenn Sie die Position , wählen Sie " Einblenden " und " Speicherort " Kontaktdaten " Beim Unterschreiben " aktiviert ist .
@@ -8272,7 +8272,7 @@ Um die Länge einer Animation zu ändern , ziehen Sie den rechten oder linken Ra
 Wählen Sie " Verlaufsoptionen " aus dem Menü des Protokollbedienfelds .
 Diese Tween-Folgen als einzelnes Objekt gezogen und von einer Position in der Zeitleiste zu einer anderen , einschließlich in eine andere Ebene ausgewählt werden kann .
 Wenn das Bild ausgewählt ist , wählen Sie " Dienstprogramme " " Vollständiger Pfad " Kopieren " im Menü des Verknüpfungenbedienfelds .
-Vektorgrafiken sind unabhängige Auflösung , d. h . , Sie können sie auf Ausgabegeräte mit unterschiedlicher Auflösung ohne Qualitätsverlust .
+Vektorgrafiken sind unabhängige Auflösung , d. h. , Sie können sie auf Ausgabegeräte mit unterschiedlicher Auflösung ohne Qualitätsverlust .
 Eine StackOverflowError-Ausnahme deutet auf eine unendliche Rekursion aufgetreten ist .
 Ziehen Sie ein Farbfeld , um die Schaltfläche " Neues Farbfeld " am unteren Rand des Bedienfelds .
 Blocksatz gilt für alle Zeilen außer der letzten , die zentriert ausgerichtet wird .
@@ -8337,7 +8337,7 @@ Bewegen Sie die Einfügemarke nach oben , unten , links oder rechts innerhalb de
 Sie können die Farbe von Korrektureinstellungen und wenden Sie sie auf andere Bilder zu speichern .
 Wenn Sie einen Parameter mit ActionScript überschreibt alle Werte , die beim Authoring eingestellt ist .
 Wählen Sie im Dialogfeld " Drucken " die folgenden Optionen fest :
-n . Der Code-Editor im Bedienfeld " Aktionen " und das Skriptfenster .
+n. Der Code-Editor im Bedienfeld " Aktionen " und das Skriptfenster .
 Die onMouseDown ( ) -Methode ruft dann die showSelected ( ) -Methode der GeometricSprite-Objekt .
 Wählen Sie " Datei " " Speichern . "
 Wenn das Liniensegment noch nicht ausgewählt ist , klicken Sie mit dem Zeichenstift-Werkzeug darauf , um es auszuwählen , und fügen Sie dann einen Ankerpunkt .
@@ -8388,14 +8388,14 @@ Eine vollständige Liste der Eigenschaften und Methoden der MovieClip-Klasse fin
 Wenn Sie eine OpenType-Schrift verwenden , können Sie bestimmte OpenType-Optionen aus dem Steuerungsbedienfeld oder Zeichenbedienfeld auswählen , die beim Formatieren von Text oder beim Definieren von Stilen .
 Verwenden Sie die Extension Manager für andere Befehle und Erweiterungen , die mit Fireworks installiert wurden , oder wenn Sie von der Adobe Exchange-Website heruntergeladen und installiert werden .
 Wenn Sie die Helligkeit einstellen möchten , klicken Sie auf das Dreieck und ziehen Sie den Schieberegler , oder geben Sie einen Wert in das Feld ein .
-Wenn Sie eine Lichtquelle duplizieren möchten , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf das Licht innerhalb des Vorschaufensters .
+Wenn Sie eine Lichtquelle duplizieren möchten , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf das Licht innerhalb des Vorschaufensters .
 Indem Sie die geladene SWF-Datei in der gleichen Anwendungsdomäne , können Sie die Klassen direkt zugreifen .
 Dies erfolgt in der Webseite , in der updateStatus ( ) -Funktion , wie im Folgenden dargestellt :
 Wenn Sie versuchen , eine Tween-Voreinstellung auf ein Objekt anzuwenden , das nicht getweent werden kann , wird ein Dialogfeld angezeigt , in dem Sie das Objekt in ein Symbol konvertieren .
 Eine globale Farbe wird automatisch in Ihrem Bildmaterial aktualisiert , wenn Sie sie bearbeiten .
 Vorschau vorgenommenen Korrekturen mit dieser Methode werden nicht in der HDR-Bilddatei gespeichert .
-Verwenden Sie Aktionen für einfachen Code ( z . B. beim Erstellen von Navigation zwischen Bildschirmen ) und externe ActionScript-Dateien für komplexere Codes .
-Hier können Sie eine Elementbibliothek erstellen ( z . B . Bilder , Videoinhalte oder Dreamweaver-Bibliothekselemente ) , dass die Benutzer ihren Webseiten hinzufügen können .
+Verwenden Sie Aktionen für einfachen Code ( z. B. beim Erstellen von Navigation zwischen Bildschirmen ) und externe ActionScript-Dateien für komplexere Codes .
+Hier können Sie eine Elementbibliothek erstellen ( z. B. Bilder , Videoinhalte oder Dreamweaver-Bibliothekselemente ) , dass die Benutzer ihren Webseiten hinzufügen können .
 Bevor Sie Camera Raw-Dateien in Photoshop bearbeiten , müssen Sie die Einstellungen für diese mit " Camera Raw " zu konfigurieren .
 Verwenden Sie diesen Filter , um Kanten ohne einen Betrag angeben .
 Wenn Sie mehr als ein Objekt einfügen , werden alle eingefügten Objekte vor oder hinter dem ausgewählten Bildmaterial angezeigt werden .
@@ -8404,7 +8404,7 @@ Wenn diese Option aktiviert ist , wird der Benutzer aufgefordert , wenn neue Sta
 Klicken Sie auf der Registerkarte in den Preflight-Voreinstellungen den gewünschten OutputIntenten von " Preflight " auf " Aufnehmen . "
 Der Bezeichner wird im Allgemeinen als Namen vorstellen .
 Die Schriftarten in der ausgewählten Kombination im Abschnitt " Ausgewählte Schriften " angezeigt .
-Verwenden Sie ein Pluszeichen ( + ) zwischen Tastennamen , ohne Leerzeichen ( z . B . Strg + A ) .
+Verwenden Sie ein Pluszeichen ( + ) zwischen Tastennamen , ohne Leerzeichen ( z. B. Strg + A ) .
 Um zu bestimmen , wie die Wiedergabesteuerungen angezeigt werden , wählen Sie eine Option aus dem Menü " Skin " aus .
 Anschließend können Sie den CMYK-Modus zur Feinabstimmung verwendet werden .
 Erstellen Sie ein Erscheinungsbild für Ihre digitale Signatur .
@@ -8427,7 +8427,7 @@ Weitere Informationen finden Sie unter Aktivieren der Bitmapzwischenspeicherung 
 Wählen Sie " Bearbeiten " " Farben bearbeiten " > Saturate .
 Ziehen Sie das Auswahlrechteck an eine andere Position auf der Leinwand .
 Unabhängig davon , ob das Profil einbezogen wird oder nicht , hängt von der Richtlinie Profil Inclusion .
-Sie können auch ein Skript fixieren , d. h . , ein Skript im Skriptfenster , wenn Sie auf eine Stelle außerhalb des Objekts oder Rahmens beizubehalten .
+Sie können auch ein Skript fixieren , d. h. , ein Skript im Skriptfenster , wenn Sie auf eine Stelle außerhalb des Objekts oder Rahmens beizubehalten .
 Legt eine PDF-Standard für die Datei an .
 Geben Sie einen Wert zwischen 1 und 30 ein , um festzulegen , wie viele URL Einträge in der URL-Liste angezeigt werden sollen .
 Sie können auch ein Profil laden , dass ein anderer Benutzer verfügbar ist .
@@ -8453,11 +8453,11 @@ So wählen Sie eine der vordefinierten Rasterweiten und Druckerauflösung Kombin
 Die nächste Linien und Schleife durch den Inhalt der Quell-XML-Daten , die einzelnen Nachfolger Eigenschaft namens Element :
 Das Werkzeug " Ankerpunkt hinzufügen " ( + ) Ankerpunkte in Pfade hinzugefügt .
 Übermässige Überfüllungen können Sie einen Umriss erzeugen .
-Illustrator enthält bereits eine Vielzahl von Vorlagen , u. a . Vorlagen für Briefköpfe , Visitenkarten , Umschlägen , Broschüren , Beschriftungen , Zertifikate , Postkarten , Grußkarten und Websites .
+Illustrator enthält bereits eine Vielzahl von Vorlagen , u. a. Vorlagen für Briefköpfe , Visitenkarten , Umschlägen , Broschüren , Beschriftungen , Zertifikate , Postkarten , Grußkarten und Websites .
 Um festzulegen , ob die Antwort richtig oder falsch gewertet wird , aktivieren oder deaktivieren Sie das Kontrollkästchen Korrekt .
 Wählen Sie ein Diagrammobjekt aus , und klicken Sie auf die Schaltfläche " Objekt dynamisch machen " im Variablenbedienfeld .
 Möglicherweise möchten Sie die anderen Kombinationen als Übungen ausprobieren .
-Verzerrt oder verformt Objekte , wie z . B . Pfade , Text , Netze , Verschmelzungen und Bitmap-Bilder .
+Verzerrt oder verformt Objekte , wie z. B. Pfade , Text , Netze , Verschmelzungen und Bitmap-Bilder .
 Sie können eine Anwendung erstellen und dann Probleme auftreten , nachdem Sie sie auf den Server hochladen .
 Wählen Sie ein Textwerkzeug aus und klicken Sie in den Absatz innerhalb des Textbereichs eingepasst werden soll .
 Nicht mit dem Namen misled werden Unscharf maskieren , die aus einer Dunkelkammer verwendete Technik in der traditionellen Fotografie basierende Film .
@@ -8580,7 +8580,7 @@ Ihre digitale Signatur können einfach oder komplex sein .
 Document-Klasse für die Flash-Anwendung ( FLA ) .
 Wählen Sie die gewünschte Rolle aus , und klicken Sie auf " OK . "
 Eingabetext Felder können Benutzer Text in Formulare oder Fragebögen eingeben .
-Ausführen von automatisierten Aufgaben , z . B . Batchbefehle .
+Ausführen von automatisierten Aufgaben , z. B. Batchbefehle .
 Adobe Photoshop behandelt das Standbild als 8-Bit- , Bild mit 256 Farben .
 Die meisten Komponenten sind auch über die Tastatur navigierbar .
 Sie können auch eine vorhandene Maske , Auswahl- oder Transparenz verwenden , um Bereiche einzufrieren .
@@ -8686,7 +8686,7 @@ Sie können den Farbwähler verwenden , um Farben in einer Farbgruppe zu ändern
 Wählen Sie zum Erstellen von Inhalten in Flash Player wiedergegeben werden soll , können Sie in das SWF- oder XFL-Format exportieren .
 Wählen Sie den Kommentar in der Kommentarliste aus , klicken Sie auf die Schaltfläche " Status festlegen " und wählen Sie eine Option aus .
 Wenn Sie die Zusatztasten nachstehend gedrückt halten , können Sie die Auswahl mit den Pfeiltasten verschieben und kopieren .
-Klicken Sie im Adobe-Farbwähler , prüfen Sie , ob die derzeit ausgewählte Farbe identische R- , G- und B-Werte aufweist ( z . B . 128,128 , 128 ) .
+Klicken Sie im Adobe-Farbwähler , prüfen Sie , ob die derzeit ausgewählte Farbe identische R- , G- und B-Werte aufweist ( z. B. 128,128 , 128 ) .
 Das plattformübergreifende Format Tagged Image File Format ( TIFF ) war die Wahl , bevor das PNG-Format eingeführt wurde .
 Klicken Sie auf einen Schritt , dann bei gedrückter Umschalttaste auf einen anderen , und wählen Sie eine Reihe von Schritten als Befehl zu speichern .
 Nachdem Sie das Dokument schließen und erneut öffnen , werden alle Zustände und Snapshots aus der letzten Arbeitssitzung aus dem Bedienfeld gelöscht .
@@ -8699,7 +8699,7 @@ Andernfalls wird die Option deaktiviert , um die Geometrie zu exportieren .
 Sie können auch einzelne Wörter in schmalen Spalten von Blocksatz ausrichten .
 Mit der logischen Baumstruktur spiegelt eine genaue Leserichtung und die entsprechenden Ebenen von Tags .
 Blau hat ein mittlerer Intensität ( 67 ) .
-Für " Dateityp " ( Windows ) bzw . " Format " ( Mac OS ) , wählen Sie " Adobe PDF " aus .
+Für " Dateityp " ( Windows ) bzw. " Format " ( Mac OS ) , wählen Sie " Adobe PDF " aus .
 Sie können Stileigenschaften festlegen , um das Erscheinungsbild einer Beschriftung ändern .
 Geben Sie einen Wert zwischen 1 und 256 ein .
 Um die Werkzeuge für diese Symbolleiste hinzuzufügen oder zu entfernen , wählen Sie " Werkzeuge " " Werkzeugleisten " anpassen .
@@ -8721,7 +8721,7 @@ Ein Video über das Bedienfeld " Kuler finden Sie unter http : / / www.adobe.com
 Stellt eine Zelle in der Fußzeile einer Tabelle .
 Halten Sie die Alt-Taste ( Windows ) bzw. die Wahltaste ( Mac OS ) , um von einem Mittelpunkt zeichnen .
 PDFs können mehrere Ebenen enthalten , die angezeigt oder ausgeblendet werden können .
-n . Manchmal als starke Typisierung bezeichnet .
+n. Manchmal als starke Typisierung bezeichnet .
 Jede solche Benutzerinteraktion mit der SWF-Datei ist ein Ereignis berücksichtigt .
 Solange das Pipette-Werkzeug ausgewählt ist , können Sie Text auswählen , um die Formatierung anzuwenden .
 Wählen Sie die Schaltfläche " Objektzeichnung in der Kategorie " Optionen " des Bedienfelds " Werkzeuge " oder drücken Sie die Taste " J , " um zwischen dem Zeichnungsverbindungs- und dem Objektzeichnungsmodus Modelle umzuschalten .
@@ -8749,11 +8749,11 @@ Sie können auch auf das Symbol für geladene Grafiken im Layout auf die Stelle 
 Ein Drehsymbol wird neben dem Druckbogen im Bedienfeld " Seiten " gedreht werden .
 Wenn Sie jede Zeichenfläche als separate PSD-Datei exportieren , aktivieren Sie im Dialogfeld " Exportieren " die Option " Zeichenflächen . "
 Sie können beispielsweise eine Ebene innerhalb einer Gruppe und einer Ebene außerhalb dieser Gruppe auswählen und sie zusammenfügen .
-Standardmäßig werden einige Bedienfelder , wie z . B . Lesezeichen , die in einer Spalte auf der linken Seite des Arbeitsbereichs angezeigt werden .
+Standardmäßig werden einige Bedienfelder , wie z. B. Lesezeichen , die in einer Spalte auf der linken Seite des Arbeitsbereichs angezeigt werden .
 Lassen Sie die Maustaste los , wenn der Griff an die gewünschte Position .
 Wenn Sie den Sound auf einem anderen Frame als Frame 1 in der Zeitleiste platzieren , wählen Sie die Option " Stopp . "
 Das Verschieben eines Objekts im lokalen 3D-Raum entspricht dem Verschieben relativ zu seinem übergeordneten Movieclip .
-Sie können z . B. eine Indexmarke suchen , indem Sie die Option " Gehe zu " Ausgewählte Marker im Menü des Indexbedienfelds .
+Sie können z. B. eine Indexmarke suchen , indem Sie die Option " Gehe zu " Ausgewählte Marker im Menü des Indexbedienfelds .
 Beim Exportieren eines segmentierten Imagemap in der Regel viele Grafikdateien generiert .
 Geben Sie die folgenden Optionen aus , und klicken Sie dann auf " OK " :
 Wie zweitrangig berücksichtigt werden , sind die indirekten Zuordnungen , um die Ähnlichkeit von indirekten Schriftarten plattformübergreifend angegeben .
@@ -8779,7 +8779,7 @@ Um die Anzahl der Ebenen in der Website zu konvertieren , blenden Sie " Mehrere 
 Die Wiedergabe im Dialogfeld " Einstellungen " wird angezeigt , wenn Sie auf " Wiedergabe bearbeiten " auf der Registerkarte " Einstellungen " des Dialogfelds " Eigenschaften " Multimedia . "
 Stile und Vorgaben im Dokument gespeichert sind , in der sie erstellt wurden .
 Verwenden Sie das Interaktiv-malen-Auswahlwerkzeug , um einzelne Flächen und Kanten in einer interaktiven Malgruppe auszuwählen .
-Wenn Sie z . B. den mittleren unteren Ziehpunkt doppelklicken , wird der untere Rand des Rahmens an das Ende des Texts ausgerichtet .
+Wenn Sie z. B. den mittleren unteren Ziehpunkt doppelklicken , wird der untere Rand des Rahmens an das Ende des Texts ausgerichtet .
 Sie können diese Option aktivieren , wenn Sie die Datei auf einem Dienstanbieter gesendet werden .
 Verwenden Sie den Schieberegler " Intensität " , um die Helligkeit der Farbe anzupassen .
 Wenn Sie FTP oder Secure FTP auszuwählen , müssen Sie den Namen des Servers angeben .
@@ -8797,14 +8797,14 @@ Sechs CMYK-defined Farben im standardmäßigen Farbfeldbedienfeld angezeigt werd
 Ein Video zum Arbeiten mit Text finden Sie unter http : / / www.adobe.com / go / vid0075 _ de www.adobe.com / go / vid0075 .
 Kopien und Duplikate werden mit demselben Namen wie das ursprüngliche Formularfeld erstellt , jedoch mit einer angehängten Nummer .
 Nachdem ein Pixel Bender-Shader erstellt und mit einem Shader-Objekts wurde , können Sie den Shader verwenden , um Effekte auf unterschiedliche Weise erstellen .
-Deaktivieren oder entfernen Sie die Inhalte , die das Dokument ändern oder seine Integrität gefährden , wie z . B . JavaScripts , Aktionen oder eingebettete Medien .
+Deaktivieren oder entfernen Sie die Inhalte , die das Dokument ändern oder seine Integrität gefährden , wie z. B. JavaScripts , Aktionen oder eingebettete Medien .
 MorphShape , StaticText- , oder SimpleButton für Elemente nach dem Flash-Authoring-Tool erstellt .
 Die besten Ergebnisse erzielen Sie , wenn Verläufe mit CMYK-Farben angeben .
 Nachdem Sie den Benutzerverzeichnisdienst konfigurieren , können Sie Ihre Website für CPS aktivieren .
 Dreamweaver erkennt und erhält alle Änderungen an der Tabelle in Fireworks angewendet .
 Wendet eine Farbe auf die Bereiche zwischen den Strichen , Punkten oder Linien .
 Sie können die Zeilen einer Tabelle anhand des Inhalts einer Spalte sortieren .
-Die Sortierung ist aufsteigend , was bedeutet , dass niedrigere Zeichencodes ( z . B . A ) vor höheren Zeichencodes ( z . B . B ) .
+Die Sortierung ist aufsteigend , was bedeutet , dass niedrigere Zeichencodes ( z. B. A ) vor höheren Zeichencodes ( z. B. B ) .
 Wenn Sie beispielsweise eine Nachzeichnung , die Sie als technischen Zeichnung verwenden möchten , wählen Sie die Voreinstellung Technical " Zeichnen . "
 Einige Videokameras können verschiedene Frame-Seitenverhältnisse aufzeichnen .
 Klicken Sie mit der rechten Maustaste ( Windows ) bzw. bei gedrückter Ctrl-Taste ( Mac OS ) auf den Pfad und wählen Sie " Auswahl isolieren . "
@@ -8851,7 +8851,7 @@ Wählen Sie eine Richtlinie aus , und verwenden Sie dann die gewünschten Option
 Wenn Sie den Operator verwenden , müssen Sie den Operanden auf der rechten Seite einen Datentyp aus .
 Geben Sie die gewünschte Anzahl der Spalten ein .
 Ein PDF-Dokument kann eine Reihe von Vorgaben enthalten , eine Gruppe von dokumentspezifischen Werten , die verwendet wird , um grundlegende Druckoptionen festzulegen .
-Wählen Sie im Entwurf die Zelle bzw . Zellen aus , die Sie ändern möchten ( siehe Auswählen von Tabellen , Zeilen oder Spalten ) .
+Wählen Sie im Entwurf die Zelle bzw. Zellen aus , die Sie ändern möchten ( siehe Auswählen von Tabellen , Zeilen oder Spalten ) .
 Um die Bewegung auf ein Vielfaches von 45 ° zu beschränken , ziehen Sie bei gedrückter Umschalttaste .
 Um einen Konturenstil auszuwählen , klicken Sie auf das Dreieck neben dem Menü " Stil " und wählen Sie eine Option aus dem Menü aus .
 Die Liste der Nummerierungsschemas ( sowie Einzüge ) rangieren sowie die untergeordneten Elemente sind .
@@ -8871,7 +8871,7 @@ Die Ursprungsdomäne der Sounddatei definiert die Sicherheitseinschränkungen de
 Die von Ihnen gewählten Einstellungen für Silbentrennung und Ausrichtung wirken sich auf den horizontalen Abstand der Linien und die ästhetische Attraktivität des Typs auf Ihren Seiten .
 Klicken Sie im Dialogfeld " Kontur " aus , geben Sie einen Wert für die Breite ein , und klicken Sie dann auf das Farbfeld , um den Adobe-Farbwähler anzuzeigen .
 Nachdem Sie die zwei Dokumente analysiert werden , wird ein Dokument mit den Ergebnissen vergleichen öffnen .
-Das Format Pixar ist speziell für anspruchsvolle Grafikanwendungen , wie z . B. zum Rendern von dreidimensionalen Bildern und Animationen verwendet .
+Das Format Pixar ist speziell für anspruchsvolle Grafikanwendungen , wie z. B. zum Rendern von dreidimensionalen Bildern und Animationen verwendet .
 Doppelklicken Sie auf eine Glyphe unter " Zuletzt verwendete " aus .
 Wenn Sie Inhalte exportieren , sehen Sie das Symbol " Verfügbar " auf den Textrahmen ( InDesign und InCopy ) , und wählen Sie im Aufgabenbedienfeld ( InCopy ) .
 Dieses Kapitel ist für den Einstieg mit ActionScript Programmierung und geben Sie den Hintergrund müssen Sie die Konzepte verstehen und Beispiele in den Rest dieses Handbuchs entworfen wurde .
@@ -8889,7 +8889,7 @@ Wenn Sie " Preflight " im Menü des Buchbedienfelds die Option " Buch bewirkt , 
 Wählen Sie Bedienfelder einzeln , und nehmen Sie die gewünschten Änderungen vor .
 Sie können eine geöffnete InCopy-Inhaltsdatei ( * .icml ) , die in InCopy erstellt wurde , oder aus InDesign exportiert werden .
 Scripting ist ein hervorragendes Werkzeug für eine Vielzahl von Aufgaben durchführen .
-Einige Farben in die Farbmodelle RGB und HSB , wie z . B. neon Farben können nicht gedruckt werden , da sie keine Entsprechungen im CMYK-Modell aufweisen .
+Einige Farben in die Farbmodelle RGB und HSB , wie z. B. neon Farben können nicht gedruckt werden , da sie keine Entsprechungen im CMYK-Modell aufweisen .
 Öffnen Sie das Bedienfeld " Transformieren " ( " Fenster " " Transformieren " ) .
 Löschen Sie die derzeit aktive Projekt aus dem Projektfenster .
 Es ist nicht möglich , dieses Datentyps als Typanmerkung verwenden .
@@ -8897,7 +8897,7 @@ Sie können eine Verknüpfung jederzeit bearbeiten .
 Doppelklicken Sie auf das Segment mit dem Slice-Auswahlwerkzeug , um das Dialogfeld " Slice-Optionen " anzuzeigen .
 Positioniert den Bezugspunkt an die jeweilige Position .
 Wenn Sie einen Pfad oder verschieben Sie die Form des Typs entspricht dem neuen Pfad oder Form ändern .
-Wenn Sie z . B. das Substantiv Bedeutung für das Wort verwenden möchten , wählen Sie die Option Substantiv .
+Wenn Sie z. B. das Substantiv Bedeutung für das Wort verwenden möchten , wählen Sie die Option Substantiv .
 Mit externen Videodateien , die Wiedergabe des SWF-Inhalt nicht unterbrochen wird , während die Videodatei geladen wird .
 Diese Option bietet die höchste Qualität , aber die geringste Leistung .
 Klicken Sie dann auf das gewünschte Werkzeug .
@@ -8916,13 +8916,13 @@ Klicken Sie auf " Alle " im Bereich " Maskenoptionen " des Dialogfelds die Optio
 Sie können Vektor- und Bitmap-Objekte zeichnen .
 Wählen Sie diese Option aus , wenn Sie ein Sicherheitstoken oder einem Hardware-Token an den Computer angeschlossen haben .
 Wenn Sie ein Dokument über eingeschränkte Funktionen , auf die sich alle Werkzeuge und Optionen sind abgeblendet .
-Zum Verschieben des Fokus zwischen den Fenstermenüs der Bedienfelder in der Gruppe in Bedienfeldern gruppiert sind , verwenden Sie die Nach-oben- bzw . Nach-unten-Taste .
+Zum Verschieben des Fokus zwischen den Fenstermenüs der Bedienfelder in der Gruppe in Bedienfeldern gruppiert sind , verwenden Sie die Nach-oben- bzw. Nach-unten-Taste .
 Um die Dateityp-Zuordnungen auf ihre Standardeinstellungen zurückzusetzen , klicken Sie auf Reset To Default Associations .
 Verwenden Sie die Schaltfläche " Speichern " im Dialogfeld " Duplex-Optionen " , um eine Reihe von Duplexbildern Kurven , Druckfarbe und Überdrucken Farben zu speichern .
 Die Bildlaufleisten , die mit dem Listenfeld gekachelte Liste enthält , skaliert .
 Vertikale Textausrichtung und Ausrichtung von der Grundlinie Positionen für jede Textzeile im Rahmen berechnet wird .
 Sie können ein Eingabetextfeld mit einem bestimmten IME Kontext verknüpfen .
-Um den Radius und Winkel gleichzeitig zu ändern , klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf den Endpunkt , und ziehen Sie ihn an die neue Position .
+Um den Radius und Winkel gleichzeitig zu ändern , klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf den Endpunkt , und ziehen Sie ihn an die neue Position .
 Geben Sie an , welche Effekte Kategorien aktiviert , deaktiviert oder ignoriert werden sollen .
 Wählen Sie im Abschnitt " Verknüpfung " , aktivieren Sie das Kontrollkästchen " Export für ActionScript . "
 Wenn My bleibt , wählen Sie " Bearbeiten " " Rückgängig " und wiederholen Sie die Schritte 2 und 3 mit unterschiedlichen Einstellungen " Toleranz " und " Stärke " ein .
@@ -8991,7 +8991,7 @@ Destination Text fehlt , wenn Sie entweder den Zieltext oder die Datei mit den Z
 Der String ( ) -Funktion gibt den gleichen Wert für ein gegebenes Objekt als Wert durch das zurückgegebene Objekt der toString ( ) -Methode aufruft .
 Als Administrator können Sie den Status der Entwürfe , die derzeit im Überprüfungsprozess für Ihre Website anzeigen und ändern .
 Wählen Sie einen Drucker oder eine PostScript-Datei in der Liste " Drucker " aus .
-Viele einfache Transformationen , wie z . B . Drehung , Position und Maßstab ändert , können Sie direkt auf ein Anzeigeobjekt angewendet werden , die Eigenschaften des Objekts zu verwenden .
+Viele einfache Transformationen , wie z. B. Drehung , Position und Maßstab ändert , können Sie direkt auf ein Anzeigeobjekt angewendet werden , die Eigenschaften des Objekts zu verwenden .
 Wählen Sie " Querverweisformate laden " aus dem Menü des Hyperlinksbedienfelds den Befehl " aus .
 Erstellen Sie einen Bewegungs-Tween in Flash durch Verschieben eines Anzeigeobjekts zwischen Keyframes entlang der Zeitleiste .
 Der Schnittpunkt einer Zeile und einer Spalte ist eine Zelle .
@@ -9006,7 +9006,7 @@ Klicken Sie auf die Schaltfläche " Schmal , " wenn Sie die Breite des Bibliothe
 Mit dem Eyes Window und JAWS for Windows Bildschirmlesehilfen .
 Das Dialogfeld " Gemeinsame Elemente " wird angezeigt .
 Wählen Sie unter Windows " ( QuarkXPress 3.3 ‑ 4.1x ) oder QuarkXPress Passport ( 4.1x ) aus dem Menü " Dateityp " aus .
-Importierte Videodateien können manchmal die Wiedergabe unterbrechen , um bestimmte Funktionen ausführen , wie z . B. der Zugriff auf ein CD-ROM-Laufwerk .
+Importierte Videodateien können manchmal die Wiedergabe unterbrechen , um bestimmte Funktionen ausführen , wie z. B. der Zugriff auf ein CD-ROM-Laufwerk .
 Jedes Profil enthält voreingestellte Werte für die Größe , den Farbmodus , Einheiten , Ausrichtung , Transparenz und Auflösung .
 Der Inhalt der Quellauswahl innerhalb des Ziels angezeigt .
 Wenn Sie ein Bild aufgrund der überlappenden Text nicht auswählen können , öffnen Sie im Dialogfeld " Voreinstellungen " unter " Kategorien " " Allgemein . "
@@ -9015,7 +9015,7 @@ Wählen Sie " Modifizieren " " Pfade kombinieren " > " Zuschneiden . "
 Klicken Sie im Dialogfeld " Importoptionen " die gewünschten Einstellungen angeben .
 Alle Schaltflächen , die Sie anschließend auf der Bühne über rote Beschriftungen hinzufügen .
 Sie können festlegen , ob die Schriftart mit einem beliebigen Aufzählungszeichen gespeichert ist .
-Wählen Sie " Bearbeiten " " Voreinstellungen " > " Notizen " ( Windows ) bzw . " InCopy " > " Voreinstellungen " > " Notizen " ( Mac OS ) .
+Wählen Sie " Bearbeiten " " Voreinstellungen " > " Notizen " ( Windows ) bzw. " InCopy " > " Voreinstellungen " > " Notizen " ( Mac OS ) .
 Sie können mehrere Namespaces gleichzeitig öffnen .
 Klicken Sie im Dialogfeld " TouchUp-Leserichtung " auf " die Option " Seite " Inhalt anzeigen . "
 Sie können auch den globalen Lichtwinkel einstellen , indem Sie " Ebenenstil " " Globaler Lichteinfall " aus .
@@ -9024,7 +9024,7 @@ Ab Macromedia Flash MX ( Version 6 ) , weisen Sie den Instanznamen mithilfe des 
 Wählen Sie ein oder mehrere Zeichen aus , und wählen Sie " Auswählen " " Alle , um alle Zeichen in das Textobjekt auswählen .
 Die AlarmClock-Klasse verwendet eine Timer-Instanz , um zu bestimmen , wann der Weckalarm ausgelöst wird .
 Gibt die Dateibenennungsregeln beim Schreiben von Dateien in einen neuen Ordner .
-Wenn Sie Text in " Löcher " eines Bildes , wie z . B. das Innere eines Reifens berechnen möchten , wählen Sie " Innenkanten einschließen " angezeigt .
+Wenn Sie Text in " Löcher " eines Bildes , wie z. B. das Innere eines Reifens berechnen möchten , wählen Sie " Innenkanten einschließen " angezeigt .
 Klicken Sie mit der rechten Maustaste auf die Figur , und wählen Sie " Bearbeiten " " Alternativtext " aus dem Popup-Menü aus .
 Das Bedienfeld " Aktionen " können Sie einen ActionScript-Code für ein Objekt erstellen und bearbeiten .
 Mit dieser Option können Sie mit einem PostScript-Drucker Level 2 oder höher .
@@ -9064,7 +9064,7 @@ Optimieren einer Grafik die Dateigröße reduzieren , jedoch zu stark komprimier
 Wenn eine Eigenschaft eine ShaderInput-Instanz ist es eine Eingabe darstellt .
 Weitere Informationen finden Sie unter Importieren von PDF-Seiten .
 Die Hauptanwendungsdatei mit der Schnittstelle C # Windows Forms .
-Ausführen von automatisierten Aufgaben , z . B . Batchbefehle .
+Ausführen von automatisierten Aufgaben , z. B. Batchbefehle .
 Erstellen Sie , falls notwendig , Kopf- und Fußzeilen für zusätzliche Musterseiten .
 Bereiche , die heller als die Mischfarbe sind , bleiben unverändert .
 Die Textur " im Dialogfeld " Beleuchtungseffekte " ermöglicht die Steuerung von Beleuchtungseffekten mithilfe von Graustufenbildern ( Bump-Maps ) , die Sie für das Bild als Alphakanäle genannt .
@@ -9084,7 +9084,7 @@ Mit diesem Befehl passen Sie auch die Luminanz und den Farbbereich und neutralis
 Legt die Größe der Pinselspitze aus .
 Gespeicherte Stile enthalten alle Einstellungen für jede Lichtquelle und im Menü " Stil " angezeigt , wenn Sie das Bild öffnen .
 Wählen Sie " Fenster " " Arbeitsbereich " > " Arbeitsbereiche verwalten . "
-Wenn Sie z . B. einen monatlichen Newsletter erstellen , können Sie Ihre Vorlage Linealhilfslinien , Seitenzahlen , das Magazin einen Mastertitel enthalten , und Stile in jeder Ausgabe , die Sie verwenden möchten .
+Wenn Sie z. B. einen monatlichen Newsletter erstellen , können Sie Ihre Vorlage Linealhilfslinien , Seitenzahlen , das Magazin einen Mastertitel enthalten , und Stile in jeder Ausgabe , die Sie verwenden möchten .
 Beispiele für Text , der in Flash Player nicht erkannt wird .
 Das Zeichenformat Definition enthält eine Liste aller Stile im Zeichenformate- definiert und in den Text verwendet werden .
 Weitere Informationen über Contribute-Benutzerverwaltungsmodelle und die Integration mit Contribute die Verzeichnisdienste Ihres Unternehmens finden Sie unter Contribute-Benutzerverwaltungsmodelle .
@@ -9116,7 +9116,7 @@ Nehmen wir als Beispiel die folgenden regulären Ausdruck und Strings :
 Wählen Sie eine beliebige Farbe auf dem Bildschirm .
 Geben Sie einen neuen Tastaturbefehl aus .
 Rastert das Bild in eine Bitmap , um das Erscheinungsbild der Füllmethoden und Effekte beizubehalten , die nicht unterstützt werden .
-Alternativ klicken Sie bei gedrückter Strg- ( Windows ) bzw . Befehlstaste ( Mac OS ) auf den Text .
+Alternativ klicken Sie bei gedrückter Strg- ( Windows ) bzw. Befehlstaste ( Mac OS ) auf den Text .
 Wählen Sie im Menü des Animationsbedienfelds die Option " Animation . "
 Das Ebenenbedienfeld bietet eine andere Dimension Organisationskontrolle .
 Um die Steuerung der Toolbox hinzuzufügen :
@@ -9161,7 +9161,7 @@ Wählen Sie die ActionScript ® Version aus dem Script Popupmenü .
 Immer Druckeinstellungen im Dialogfeld " Drucken " angeben .
 Sie können ConnectNow direkt über die Anwendungsoberfläche öffnen , indem Sie " Datei " " Meinen Bildschirm freigeben .
 Ändern Sie die Form oder die Größe des Pfades mit dem Transformierenbedienfeld oder im Eigenschafteninspektor fest .
-In Internet Explorer oder bei der Bearbeitung in einem web-authoring Anwendung , die PDFMaker unterstützt , wie z . B . Word .
+In Internet Explorer oder bei der Bearbeitung in einem web-authoring Anwendung , die PDFMaker unterstützt , wie z. B. Word .
 Ein Titel der Datei ist nicht unbedingt identisch mit ihrem Dateinamen .
 Wenden Sie die Mustervorlage " Ohne " aus dem Abschnitt " Mustervorlagen im Bedienfeld " Seiten " aus .
 Wählen Sie " Fenster " " Tags " , um das Tagsbedienfeld anzuzeigen .
@@ -9175,7 +9175,7 @@ Die Google Feld " Suchen " im Dialogfeld " Eigenschaften " wird angezeigt .
 Um alle verfügbaren Extras , wählen Sie " Ansicht " " Einblenden " > " Alle einblenden . "
 Sie müssen die Option " Inhalt zusammenführen " verwenden , um XML-Daten in Platzhaltern importieren ( oder den vorhandenen Inhalt in Ihrem Dokument zu ersetzen .
 Jedes Eigenschaftenschlüsselbild für eine bestimmte Eigenschaft wird in Form eines Kontrollpunkts auf der Eigenschaftenkurve für diese Eigenschaft .
-Wenn Ihre Besucher schnell Verbindungen haben , können Sie größere Abmessungen ( z . B . 320 x 240 Pixel ) .
+Wenn Ihre Besucher schnell Verbindungen haben , können Sie größere Abmessungen ( z. B. 320 x 240 Pixel ) .
 Geben Sie die Farbverwaltungseinstellungen in Ihren Druckertreiber ermöglichen das Farbmanagement beim Drucken verarbeitet werden .
 Diese Funktion ist nur für ausgewählte Browserversion und Betriebssystemen verfügbar .
 Sie können die standardmäßigen Vorgaben ( Standard-Vorgaben in eckigen Klammern [ ] ) nicht bearbeitet oder gelöscht werden .
@@ -9214,7 +9214,7 @@ Wenn nicht klar , wie Sie Farbmanagement-Optionen festlegen , suchen Sie in der 
 Wählen Sie das Objekt aus , auf das der Stil angewendet wird .
 Legt den Abstand zwischen den Punkten in den Umriss des Objekts ( höhere Werte Platz Punkte zusammengerückt ) eingeführt .
 Der Versatz hat keine Auswirkungen auf gespeicherte Voreinstellung Musterelemente .
-So erstellen Sie einen Auswahlrahmen um einen Bereich und alle Elemente innerhalb des Bereichs löschen , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) .
+So erstellen Sie einen Auswahlrahmen um einen Bereich und alle Elemente innerhalb des Bereichs löschen , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) .
 Wenn im Codebeispiel beispielsweise eine Klasse mit dem Namen EventTest , verwenden Sie den Namen EventTest.as zum Speichern der ActionScript-Datei definiert .
 Bevor Sie Farbfelder erstellen , können die Einstellungen für den Drucker Dienstanbieter geeignet sind .
 Wenn Sie einen benutzerdefinierten Stil erstellen möchten , klicken Sie auf " Benutzerdefiniert " im Eigenschafteninspektor , wählen Sie die gewünschten Optionen im Dialogfeld " Stil " aus , und klicken Sie auf " OK . "
@@ -9253,8 +9253,8 @@ Geben Sie die Seitenzahl für den Sprungbefehl angeben .
 So verschachteln Sie den Bildschirm innerhalb des ausgewählten Bildschirms eingefügt werden , wählen Sie " Einfügen " aus dem Kontextmenü die Option " Verschachtelter Bildschirm . "
 Die folgenden Parameter sind für Folien- und Formularbildschirme verfügbar :
 Die geerbten Eigenschaften sind grundlegende Eigenschaften , die für alle Anzeigeobjekte gelten .
-Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf die Schaltfläche " Liste mit Aufzählungszeichen " bzw . " Nummerierte Liste . "
-Ein Dokument kann mehrere Inhaltsverzeichnisse , z . B. eine Liste von Kapiteln und Abbildungen enthalten .
+Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf die Schaltfläche " Liste mit Aufzählungszeichen " bzw. " Nummerierte Liste . "
+Ein Dokument kann mehrere Inhaltsverzeichnisse , z. B. eine Liste von Kapiteln und Abbildungen enthalten .
 Bereichsart und Pfadtext mit einer oder beide Kanten eines Pfads ausgerichtet werden können .
 Wählen Sie " Bearbeiten " " Ausschneiden " oder " Bearbeiten " > " Kopieren . "
 Weißabgleich Symbole , die in der Metadaten-Placard angezeigt werden :
@@ -9265,7 +9265,7 @@ Ein weiterer Format wird verwendet , um einzelne Werte darstellen . Dieses Forma
 Wenn die Stammelemente nicht übereinstimmen , wird der Seriendruckvorgang ( und übereinstimmende ) .
 Envelope Linien zeigen die Lautstärke des Sounds .
 Adobe 3D Reviewer ist eine separate Anwendung , die mit Acrobat Pro Extended installiert ist .
-In der Auswahl für Pinselvorgaben oder im Pinselbedienfeld , klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf den Pinsel , die Sie löschen möchten .
+In der Auswahl für Pinselvorgaben oder im Pinselbedienfeld , klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf den Pinsel , die Sie löschen möchten .
 Diese Einschränkung ist in der Regel um 260 von 30 Pixeln kann jedoch je nach Plattform und Flash Player-Version variieren .
 Kombiniert die Sättigung der Angleichungsfarbe mit der Luminanz und den Farbton der Grundfarbe , um die Ergebnisfarbe zu erstellen .
 Weitere Informationen zum Erstellen von bildschirmbasierten Dokumenten mit ActionScript finden Sie unter " Code für Bildschirme organisieren " im Handbuch ActionScript 2.0-Komponenten verwenden .
@@ -9295,11 +9295,11 @@ Wenn Sie die Datei auf dem Desktop oder als E-Mail-Anlage doppelklicken , starte
 Die Bezeichnung ist eine einzelne Linie , die immer an das Ende der Zelle ausgerichtet werden .
 In Photoshop TIFF-Dateien mit einer Farbtiefe von 8 , 16 oder 32 Bit pro Kanal .
 Das Dialogfeld " Seiten beschneiden , können Sie den sichtbaren Seitenbereich anzupassen .
-( Lotus Notes ) Wählen Sie " Aktionen " " Ausgewählte Ordner konvertieren " bzw . " In Adobe PDF ) .
+( Lotus Notes ) Wählen Sie " Aktionen " " Ausgewählte Ordner konvertieren " bzw. " In Adobe PDF ) .
 Querverweise einfügen und bearbeiten .
 Größere Werte erhöhen den Tonwertbereich , die weiter in die Mitteltöne angepasst werden .
 Wenn listA ist länger als das Beispiel listB , ruft die Methode addItem ( ) , um die zusätzlichen Elemente zu listB .
-Eine Druckmaschine Anschnitt ( d. h . Beschnittzugaben ein Bild , das von der Kante des Druckblatts ) sollte mindestens 18 Punkt .
+Eine Druckmaschine Anschnitt ( d. h. Beschnittzugaben ein Bild , das von der Kante des Druckblatts ) sollte mindestens 18 Punkt .
 Zum Hinzufügen von Benutzern zu Websites , die von CPS verwaltet werden , müssen Sie CPS für die Arbeit mit Ihrer Website aktiviert haben .
 Der Browser in diesem Dialogfeld genau wie im Contribute-Browser an .
 Sie können Stileigenschaften festlegen , um das Erscheinungsbild einer RadioButton-Komponente zu ändern .
@@ -9313,7 +9313,7 @@ Geben Sie einen Wert für W von 150 .
 Mit dem Symbol bearbeiten , indem Sie das Fenster von der Bühne anzeigen , um eine Ansicht nur das Symbol mit den Symbolbearbeitungsmodus .
 Wenn Sie den Drucker und die PPD-Datei , die Sie für den PostScript-Druck ausgewählt haben , benutzerdefinierte Papierformate unterstützen , müssen Sie die Option " Benutzerdefiniert " in der Liste " Papierformat " angezeigt .
 Die FLVPlaybackCaptioning-Komponente unterstützt auch mehrerer Sprachenspuren mit eingebetteten Cue-Points anzeigt .
-Die neue Ebene wird mit dem Namen für die Photoshop-Datei ( z . B. myfile.psd ) .
+Die neue Ebene wird mit dem Namen für die Photoshop-Datei ( z. B. myfile.psd ) .
 Starten Sie den JRun Server , wenn es nicht bereits ausgeführt wird .
 Eine serialisierte Kopie wird zurückgegeben , falls verfügbar .
 Das Bild wird innerhalb des Textes .
@@ -9327,7 +9327,7 @@ Zeigt Farbton , Sättigung und Helligkeit in einen glatten fortlaufenden Kreis .
 Wählen Sie die Ebene aus , die Sie trennen möchten und führen Sie einen der folgenden Schritte aus :
 Zeigt das Modell in präzise skalieren , ohne eine perspektivische Verzerrung anzuzeigen .
 Korrigiert tonnenförmige Objektiv oder Kissenförmige Verzerrung .
-Smartfilter bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf den Pfad auf die Schaltfläche " Pfadkontur füllen " .
+Smartfilter bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf den Pfad auf die Schaltfläche " Pfadkontur füllen " .
 Wählen Sie " Ansicht " " Navigationsfenster " > " Inhalt . "
 Wählen Sie " Tabelle " " Zellenoptionen " > " Text . "
 Anpassen von Wörterbüchern wird sichergestellt , dass die von Ihnen verwendeten Begriffe erkannt und korrekt behandelt wird .
@@ -9335,8 +9335,8 @@ Sie können die Änderungen verfolgen , so dass hinzugefügter Text in der Druck
 Prüfen Sie die Leserichtung von Text in jedem markierten Bereich .
 Um die Einzelansicht wiederherzustellen , wählen Sie " Fenster " " Entfernen . "
 Der Befehl " Einfügen " können Sie einen komplexen Pfad ( einen Pfad mit einem Stift erstellt oder aus Adobe Illustrator ) als Teil einer Aktion eingefügt werden .
-Geben Sie in das Suchfeld den Namen des Elements ein , auf dem Sie suchen möchten ( z . B. eine Funktion , die Anwendung oder das Werkzeug ) .
-Versuchen Sie z . B. den Radius Schrumpfen und / oder Erhöhen der totalSatellites Variable .
+Geben Sie in das Suchfeld den Namen des Elements ein , auf dem Sie suchen möchten ( z. B. eine Funktion , die Anwendung oder das Werkzeug ) .
+Versuchen Sie z. B. den Radius Schrumpfen und / oder Erhöhen der totalSatellites Variable .
 Wenn Sie Genau , um eine feste Zeilenhöhe einstellen , wird die Zeilenhöhe ändert sich nicht , wenn Sie Text hinzufügen oder entfernen .
 Dokumente falsch auf mobilen Geräten angezeigt werden .
 Anders ausgedrückt , können Sie einen zweispaltigen Textrahmen auf einem vierspaltigen Seite sitzen .
@@ -9346,7 +9346,7 @@ Auf diese Weise behält die ursprüngliche Stapelreihenfolge aller Grafikobjekte
 Standardmäßig ist dieser Punkt in der Mitte des Bildes .
 Wählen Sie " Auswahl " " Inverse auswählen , um alle Pixel aus , die ursprünglich nicht ausgewählt wurden .
 Wenn Sie die Konvertierungseinstellungen anpassen möchten , bevor Sie diese Methode verwenden .
-Sie können eine PDF-Datei als ein einzelnes Objekt transformieren , können Sie ihn drehen oder seine Größe ändern , z . B . ) , Sie können jedoch die Pfade , Objekte oder Textelemente in der Illustration zu bearbeiten .
+Sie können eine PDF-Datei als ein einzelnes Objekt transformieren , können Sie ihn drehen oder seine Größe ändern , z. B. ) , Sie können jedoch die Pfade , Objekte oder Textelemente in der Illustration zu bearbeiten .
 Die Pfade mit einer Reihe von Zeichenwerkzeugen und Techniken häufig in Adobe Illustrator , Adobe ® InDesign ® und Adobe ® Photoshop ® zeichnen und ändern .
 Darüber hinaus können Sie diese Option aktivieren , die im Dialogfeld " Symboleigenschaften " beim Erstellen eines neuen Symbols .
 Wählen Sie den Tween-Bereich , um das kopierte Tween zu erhalten .
@@ -9354,14 +9354,14 @@ Wenn autoKeyNav auf false gesetzt ist , wird keine standardmäßige Tastatur die
 Schließlich wird die splice ( ) -Methode aufgerufen , um die Elemente " Venus " und " Erde " nach dem Quecksilber , jedoch vor dem Mars eingefügt werden .
 Erstellt eine neue PDF-Datei .
 Wenn Sie auf true eingestellt ist , overlayChildren untergeordneten Bildschirmen überlagern .
-Der größte Vorteil von CPS ist die Fähigkeit , unternehmensspezifischen Benutzerverzeichnis Dienste ( z . B . LDAP- oder Active Directory ) mit Contribute integrieren .
+Der größte Vorteil von CPS ist die Fähigkeit , unternehmensspezifischen Benutzerverzeichnis Dienste ( z. B. LDAP- oder Active Directory ) mit Contribute integrieren .
 Sie können auch über mehrere Hilfslinien ziehen , solange das Auswahlrechteck nicht berührt oder ein anderes Objekt umschließen .
 Bestimmt die Konturstärke der Schnittmarken .
 Sie können vordefinierte Optionen zur Optimierung verwenden , oder Sie können die Optimierung anpassen , indem Sie bestimmte Optionen wie Dateityp und Farbpalette .
 Sie können eine Ebenenmaske anwenden , um die ausgeblendeten Teile einer Ebene dauerhaft zu löschen .
 Beispielsweise wird in den folgenden ActionScript 2.0-Code an , dass ein Haltepunkt innerhalb eines Schaltflächensatzes auf der Zeile myFunction ( ) :
 Sie können das Werkzeug steuern , indem Sie einen der folgenden Schritte ausführen :
-Alt-Shift-drag ( Windows ) bzw . Wahl- und Umschalttaste ( Mac OS ) in das Bild , um einen Bereich auszuwählen , indem Sie die vorhandene Auswahl auftrifft .
+Alt-Shift-drag ( Windows ) bzw. Wahl- und Umschalttaste ( Mac OS ) in das Bild , um einen Bereich auszuwählen , indem Sie die vorhandene Auswahl auftrifft .
 Einige argumentieren , dass es sich um die primäre Vorteil von Paketen würde .
 Wählen Sie diese Option , um eine importierte MP3-Datei mit ihren ursprünglichen Einstellungen wieder exportieren .
 Die Klasse Utility ist in der example.alpha Paket . Dies bedeutet , dass die Datei in einem Ordner namens " alpha . Dabei handelt es sich um einen Unterordner des Beispiels Ordner platziert werden soll .
@@ -9390,12 +9390,12 @@ Sie können eine Reihe von zwei oder mehr verschachtelte Formate innerhalb eines
 Wenn Sie eine Auswahl in die Zwischenablage kopiert haben , werden die Bildabmessungen und -auflösung werden automatisch auf der Grundlage dieser Bilddaten .
 Um eine einzelne Trennung anzuzeigen und alle anderen Personen auszublenden , klicken Sie auf den Namen der Trennung , die Sie anzeigen möchten .
 Beispielsweise können Sie das Dokument Framerate auf 30 fps und das Video Framerate auf 21 fps . Dies ermöglicht Ihnen eine bessere Kontrolle in eine glatte Videowiedergabe einstellen .
-Einige Befehle und Werkzeuge , wie z . B . Filtereffekte und Malwerkzeuge werden für Textebenen nicht verfügbar .
+Einige Befehle und Werkzeuge , wie z. B. Filtereffekte und Malwerkzeuge werden für Textebenen nicht verfügbar .
 Klicken Sie im Dialogfeld " TouchUp-Leserichtung " auf " Abbildung . "
 Alle HTTP-Pfades in einer vertrauenswürdigen Konfigurationsdatei ignoriert . Es werden nur lokale Dateien als vertrauenswürdig eingestuft werden kann .
 Für Text , wählen Sie einen der folgenden Schritte aus :
 Klicken Sie in der Bearbeitungsleiste mit der rechten Maustaste auf den Szenennamen über die Bühne .
-Up ( Rechts ) bedeutet , dass Text im Bild lesbar ist ( d. h . " right " ) , wenn die lichtempfindliche Substanz zugewandt ist .
+Up ( Rechts ) bedeutet , dass Text im Bild lesbar ist ( d. h. " right " ) , wenn die lichtempfindliche Substanz zugewandt ist .
 Wenn Sie SFTP mit Contribute verwenden , müssen Sie einen SFTP-Server installiert haben .
 Beispielsweise kann ein Konstrukteur eine Vorlage für Visitenkarten in Illustrator erstellen und Variablendaten als XML-Datei exportieren .
 Wenn Sie " Tonwertkorrektur " oder " Gradationskurven " wählen , wird das Pipette-Werkzeug außerhalb des Dialogfelds aktiv ist .
@@ -9510,7 +9510,7 @@ Sie können ein Bild aus der ursprünglichen Modusänderung ( Quelle ) auf einen
 Wählen Sie " Bearbeiten " " Websites verwalten " > " Gesendete Entwürfe verwalten . "
 Der Bereich zwischen den inneren Kreis , um den äußeren Kreis verringerter Stärke darstellt .
 Wählen Sie alle Kachelelemente einschließlich des Begrenzungsrahmens .
-Wählen Sie " Bearbeiten " " Voreinstellungen " ( Windows ) bzw . " Bridge CS4 " > " Voreinstellungen " ( Mac OS ) und klicken Sie auf Dateizuordnung .
+Wählen Sie " Bearbeiten " " Voreinstellungen " ( Windows ) bzw. " Bridge CS4 " > " Voreinstellungen " ( Mac OS ) und klicken Sie auf Dateizuordnung .
 Dies bedeutet , dass Sie Dateien zwischen Photoshop und Illustrator , ohne dass die Möglichkeit zum Bearbeiten des Bildmaterials übertragen .
 Klicken Sie mit der rechten Maustaste ( Windows ) bzw. bei gedrückter Ctrl-Taste ( Macintosh ) auf die Ebene oder den Ordnernamen , und wählen Sie im Kontextmenü den Befehl " Löschen . "
 Wenn Sie den Menübefehl " Alphatransparenz " nicht verfügbar ist , werden keine Alphakanäle mit der Grafik gespeichert wurden .
@@ -9527,7 +9527,7 @@ Klicken Sie auf die Schaltfläche " Auswahl duplizieren " im Bedienfeld " oder w
 Doppelklicken Sie auf die Titelleiste des Bedienfelds .
 Textkommentare bearbeiten , ändern Sie nicht den eigentlichen Text in das PDF-Dokument ein .
 Fügen Sie den folgenden Code in das Bedienfeld " Aktionen " in Bild 1 der Zeitleiste ein , um die Daten in die Liste hinzufügen :
-Die einfachste Arten von Bildern , wie z . B . Text , verwenden Sie nur eine Farbe in einer Ebene .
+Die einfachste Arten von Bildern , wie z. B. Text , verwenden Sie nur eine Farbe in einer Ebene .
 Jede Shape- , Sprite- und MovieClip-Objekt verfügt über eine graphics-Eigenschaft , die eine Instanz der Graphics-Klasse ist .
 Wählen Sie " Ausgabe " auf der linken Seite aus , und wählen Sie eine Option aus dem Menü " Farbe " :
 Wenn Sie eine Gruppe auswählen , zeigt der Eigenschafteninspektor die x - und y -Koordinaten der Gruppe und die Pixelmaße .
@@ -9698,7 +9698,7 @@ Wählen Sie " Ansicht " " Form anzeigen . "
 Sie können auch die Bewegung Vorgaben , um mehrere Objekte auf die gleiche Weise anwenden .
 Da die Schärfe erhöht sich der Kontrast benachbarter Pixel , ist es möglich , dass einige Pixel in kritischen Bereichen möglicherweise nicht druckbar werden auf dem Drucker , oder drücken Sie die , die Sie verwenden möchten .
 Wenn Ihre Anwendung muss ein konsistentes Timing Intervall , müssen Sie es mit einem tatsächlichen Kalender- oder Uhr .
-Wählen Sie das Objekt aus , z . B. eine Schaltfläche , um das Verhalten auslösen .
+Wählen Sie das Objekt aus , z. B. eine Schaltfläche , um das Verhalten auslösen .
 Wenn " Ziel " ausgewählt ist , wird die neue Position des Kameraziels ist die Mitte des ausgewählten Modells .
 Deaktivieren Sie diese Option , um die Auswahl zu ignorieren und die Farben für die gesamte Zielebene für den Abgleich verwenden .
 Die ZIP-Komprimierung kann verlustfrei oder verlustbehaftet ( lossy ) sein .
@@ -9736,7 +9736,7 @@ Verwenden Sie eine der folgenden Methoden :
 Zeigt alle Ebenen auf eine Ebene reduzieren .
 In einigen Fällen können Sie mehrere Ansichten für die gleichen Metadaten vorhanden sind .
 Um die Umschaltung vorübergehend außer Kraft setzen möchten , halten Sie die Umschalttaste gedrückt , während Sie das Stiftwerkzeug über den ausgewählten Pfad oder einem Ankerpunkt positionieren .
-Eine große Einteilung eines Dokuments . Sie können kleinere Einheiten des Inhalts ( z . B . Einteilung Elemente , Artikel , Elemente oder Elemente gruppieren .
+Eine große Einteilung eines Dokuments . Sie können kleinere Einheiten des Inhalts ( z. B. Einteilung Elemente , Artikel , Elemente oder Elemente gruppieren .
 SWF-Dateien für den Zugriff auf Netzwerkressourcen zulassen , sodass die SWF-Datei Daten gesendet und empfangen werden .
 Sucht nach Syntaxfehlern im aktuellen Skript .
 Wählen Sie im Menü des Farbfeldbedienfelds den Befehl " eine der folgenden Aktionen aus :
@@ -9749,7 +9749,7 @@ Um anzugeben , dass ein neuer Absatz hinzugefügt werden soll , drücken Sie die
 Unterstützt Dokumente in beliebiger Größe .
 Eliminieren Sie Störungen , in denen deutliche Farbübergänge in einem Bild auftreten .
 Wenn das Verhalten erfordert , dass Sie einen Zielbildschirms auswählen , wird das Dialogfeld " Auswählen " wird angezeigt .
-Holen Sie mehr aus dem gleichen Sounds , indem Sie unterschiedliche Effekte für Sounds ( z . B . Lautstärke-Hüllkurven , Schleifen und Ein- / Punkte in verschiedenen Keyframes ) .
+Holen Sie mehr aus dem gleichen Sounds , indem Sie unterschiedliche Effekte für Sounds ( z. B. Lautstärke-Hüllkurven , Schleifen und Ein- / Punkte in verschiedenen Keyframes ) .
 Wählen Sie " Klasse binden , " um einen Movieclip in Ihrer Bibliothek zu erstellen , wie Ihr Paket Pfad in der gleichen Ordnerstruktur ( ) .
 Einige Eigenschaften und Methoden des Stage-Objekts an einem beliebigen Sprite oder Movieclip in der Anzeigeliste befindet .
 Um einen Ankerpunkt zu löschen , positionieren Sie den Zeiger über einem Ankerpunkt , und klicken Sie auf .
@@ -9832,7 +9832,7 @@ Wählen Sie " Schrift " " Zeichenformate , oder klicken Sie auf die Registerkart
 Geben Sie die maximale Anzahl von Seiten für jedes Dokument in der Teilung .
 Eigenschaft in der ActionScript 3.0-Komponenten-Referenzhandbuch nachzuschlagen .
 Wählen Sie " Objekt " " Interaktiv nachzeichnen " > " Zurückwandeln . "
-Sie können auch die Tönung von Graustufen beim Anwenden eines Farbtons auf das Bild , z . B. auf eine Sepia erstellen .
+Sie können auch die Tönung von Graustufen beim Anwenden eines Farbtons auf das Bild , z. B. auf eine Sepia erstellen .
 Wenn Sie mehrere Streams für verschiedene Bandbreiten verarbeiten , die Klasse VideoPlayer eines Helferklasse ( NCManager ) verwendet , die eine Untergruppe von SMIL unterstützt .
 Die Kontur der Vorschau am unteren Rand jeder Registerkarte zeigt den aktuellen Pinsel mit den aktuellen Einstellungen .
 Wählen Sie " Fenster " " Eigenschaften " > " Eigenschaften . "
@@ -9875,7 +9875,7 @@ Für jeden Stil in " Absatzformate einschließen , " wählen Sie ein Absatzforma
 Die Animation wird durch eine Timer-Instanz mit dem Namen rotationTimer gesteuert , die erstellt und gestartet wird , indem Sie den folgenden Code ein :
 Wählen Sie diese Option aus , wenn Sie möchten , dass alle Inhaltsverzeichniseinträge in einem einzigen Absatz ausgeführt werden soll .
 Weitere Informationen zu grundlegenden JavaScript finden Sie in den zahlreichen Ressourcen , zur Verfügung .
-n . Unbenannte Funktion , die Sie in einen Ausdruck statt in einer Anweisung deklarieren .
+n. Unbenannte Funktion , die Sie in einen Ausdruck statt in einer Anweisung deklarieren .
 Wählen Sie eine Vordergrundfarbe aus .
 Um einen Pfad Bearbeitungsaufgaben beschleunigen , verwenden Sie die folgenden Werkzeuge im Bedienfeld " Pfad " ( " Fenster " " Andere " > " Pfad " ) .
 Mit dem Zeichenstift-Werkzeug , positionieren Sie den Zeiger über den Endpunkt des Pfads öffnen , dass Sie eine Verbindung herstellen möchten , um einen anderen Pfad aus .
@@ -9894,10 +9894,10 @@ Sie müssen die Tabelle einfügen . Weitere Informationen finden Sie unter Einf�
 Dieser Wert definiert den Farbton für die Regel ( Linie ) unterhalb des Absatzes .
 Sättigung gibt den Anteil von Grau im Verhältnis zum Farbton , als Prozentsatz von 0 % ( grau ) und 100 % ( vollständig ) gemessen .
 Beim Löschen einer Formatgruppe löscht die Gruppe und alle innenliegenden Elemente , einschließlich Stilen und anderen Gruppen .
-Bildschirmleseprogramme können Dokumentfunktionen lesen , wie z . B . Bilder und interaktive Formularfelder , es sei denn , diese alternativen Text verknüpft haben .
+Bildschirmleseprogramme können Dokumentfunktionen lesen , wie z. B. Bilder und interaktive Formularfelder , es sei denn , diese alternativen Text verknüpft haben .
 Wenn Sie mit dem Bezugspunkt als vertikale Achse spiegeln , klicken Sie auf die Schaltfläche " Vertikal umkehren " im Steuerungsbedienfeld .
 Dateien mit den Quizvorlagen zur Einhaltung AICC- oder SCORM-konforme Standards erstellt wurden , keine Daten aus dem LMS in der Datei gelesen werden .
-Beachten Sie , dass dieses XML-Dokument enthält andere vollständige XML-Strukturen ( wie z . B. den song-Tags mit ihren untergeordneten Elemente ) .
+Beachten Sie , dass dieses XML-Dokument enthält andere vollständige XML-Strukturen ( wie z. B. den song-Tags mit ihren untergeordneten Elemente ) .
 Geben Sie den Standardwert , indem Sie diese Option wählen .
 Wenn Sie beispielsweise 3-7 16 , die Seiten 3 bis 7 und 16 anwendet .
 Sie können diese bearbeiten , indem Sie den URL zu dem Formular veröffentlicht .
@@ -9977,7 +9977,7 @@ Die neue Shape-Klasse vektorbasierte Rohformen darstellt .
 Klicken Sie im selben Ordner wie die SWF-Datei , erstellen Sie eine XML-Datei mit dem folgenden Format :
 Weitere Informationen zur Verwendung der Debugger-Version von Flash Player finden Sie unter Arbeiten mit den Debugger-Versionen von Flash Player und AIR .
 Gerasterte Bildformate einen Transparenz-Layer enthalten , die Sie entfernen können .
-Form - Sie verwenden die Shape-Klasse zum Erstellen von Vektorgrafiken , wie z . B . Rechtecke , Linien , Kreise und so weiter .
+Form - Sie verwenden die Shape-Klasse zum Erstellen von Vektorgrafiken , wie z. B. Rechtecke , Linien , Kreise und so weiter .
 Verwenden Sie das Teilauswahl-Werkzeug auf einzelne Masken und maskierten Objekte auf der Leinwand auswählen , ohne die anderen Komponenten der Maske auszuwählen .
 Weitere Informationen finden Sie unter Verwenden von try ..
 Eine zweite for-Schleife durchläuft den nächsten Satz von 256 Werten , sodass sie in umgekehrter Reihenfolge , von rechts nach links .
@@ -10007,7 +10007,7 @@ Kopiert den gesamten Inhalt des Bedienfelds " Ausgabe " in die Zwischenablage de
 Document Metadaten erweitert werden kann , und mithilfe von Drittanbieterprodukten geändert werden .
 Generisches HTML in einem beliebigen HTML-Editor funktioniert .
 Erstellen von Tags in der Ausgangsanwendung bietet in der Regel bessere Ergebnisse erzielen , wenn Sie das Hinzufügen von Tags in Acrobat .
-n . Siehe UNC-Pfad ( Universal Naming Convention ) .
+n. Siehe UNC-Pfad ( Universal Naming Convention ) .
 Wählen Sie das Objekt aus , dessen Attribute Sie ändern möchten .
 Wenn die Signatur ungültig ist , wenden Sie sich an den Unterzeichner .
 Weitere Informationen finden Sie unter Arbeiten mit dem Vollbildmodus .
@@ -10026,7 +10026,7 @@ Diese Option ist in Word 2007 nicht verfügbar .
 Wählen Sie ein beliebiges Lasso- oder Auswahlwerkzeuge .
 Wenn Sie nicht möchten , dass Ihre Website für die Server ( CPS ) verwaltet werden , können Sie die Veröffentlichung des Servers aus dem Dialogfeld " Website verwalten " deaktivieren .
 Weitere Informationen finden Sie im Abschnitt " _ framesloaded ( MovieClip .
-Um eine Hintergrundfarbe gelten nur für die Bereiche mit Pixel füllen , drücken Sie Strg + Umschalt + Rücktaste ( Windows ) bzw . Befehls- + Umschalt- + Rückschritttaste ( Mac OS ) .
+Um eine Hintergrundfarbe gelten nur für die Bereiche mit Pixel füllen , drücken Sie Strg + Umschalt + Rücktaste ( Windows ) bzw. Befehls- + Umschalt- + Rückschritttaste ( Mac OS ) .
 Wenn der Benutzer die marketinganalysis.htm Datei bearbeitet , wendet die Rollen und die Einstellungen für die größte verschachtelte Website-Verbindung ; in diesem Beispiel ( www.meinesite.com / intranet / marketing ) .
 Klicken Sie auf " Rendereinstellungen . "
 Der folgende Code zeigt ein einfaches Beispiel für eine do ..
@@ -10061,8 +10061,8 @@ Klicken Sie auf die Schaltfläche " Duplizieren " in der Debug-Konsole aus .
 Erstellt eine neue Antwortdatei mit dem angegebenen Namen und Speicherort .
 Fireworks HTML-Kommentare beginnen mit .
 Instanzname des Movieclips zu duplizieren .
-Entfernt die Formatierung , wie z . B . Schriftart , Farbe , und geben Sie Stil aus dem Text importiert .
-Klicken Sie bei gedrückter Strg-Taste ( Windows ) bzw . Befehlstaste ( Mac OS ) gedrückt , um mehrere einzelne Aktionen hervorzuheben .
+Entfernt die Formatierung , wie z. B. Schriftart , Farbe , und geben Sie Stil aus dem Text importiert .
+Klicken Sie bei gedrückter Strg-Taste ( Windows ) bzw. Befehlstaste ( Mac OS ) gedrückt , um mehrere einzelne Aktionen hervorzuheben .
 Klicken Sie im Ebenenbedienfeld auf die andere Ebene , um sie als Ziel festzulegen .
 Eine Datei verwendet , um zu ermitteln , ob geschriebene Wörter bewertbares und richtig geschrieben sind .
 Ziehen Sie einen oder mehrere Illustrator Vektorobjekte in ein geöffnetes Bild in Photoshop .
@@ -10096,7 +10096,7 @@ Erstellt ein bearbeitbares Textobjekt aus dem Text auf der ausgewählten Ebene v
 Wählen Sie " Effekt " " 3D " > " Extrudieren & Abschrägen " aus .
 Alle anderen aktuell ausgewählten Element deaktiviert wird , wenn der Bühne ausgewählt ist .
 Stellen Sie sicher , dass der Rahmen mit dem gewünschten Objekt an Sie ausgecheckt ist , und wählen Sie dann das Objekt mit dem Positionierungswerkzeug aus .
-Wählen Sie " Bearbeiten " " Voreinstellungen " > " Hilfslinien und Montagefläche " ( Windows ) bzw . " InDesign " > " Voreinstellungen " > " Hilfslinien und Montagefläche " ( Mac OS ) .
+Wählen Sie " Bearbeiten " " Voreinstellungen " > " Hilfslinien und Montagefläche " ( Windows ) bzw. " InDesign " > " Voreinstellungen " > " Hilfslinien und Montagefläche " ( Mac OS ) .
 Text und Bilder werden als ein Bild kopiert .
 Wenn ein IME auf dem Computer des Benutzers nicht aktiv ist , werden ActionScript-Aufrufe von Methoden oder Eigenschaften , die nicht Capabilities.hasIME , nicht ausgeführt werden .
 Wählen Sie ein oder mehrere Objekte auf der Bühne zu tweenen .
@@ -10128,7 +10128,7 @@ Deckkraft wird beibehalten , aber nicht bearbeitet werden kann .
 Wenn die Transparenz deaktiviert ist , wird die Maske auf transparente Bereiche angewendet werden .
 Wählen Sie das Rechteckwerkzeug im Bedienfeld " Werkzeuge . "
 Wenn Sie die Option " Muster " gewählt haben , wählen Sie ein Muster aus der Popup-Bedienfelds " Muster " aus .
-Wählen Sie z . B . Tastaturbefehle für QuarkXPress ® 4.0 .
+Wählen Sie z. B. Tastaturbefehle für QuarkXPress ® 4.0 .
 ( Lotus Notes ) Wählen Sie " Aktionen " " Adobe PDF " Konvertierungseinstellungen ändern . "
 Eine Folge von Frames mit einem grünen Hintergrund einer Posenebene inverser Kinematik ( IK ) .
 Werkzeug " Frei transformieren " können Sie ein Objekt drehen , skalieren oder verbiegen .
@@ -10168,7 +10168,7 @@ In der Layoutansicht können Sie einen Rahmen von Rastern und Hilfslinien , um d
 Alle ausgewählten Ebenen in der Liste " Photoshop-Ebenen auswählen " auf einem eigenen Layer platziert werden .
 Öffnen Sie die Strukturansicht ( " Ansicht " " Struktur " > " Struktur einblenden " ) und das Tagsbedienfeld ( " Fenster " > " Tags " ) .
 Zunächst wird auf ein Video-Objekt auf der Bühne platzieren , wählen Sie " Neu " aus dem Bedienfeld " Bibliothek " im Menü " Video . "
-Diese Einstellung steuert auch die horizontale und vertikale Linie Spracherkennung , d. h . , wie fast horizontale oder vertikale Linie gezeichnet werden muss , damit sie genau horizontal oder vertikal ausgerichtet wird .
+Diese Einstellung steuert auch die horizontale und vertikale Linie Spracherkennung , d. h. , wie fast horizontale oder vertikale Linie gezeichnet werden muss , damit sie genau horizontal oder vertikal ausgerichtet wird .
 Das Bild wird automatisch zum indizierten Farbmodus konvertiert .
 Ein Bild kann bis zu 56 Kanäle aufweisen .
 Das PCX-Format wird meist in Windows Systemen verwendet werden .
@@ -10184,7 +10184,7 @@ Diese Option ist nur in gemeinsamen Überprüfungen , wenn der Beendigung einer 
 Wenn Sie die Codefragment-Datei in InDesign platzieren , können Sie festlegen , ob die Objekte in ihren ursprünglichen Positionen landen oder , wo Sie klicken .
 Klicken Sie dann auf eine Stelle außerhalb des Eintrags , um die Änderung zu übernehmen .
 Wählen Sie das Profil aus , das Sie löschen möchten , und klicken Sie dann auf das Symbol " Löschen " .
-Wählen Sie im Fenster " Ping-Server , geben Sie die URL für den Server ( z . B. http : / / rpc.technorati.com / rpc / ping-Befehl oder http : / / ping.blo.gs ) , und drücken Sie die Tabulatortaste .
+Wählen Sie im Fenster " Ping-Server , geben Sie die URL für den Server ( z. B. http : / / rpc.technorati.com / rpc / ping-Befehl oder http : / / ping.blo.gs ) , und drücken Sie die Tabulatortaste .
 Mit dem folgenden Verfahren wird die FLVPlayback-Komponente mithilfe von ActionScript .
 Ziehen Sie den Zeiger in eine beliebige Richtung .
 Es ist nicht möglich , das Speichern , Löschen oder Umbenennen von benutzerdefinierten Vorgaben rückgängig machen .
@@ -10207,7 +10207,7 @@ Wählen Sie die Absätze aus , die Sie anpassen möchten .
 Ein Abstand vor dem Wert 0P10 verschiebt das Objekt und Text weiter weg vom Text darüber liegenden Textzeile zugeordnet ist .
 Sie können auch eine Reihe von teilweise angeglichenen Pixel definieren , um einen glatten Übergang zwischen angeglichenen und nicht verrundete Bereiche zu erzeugen .
 Wählen Sie eine Grafik auf der Bühne aus und wählen Sie " Fenster " " Eigenschaften " > " Eigenschaften . "
-Wenn Sie z . B. einen Druckdienstleister arbeiten , möchten Sie wahrscheinlich nicht , dass Ihr Benutzerwörterbuch mit jeder kundenseitigen Datei zusammengeführt werden .
+Wenn Sie z. B. einen Druckdienstleister arbeiten , möchten Sie wahrscheinlich nicht , dass Ihr Benutzerwörterbuch mit jeder kundenseitigen Datei zusammengeführt werden .
 Löscht Konturen und Flächen auf derselben Ebene befinden .
 Organisiert die Struktur eines Dokuments und enthält Optionen zum Erstellen , Löschen und Bearbeiten von Ebenen .
 Weitere Informationen über den Vollbildmodus finden Sie im Vollbildmodus Abschnitt unter Festlegen der Bühne .
@@ -10219,7 +10219,7 @@ Wählen Sie in Acrobat " Formulare " " Compile Forms zurückgegeben .
 Passen Sie die Einstellungen , um eigene Vorgaben zu erstellen .
 Buntstift können Sie einen Freihandpfad zeichnen .
 Es ist wichtig , diese Unterschiede beim Festlegen von Überfüllungen Optionen bewusst sein .
-Sie können Transformationen wiederholen , z . B . Verschieben , Skalieren , Drehen , Ändern der Größe , reflecting , Verbiegung und Formstück .
+Sie können Transformationen wiederholen , z. B. Verschieben , Skalieren , Drehen , Ändern der Größe , reflecting , Verbiegung und Formstück .
 Weitere Lektionen zum Arbeiten mit Videos finden Sie in der Adobe Flash Support Center unter http : / / www.adobe.com / go / flash _ video _ de www.adobe.com / go / flash _ video .
 Eörtert die Hauptbestandteile von ActionScript 3.0 Konzepte : Sprachsyntax , Anweisungen und Operatoren und objektorientierten Programmierung von ActionScript .
 Verwenden Sie stattdessen die vorhandene Kontur oder Fläche auswählen und löschen .
@@ -10284,7 +10284,7 @@ Fügen Sie die Ereignis-Cue-Points ( die FLVPlaybackCaptioning-Eigenschaft Stand
 Die genaue Methode für das Einbetten der SWF-Datei eine Sounddatei in Ihre Anwendung gemäß Ihrer Entwicklungsumgebung variiert .
 Wählen Sie eine der folgenden Optionen aus und klicken Sie auf " OK " :
 Wenn Sie einen anderen Satz von Adobe PDF-Einstellungsdatei verwenden , wählen Sie den Ordner aus , und klicken Sie auf " Laden . "
-Wählen Sie die Option " Neue Ebene " bzw . " Neue Gruppe " aus dem Menü des Ebenenbedienfelds .
+Wählen Sie die Option " Neue Ebene " bzw. " Neue Gruppe " aus dem Menü des Ebenenbedienfelds .
 Um anzugeben , dass ein Raum hinzugefügt werden soll , drücken Sie die Leertaste , und schließen Sie dann die Popup-Notiz ohne Text hinzufügen .
 Drücken Sie die Taste F9 oder wählen Sie " Fenster " " Aktionen , " um das Bedienfeld " Aktionen " geöffnet .
 Weitere Informationen finden Sie unter Ändern von Rendereinstellungen für 3D-Modelle ( Photoshop Extended ) .
@@ -10361,7 +10361,7 @@ Anschließend wird die describe ( ) -Methode für das Objekt currentShape , und 
 Eine Füllung ist eine Farbe , ein Muster oder einen Verlauf innerhalb eines Objekts .
 Ziehen Sie einen Begrenzungsrahmen , bis das Objekt die gewünschte Größe hat .
 Beim Importieren von Illustrator-Dateien , behält Fireworks die folgenden Funktionen :
-Hier können Sie Dokumentinformationen zur Datei eingeben , wie z . B . Dokument , Titel , Autor , Beschreibung und Schlüsselwörter , die für die Suche nach dem Dokument verwendet werden können .
+Hier können Sie Dokumentinformationen zur Datei eingeben , wie z. B. Dokument , Titel , Autor , Beschreibung und Schlüsselwörter , die für die Suche nach dem Dokument verwendet werden können .
 Mit dem folgenden Code werden zwei Ellipsen vorwärts und rückwärts entlang ihrer Z-Achse angeben , indem Sie den Wert ihrer z Eigenschaften als Reaktion auf ein Ereignis verschiebt .
 Wählen Sie den Skripthilfemodus , ändert sich das Bedienfeld " Aktionen " bietet die folgenden Möglichkeiten :
 Wenn Ihre Anwendung nicht Echtzeit-Interaktivität , verwenden Sie die URLLoader-Klasse anstelle der XMLSocket-Klasse erfordern .
@@ -10397,7 +10397,7 @@ Beim Ziehen , halten Sie die Umschalttaste gedrückt , um die Proportionen zu be
 Um eine Seite zu kopieren , halten Sie die Strg-Taste der Seitenminiatur , um eine zweite Position .
 Geben Sie für den Instanznamen aLabel ein .
 Nummeriert fortlaufend aufgeführt .
-Anwenden von Effekten oder Grafikstilen , die Transparenz verwenden , wie z . B . Schlagschatten .
+Anwenden von Effekten oder Grafikstilen , die Transparenz verwenden , wie z. B. Schlagschatten .
 Microsoft und Windows sind Marken oder eingetragene Marken der Microsoft Corporation in den USA und / oder anderen Ländern .
 Beachten Sie die folgenden Richtlinien beim Importieren von FreeHand Dateien :
 Klicken Sie im Dialogfeld " Slice-Optionen , " wählen Sie " Kein Bild " aus dem Menü " Typ " aus .
@@ -10452,7 +10452,7 @@ Es gibt verschiedene gängige Einsatzmöglichkeiten für reguläre Ausdrücke , 
 Sie können so viele Markierungen für einen Eintrag eingeben .
 Klicken Sie im Steuerungsbedienfeld auf die Schaltfläche " Embed . "
 Der Inhalt dieses Handbuchs steht nur Informationszwecken , kann ohne Vorankündigung geändert werden und ist nicht als Verpflichtung von Adobe Systems Incorporated anzusehen .
-Steuert den Tonwertbereich in den Tiefen bzw . Lichtern , die geändert werden .
+Steuert den Tonwertbereich in den Tiefen bzw. Lichtern , die geändert werden .
 ( Nur Windows ) Wählen Sie im Contribute-Browser können Sie auch mit der rechten Maustaste , und wählen Sie dann " Drucken . "
 Klicken Sie in der Verlaufsanzeige in der Optionsleiste , um das Dialogfeld " Verlaufseditor " anzuzeigen .
 Wählen Sie die Optionen für , wie die Ergebnisse angezeigt werden sollen .
@@ -10491,14 +10491,14 @@ Sie können die Interaktion mit 3D- und Geodaten-PDFs in mehrere Möglichkeiten 
 Um Bilder hinzuzufügen , klicken Sie auf die Schaltfläche " Hinzufügen " ( n ) ( das Pluszeichen ( + ) neben " Bilder " ) .
 Klicken Sie bei gedrückter Umschalttaste , um zusätzliche Textobjekte auszuwählen .
 Passen Sie die entsprechenden Einzüge im Absatzbedienfeld festlegen .
-n . Datentypen , die Sie erstellen können , um einen neuen Objekttyp zu definieren .
+n. Datentypen , die Sie erstellen können , um einen neuen Objekttyp zu definieren .
 Experimentieren Sie die optimale Balance zwischen Soundqualität und Dateigröße .
 Sie können diese Auftragsdefinitionen über den Befehl " Bearbeiten " im Dialogfeld " JDF-Auftragsdefinitionen " bearbeiten .
 Eine Suche kann breit oder schmal , einschließlich viele verschiedene Arten von Daten und mehrere Adobe PDF-Dateien .
 Die beiden websicheren Farben korrekt in den Farbfeldern auf der rechten Seite angezeigt .
 Wenn die kombinierten Kanalwerte über 100 % werden , zeigt Photoshop ein Warnsymbol neben den Gesamtwert .
 Wählen Sie PostScript im Menü " Drucker " die Option " Datei , " und wählen Sie eine PPD-Datei .
-So können Sie z . B. ein Werbebanner , wenn Sie mehrere Dateien exportieren , wenn jeder Buchstabe eines Firmennamens in einer Grafik animiert wird .
+So können Sie z. B. ein Werbebanner , wenn Sie mehrere Dateien exportieren , wenn jeder Buchstabe eines Firmennamens in einer Grafik animiert wird .
 Themen können im Voraus mithilfe einer Liste definiert werden .
 Der Shader verwendet das Eingabebild , um die Ausgabe des Filters zu erstellen , in der Regel handelt es sich um eine geänderte Version des Originalbilds .
 Um die Startseite zu deaktivieren , klicken Sie auf " Nicht mehr anzeigen , wenn die Startseite geöffnet wird .
@@ -10515,7 +10515,7 @@ Die standardmäßige Ansicht des Dokumentfensters .
 Öffnen Sie das Bild , das Sie aufnehmen möchten .
 Als Container und Platzhalter , Frames sind die grundlegenden Bausteine für das Layout des Dokuments .
 Die Variable $ MT wird , um den gesamten Text aus der aktuellen SWF-Datei als Kommentar in den HTML-Code einfügen .
-An Adobe Labs haben Sie Zugriff auf Ressourcen wie z . B. die folgenden :
+An Adobe Labs haben Sie Zugriff auf Ressourcen wie z. B. die folgenden :
 Wenn Sie fertig sind , wählen Sie " Datei " " Für Web und Geräte speichern . "
 Ziehen Sie das Fadenkreuz über den roten Pupillen in das Foto .
 Klicken Sie im Dialogfeld " Verbiegen , " geben Sie den neuen Winkel ein .
@@ -10592,9 +10592,9 @@ Außerdem wendet Contribute die ausgewählte Vorlage auf die Webseite .
 Geben Sie 155 für den X-Wert ein .
 Wählen Sie in Ihrem Code , können Sie einen anderen Container angeben .
 Wählen Sie " Drehen " Für Größe anpassen , um die Bilder zu drehen , und zwar unabhängig von ihrer Ausrichtung , so dass sie effizient auf einen Kontaktabzug anzupassen .
-Wählen Sie " Bearbeiten " " Voreinstellungen " > " Schnittstellenpositionen " ( Windows ) bzw . " InDesign " > " Voreinstellungen " > " Schnittstellenpositionen " ( Mac OS ) .
+Wählen Sie " Bearbeiten " " Voreinstellungen " > " Schnittstellenpositionen " ( Windows ) bzw. " InDesign " > " Voreinstellungen " > " Schnittstellenpositionen " ( Mac OS ) .
 Wenn das Dialogfeld nicht geöffnet wird , klicken Sie auf " Durchsuchen . "
-Um eine neue Hintergrundfarbe auszuwählen , klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) in das Bild .
+Um eine neue Hintergrundfarbe auszuwählen , klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) in das Bild .
 Wenn sichtbar , erscheinen die Lineale am oberen und linken Rand des aktiven Fensters .
 Die Art der Werkzeuge in einem Bild erstellen .
 Einige der Aktionen in der Menüleiste in Contribute als neue Symbole in der Symbolleiste verschoben wurden .
@@ -10623,7 +10623,7 @@ Zur feineren Steuerung des Ziehens weiter vom Bezugspunkt des Objekts beginnen .
 Einen Video-Lehrgang zur Verwendung von Symbolen und Instanzen finden Sie unter http : / / www.adobe.com / go / vid0122 _ de www.adobe.com / go / vid0122 .
 Anwendungen können OpenGL auf unterschiedliche Weise verwenden .
 Um die ebenenbasierten Slices ausgerichtet oder verteilt werden , wird der Inhalt der Ebenen ausgerichtet oder verteilt werden .
-Um z . B. die Kollisionserkennung in einem Spiel testen , können Sie die Variable Wert eingeben , um einen Ball in der richtigen Position neben einer Wand zu positionieren .
+Um z. B. die Kollisionserkennung in einem Spiel testen , können Sie die Variable Wert eingeben , um einen Ball in der richtigen Position neben einer Wand zu positionieren .
 Zum Anpassen der Eigenschaften im Bewegungs-Editor angezeigt werden , klicken Sie auf das Dreieck neben einer Eigenschaftenkategorie , um die Kategorie ein- oder auszublenden .
 Dies kann vorkommen , wenn die Bilder über ein Farbprofil auf Seitenebene , jedoch nicht in die Bilddaten einbezogen werden .
 Änderungen an der Ansichtsdefinition , die am unteren Rand der Liste in der Modellhierarchie angezeigt .
@@ -10778,7 +10778,7 @@ Legt fest , dass Textobjekte in einem Movieclip importiert werden .
 Klicken Sie erneut auf " Speichern . "
 Ziehen Sie das farbige Rechteck ( Vorschaubereich ) in das Navigatorfenster .
 Die charCode Eigenschaft ist der numerische Wert , der Schlüssel in den aktuellen Zeichensatz .
-( Diese Option ist nur mit Formaten verfügbar , die Alphakanäle unterstützen , wie z . B . PSD oder TIFF ) .
+( Diese Option ist nur mit Formaten verfügbar , die Alphakanäle unterstützen , wie z. B. PSD oder TIFF ) .
 Die applyFilter ( ) -Methode einen Filter auf eine Quelle BitmapData-Objekt angewendet , sodass eine neue , gefilterte Bild .
 Legt die Darstellung der Zeilenenden in Abstandsmessungen .
 Der genaue Speicherort dieses Ordners variiert .
@@ -10823,7 +10823,7 @@ Der Text fließt zur nächsten verketteten Textrahmens , unabhängig von der akt
 Erhöht ( positive Werte ) oder verringert ( negative Werte ) .
 In Dreamweaver Bibliothekselemente vereinfachen häufig verwendete Website Komponenten bearbeiten und aktualisieren .
 Um die Art , ohne die Pixelbildumwandlung von Textebene verzerren , verwenden Sie die Optionen " Verkrümmen " für das Text-Werkzeug .
-Kapitelnummern können nicht als Präfix in den generierten Index oder Inhaltsverzeichnis ( z . B . 1-3 , 1-4 usw . ) aufgenommen werden .
+Kapitelnummern können nicht als Präfix in den generierten Index oder Inhaltsverzeichnis ( z. B. 1-3 , 1-4 usw. ) aufgenommen werden .
 Im Gegensatz dazu wird ein Movieclip-Symbol verfügt über eine eigene unabhängige Zeitleiste .
 Um eine Beschreibung für statischen Text bereitzustellen , müssen Sie sie in dynamischen Text zu konvertieren .
 Kennzeichnet die Auswahl als Formularfeld .
@@ -10835,7 +10835,7 @@ Klicken Sie im Dialogfeld " Neues Projekt " auf " OK . "
 Schließlich wird die ExternalInterface.call ( ) -Methode verwendet , um die JavaScript-Funktion setSWFIsReady ( ) aufrufen , die den Container benachrichtigt , dass die ActionScript-Funktionen registriert wurden .
 Ziehen und Ablegen oder Ausschneiden und Einfügen einer Schaltflächeninstanz aus einem anderen Fireworks-Dokument ) .
 Wenn Camera und Ziel ausgewählt ist , wird das Kameraziel der Mittelpunkt der drei Punkte ausgewählt werden .
-Wenn Sie zusätzliche lehrreiche Wörter ( z . B . " Fügen Sie die folgenden Schritte durch : " ) hinzufügen , werden diese Wörter manuell aus dem Word-Dokument gelöscht werden .
+Wenn Sie zusätzliche lehrreiche Wörter ( z. B. " Fügen Sie die folgenden Schritte durch : " ) hinzufügen , werden diese Wörter manuell aus dem Word-Dokument gelöscht werden .
 Da Programmierung beinhaltet hauptsächlich Informationen im Speicher des Computers ändern , ist es erforderlich , eine Möglichkeit , eine einzelne Informationseinheit in das Programm darstellen .
 Dies würde beispielsweise auftreten , wenn jemand eine Photoshop Grafik ändert , die Sie bereits in Illustrator platziert haben .
 Wenn Sie die Standardeinstellungen ändern , ändert sich diese Option auf " Benutzerdefiniert . "
@@ -10866,7 +10866,7 @@ Sie können auch im Dialogfeld " Meine Verbindungen " zum Erstellen einer Verbin
 Geben Sie einen Punkt eingeben , nachdem Sie eine Variable oder ein Objekt .
 Wenn diese Option aktiviert ist , können Sie ein Tabellenformat in der importierten Tabelle anwenden .
 Setzen Sie die Einfügemarke an die Stelle , an der die Kapitelnummer angezeigt werden soll , und wählen Sie dann " Schrift " " Textvariablen " > " Textvariable einfügen " > " Kapitelnummer " aus .
-Klicken Sie auf " Speichern " ( Windows ) bzw . " Exportieren " ( Mac OS ) .
+Klicken Sie auf " Speichern " ( Windows ) bzw. " Exportieren " ( Mac OS ) .
 Um Rahmenkanten ein- oder auszublenden , wählen Sie " Ansicht " " Rahmenkanten einblenden / ausblenden " aus .
 Verschieben Sie Eigenschaftenschlüsselbilder in andere Bilder innerhalb des Tweens .
 Eventuell müssen Sie die Ansicht vergrößern , um das Grundlinienraster anzuzeigen .
@@ -10939,10 +10939,10 @@ Eigenschaften , die mit der var oder const deklarierte Schlüsselwörter geerbt 
 Wählen Sie die Schaltfläche " In Adobe PDF konvertieren " auf der PDFMaker-Werkzeugleiste ( Office 2003 ) , oder wählen Sie " PDF erstellen " auf der Acrobat-Multifunktionsleiste ( 2007 ) .
 Wählen Sie im Menü des Verknüpfungenbedienfelds " Bedienfeldlayout " Optionen . "
 Der Wert des Datenfelds ist verfügbar , wenn der Benutzer ein Element in der Liste auswählt , indem Sie darauf klicken und so zu einem change-Ereignis .
-Wählen Sie eine voreingestellte Exporteinstellung festgelegt , wie z . B . GIF oder JPEG Web216 - Höhere Qualität .
-Elemente , die in der aktuellen Schriftart nicht unterstützt , die in eckigen Klammern angezeigt werden , wie z . B . [ Swash ] .
+Wählen Sie eine voreingestellte Exporteinstellung festgelegt , wie z. B. GIF oder JPEG Web216 - Höhere Qualität .
+Elemente , die in der aktuellen Schriftart nicht unterstützt , die in eckigen Klammern angezeigt werden , wie z. B. [ Swash ] .
 Er fährt mit index3 , index4 und so weiter , bis alle Interaktionen in einen Index sind .
-Drücken Sie Strg + F6 ( Windows ) bzw . Befehl + F6 ( Macintosh ) gedrückt , bis Sie das Bedienfeld erweitern oder reduzieren , um den Fokus hat .
+Drücken Sie Strg + F6 ( Windows ) bzw. Befehl + F6 ( Macintosh ) gedrückt , bis Sie das Bedienfeld erweitern oder reduzieren , um den Fokus hat .
 Wenn die Webseite nicht bearbeitet werden kann , wird eine Fehlermeldung in den In-Browser-Editor angezeigt , und die Seite wird auf die ursprüngliche URL wiederhergestellt .
 Photoshop zählt die Auswahlbereiche und die Zahl in der Spalte Anzahl im Messprotokoll eingibt .
 Wählen Sie Tabellen anzeigen und Linienzüge in das Dialogfeld ein .
@@ -10956,7 +10956,7 @@ Jede Bibliothek verfügt über eine eigene Dateierweiterung und den standardmä�
 Die Anzahl der Zustände in der Animation an .
 Ersetzt die Farben in einem Bild mit den neuen Farbwerte angegeben .
 Die TextInput-Komponente sollte nun aussehen , wie in der folgenden Abbildung gezeigt :
-Wenn Sie den Inhalt in einer anderen Anwendung , wie z . B . Dreamweaver , platzieren Sie das gesamte Dokument als SWF-Datei exportieren .
+Wenn Sie den Inhalt in einer anderen Anwendung , wie z. B. Dreamweaver , platzieren Sie das gesamte Dokument als SWF-Datei exportieren .
 Sie können so viele Ebenen abreißen , wie Sie möchten .
 Wendet ein und eignet sich auf allen Hintergrundtypen , unabhängig davon , ob deren weichen oder harten Kanten weichgezeichnet werden .
 Deaktivieren Sie diese Option , um die Maßeinheiten manuell angeben .
@@ -11012,7 +11012,7 @@ Um einen Steuerpunkt zu verschieben , ziehen Sie ihn mit dem Teilauswahlwerkzeug
 Die Registerkarte " Historie " wird nur angezeigt , wenn Adobe Photoshop installiert ist .
 Wählen Sie " Ansicht " " Raster " > " Raster bearbeiten , " und wählen Sie eine der Optionen aus .
 Der Prozess der Erstellung von Druckspiegel von Layouts Druckbögen erledigen .
-Sie können die Start- bzw . Endposition des Typs auf einem Pfad , Objektträgertyp , und ändern Sie die Pfad-Position auf andere Weise ändern .
+Sie können die Start- bzw. Endposition des Typs auf einem Pfad , Objektträgertyp , und ändern Sie die Pfad-Position auf andere Weise ändern .
 Ändern Sie die Attribute wie gewünscht .
 Halten Sie die Taste H , und klicken Sie dann auf das Bild und halten Sie die Maustaste gedrückt .
 Ein Render-Ergebnis kann , je nach Modell , Beleuchtung und Karten in der 3D-Szene zeitintensiv sein .
@@ -11044,7 +11044,7 @@ Wählen Sie die 3D-CAD-Dateien , die Sie konvertieren möchten :
 Passt die Höhen , ohne die Breiten ändern .
 Um das Spektrum von der Farbskala schnell zu ändern , klicken Sie bei gedrückter Umschalttaste auf den Farbverlauf , bis Sie das gewünschte Spektrum anzuzeigen .
 Wählen Sie keine interlace eine animierte PNG-Datei .
-Drücken Sie Strg + Eingabetaste ( Windows ) bzw . Befehlstaste + Zeilenschalter ( Mac OS ) .
+Drücken Sie Strg + Eingabetaste ( Windows ) bzw. Befehlstaste + Zeilenschalter ( Mac OS ) .
 Wählen Sie " Hochgestellt " oder " Tiefgestellt " im Menü des Zeichenbedienfelds .
 Klicken Sie auf das Symbol " Entwürfe in der Konsole " Entwurf . "
 Weitere Informationen finden Sie unter Debug -Komponentenanwendungen .
@@ -11073,7 +11073,7 @@ In einigen Fällen sind diese Artefakte erfasst .
 Sie können die Hilfslinie neu positionieren , indem Sie sie erneut .
 Die erste Registerkarte löscht alle Standardtabstopps auf der linken Seite festlegen .
 Sie können Hilfslinien sperren , indem Sie " Ansicht " " Hilfslinien " > " Hilfslinien sperren " aus .
-Wählen Sie " Bearbeiten " " Voreinstellungen " > " Schrift " ( Windows ) bzw . " InDesign " > " Voreinstellungen " > " Schrift " ( Mac OS ) .
+Wählen Sie " Bearbeiten " " Voreinstellungen " > " Schrift " ( Windows ) bzw. " InDesign " > " Voreinstellungen " > " Schrift " ( Mac OS ) .
 Wählen Sie dann das Bild und die Ebene mit der Maske .
 Die parent ( ) -Methode gibt das übergeordnete Element eines XML-Objekts .
 Erweitern Sie Layer-Spuren , um Ebeneneigenschaften anzuzeigen , die animiert werden können .
@@ -11081,7 +11081,7 @@ Mit dieser Option werden in der Regel Bilder mit der größten Integrität der F
 Wenn Sie die PDF-Datei an eine neue Position verschieben , werden die Anlagen automatisch verschoben .
 Weitere Informationen über die Methode enterFullScreenDisplayState ( ) -Methode und der Bühne .
 Abhängig von der ausgewählten Datei können Sie die folgenden Typen von Metadaten angezeigt werden :
-Die meisten Tintenstrahldrucker verfügen über eine Auflösung von ca . 720 an : 2880 dpi .
+Die meisten Tintenstrahldrucker verfügen über eine Auflösung von ca. 720 an : 2880 dpi .
 Wählen Sie alle Formularfelder , die Sie ändern möchten .
 Wenn Sie die Durchlässigkeit entfernen , um einen ( tiefes Schwarz ) anstelle eines 100 % Schwarz .
 Durch Deaktivieren dieser Option erhöht die Leistung geringfügig .
@@ -11131,7 +11131,7 @@ Sie können auch das manuelle Kerning . Dies ist ideal zum Anpassen der Abstand 
 Die neue Ebene in einem Winkel von 90 ° auf der ursprünglichen Ebene abgerissen haben .
 Legt das Seitenlayout für das Blättern verwendet werden , wenn Sie zuerst ein Dokument öffnen .
 Sie können Textrahmen und Grafiken automatisch oder manuell .
-Sie können die Arbeit mit den Variablen als Gruppe ( z . B . Spiegeln durch die Ordner nach der Suche nach einer Information ) .
+Sie können die Arbeit mit den Variablen als Gruppe ( z. B. Spiegeln durch die Ordner nach der Suche nach einer Information ) .
 Sie können die Komplexität eines Pfads reduzieren , indem Sie überflüssige Punkte löschen .
 Klicken Sie im Dialogfeld " Speichern unter " einen Speicherort für die Datei aus , geben Sie einen Dateinamen ein , und klicken Sie auf " Speichern . "
 Legen Sie die DocumentClass in der FLA-Datei zu FLVPlaybackCaptioningExample .
@@ -11170,7 +11170,7 @@ Wenn Sie " Ausrichten " auswählen , wird der Registrierungspunkt des getweenten
 Ein Ausdruck ist eine Anweisung , die ausgewertet werden kann , die einen Wert zurückgibt .
 Wenn Sie eine schwarze Linie an der gewünschten Position angezeigt wird , lassen Sie die Maustaste los .
 Wenn Sie den Zeiger über den Wiedergabebereich positioniert wird , wird es zum Symbol wiederzugeben .
-Wenn diese Option nicht ausgewählt ist , wird jede Seite als separater Clip , z . B. eine eigene Folie in einer Diashow .
+Wenn diese Option nicht ausgewählt ist , wird jede Seite als separater Clip , z. B. eine eigene Folie in einer Diashow .
 Bricht die Interaktion nur einmal .
 Wählen Sie den Anschluss Eigene Dateien erneut , und klicken Sie auf " Schließen . "
 Die Tabelle oder Zelle behält die Formatierung wird jedoch nicht mehr mit einem Stil zugeordnet ist .
@@ -11212,7 +11212,7 @@ Wenn Sie mehrere Dateien auswählen , können Sie im Dokument klicken oder ziehe
 Geben Sie einen Wert zwischen 0 und 180 ° ein , um die Glättung von Ecken steuern .
 In der objektorientierten Programmierung von ActionScript können , gibt es drei Arten von Merkmale , dass alle Klassen gehören :
 unterstützt die folgenden Arten von Animationen :
-Wählen Sie " Datei " " Seite einrichten " ( Windows ) bzw . " Datei " > " Drucken " Ränder ( Macintosh ) .
+Wählen Sie " Datei " " Seite einrichten " ( Windows ) bzw. " Datei " > " Drucken " Ränder ( Macintosh ) .
 Zeigt die Farbwerte in diesem Farbmodus .
 InDesign erstellt ein einzelnes .epub Datei mit dem Inhalt XHTML-basiertes .
 Zeigt den Namen und die Miniatur jedes Vorgabenelements an .
@@ -11242,7 +11242,7 @@ Standardmäßig werden alle drei Arten von ändern , verwenden Sie die Textfarbe
 Verwendet eine standardmäßige Zeichenfläche 800 x 600 Dateigröße und bietet eine Vielzahl von anderen print- , video- und web-specific Größen zur Auswahl .
 Wählen Sie mit dem Auswahl- oder Hand-Werkzeug einen der folgenden Schritte aus :
 Wenn Sie die z-Eigenschaft eines Anzeigeobjekts auf einen numerischen Wert explizit eingestellt wurde , wird das Objekt automatisch eine dreidimensionale Transformationsmatrix erstellt .
-Mit dieser Option wird verhindert , dass die gemeinsamen typografischen Problem zu trennende Wörter an , wie z . B . " care-giver , " in der Mitte einer Zeile nach Text fließt .
+Mit dieser Option wird verhindert , dass die gemeinsamen typografischen Problem zu trennende Wörter an , wie z. B. " care-giver , " in der Mitte einer Zeile nach Text fließt .
 Durch Zurückstellen Typüberprüfung zur Laufzeit Standardmodus können Sie die Eigenschaften einer Unterklasse referenzieren , auch wenn Sie die Verallgemeinerung .
 / A 3 / entspricht dem Zeichen A 3 und 5-mal wiederholt .
 Wenn Sie die erforderliche Anzahl von Frames , klicken Sie auf " Ja . "
@@ -11302,10 +11302,10 @@ Diese Option ist nur verfügbar für mehrere PDF-Dateien oder PDF Indizes suchen
 Klicken Sie auf die Bühne , wo Sie möchten , dass das Bildmaterial des Symmetriepinsels angezeigt werden soll .
 Sie können die Stärke einstellen .
 Klicken Sie auf Adressbuch , um E-Mail-Adressen im Adressbuch Ihrer E-Mail-Anwendung auszuwählen .
-Es bietet außerdem zusätzliche Vorteile , wie z . B. die progressive Anzeige und verlustfreie Komprimierung mit JPEG nicht zur Verfügung .
+Es bietet außerdem zusätzliche Vorteile , wie z. B. die progressive Anzeige und verlustfreie Komprimierung mit JPEG nicht zur Verfügung .
 Anschließend wird ein Array mit FileReference Objekte , wenn der Benutzer erfolgreich eine oder mehrere Dateien auswählt .
 Halten Sie die Alt-Taste ( Windows ) bzw. die Wahltaste ( Mac OS ) gedrückt , während Sie ziehen , um das Modell zu rollen .
-Das Glätten verschmilzt die Kante diskret in den Hintergrund , um die unregelmäßigen Kanten geglättet , die gerundete Objekte auftreten können , wie z . B . Ellipsen und Kreise .
+Das Glätten verschmilzt die Kante diskret in den Hintergrund , um die unregelmäßigen Kanten geglättet , die gerundete Objekte auftreten können , wie z. B. Ellipsen und Kreise .
 Im vorangegangenen Code , der onIOError ( ) -Methode ausgeführt und eine kurze Fehlermeldung wird angezeigt , wenn ein Fehler auftritt .
 Wählen Sie den gewünschten Inhalt in einen Blogeintrag in Contribute veröffentlichen .
 Wählen Sie den Zeiger an eine andere Position verschieben oder eine Kante .
@@ -11322,7 +11322,7 @@ Wählen Sie " Datei " " Einstellungen für Veröffentlichungen , " klicken Sie a
 Aktivieren Sie das Kontrollkästchen , wenn Sie nicht möchten , dass Benutzer dieses Bibliothekselement bearbeiten .
 Die Filter können nicht auf Bitmap-mode indizierten Farben oder Bilder angewendet werden .
 Das Sperren Slices verhindert , dass das Ändern der Größe , Verschieben oder auf andere Weise sie versehentlich ändern .
-Der Bericht enthält auch weitere Statistiken , wie z . B . Zeit , Dokumentnamen und Profilnamen ein .
+Der Bericht enthält auch weitere Statistiken , wie z. B. Zeit , Dokumentnamen und Profilnamen ein .
 Die Dokumentmeldungsleiste mit dem Konformitätsstatus und Optionen angezeigt .
 Beispielsweise geglätteten schwarzen Text auf einem weißen Hintergrund grauer Pixel an den Rändern aufweist , die vor einem farbigen Hintergrund sichtbar sind .
 Allerdings können einige Linealhilfslinien die Sicht auf solche Objekte als Linien mit schmalen Strich Breiten .
@@ -11371,7 +11371,7 @@ Gibt den Monitor , auf dem Vollbildschirm-Modus ( für Benutzer mit Konfiguratio
 Führen Sie die Aktionen aus .
 Wählen Sie " Datei " " Wiederherstellen " , und klicken Sie dann auf " Wiederherstellen . "
 Geben Sie einen Wert in Pixel , die einen Wert von 0 bis 255 fest .
-Sie können auch Farbfeldoptionen fest , wie z . B . Farbfeld Name , Farbe , Farbmodus oder eine Vorschau angeben .
+Sie können auch Farbfeldoptionen fest , wie z. B. Farbfeld Name , Farbe , Farbmodus oder eine Vorschau angeben .
 Ermöglicht es Ihnen , alle importierten Text zu bearbeiten .
 Alle Seiten , die mit dieser Vorlage erstellt wurden , wird der Workflow zugewiesen ist .
 Wenn Ihr Dokument Ebenen verwendet , können Sie angeben , welche zu drucken .
@@ -11403,7 +11403,7 @@ Gibt die Pinselgröße des Werkzeugs .
 Klicken Sie im Eigenschafteninspektor , ziehen Sie die gewünschte Position oder geben Sie einen Prozentwert in das Feld ein .
 Wählen Sie " Steuerung " " Abspielen " aus .
 Die Begrenzungsbox einer RadioButton-Komponente ist nicht sichtbar . Sie markiert zugleich den Kollisionsbereich der Komponente fest .
-So können Sie z . B. zwei Ebenen auf der obersten Ebene auswählen , Sie können jedoch keine zwei Pfade , die sich in verschiedenen Ebenen auswählen .
+So können Sie z. B. zwei Ebenen auf der obersten Ebene auswählen , Sie können jedoch keine zwei Pfade , die sich in verschiedenen Ebenen auswählen .
 Wählen Sie " Bearbeiten " " In Layout bearbeiten . "
 Wenn Sie in das EPS-Format exportieren , können Sie die folgenden Optionen angeben :
 Um die Statusverzögerung festzulegen , wählen Sie einen Status aus der Liste aus , und geben Sie die Verzögerungszeit in Hundertstelsekunden in das Feld " Verzögerung . "
@@ -11486,11 +11486,11 @@ Wenn Sie ein Freihandsegment zeichnen möchten , halten Sie die Alt-Taste ( Wind
 Wenn Sie das Pipette-Werkzeug vorübergehend verwenden , um eine Vordergrundfarbe , während Sie mit einem beliebigen Malwerkzeug auszuwählen , halten Sie die Alt- ( Windows ) bzw. die Wahltaste ( Mac OS ) .
 Sie können mit dieser Listener-Funktionen registrieren .
 Weitere Informationen finden Sie unter Bearbeiten von Eigenschaftenkurven mit dem Bewegungs-Editor .
-Wenn Sie z . B. in ActionScript eigene Animation wiederzuverwenden , können Sie den Namen , die in Flash automatisch erstellt für das Tween beizubehalten .
+Wenn Sie z. B. in ActionScript eigene Animation wiederzuverwenden , können Sie den Namen , die in Flash automatisch erstellt für das Tween beizubehalten .
 Die Dateien werden in den folgenden Verzeichnissen gespeichert :
 Um ein einzelnes Attribut zu aktivieren oder zu deaktivieren , klicken Sie auf das Augensymbol neben dem Attribut aktivieren .
 Ein Pfadumriss einen Strich aufgerufen wird .
-Klicken Sie auf die Schaltfläche " Standard " Ligaturen , um Ligaturen für Standard-Buchstabenpaare ( z . B . " fi , " " fl , " " ff , " " ffi " und entsprechende ) aktivieren oder deaktivieren .
+Klicken Sie auf die Schaltfläche " Standard " Ligaturen , um Ligaturen für Standard-Buchstabenpaare ( z. B. " fi , " " fl , " " ff , " " ffi " und entsprechende ) aktivieren oder deaktivieren .
 Weitere Informationen zum Einfügen von Tabulatoren und Einzüge in einer Tabelle finden Sie unter Formatieren von Text in einer Tabelle .
 Der Name wird als Bezeichnung für die Schaltfläche oder das Textfeld gelesen wird .
 Der Filter " Verflüssigen " auf 8 Bit oder 16 Bit pro Kanal Bilder angewendet werden können .
@@ -11557,7 +11557,7 @@ Wählen Sie " Ebene " " Neue Einstellungsebene " > " Fotofilter . "
 Da die Camera-Klasse nicht der DisplayObject-Klasse hinausragen , kann er nicht direkt in der Anzeigeliste mithilfe der addChild ( ) -Methode hinzugefügt werden .
 Sie können diese Einstellungen ändern , um zu steuern , wie das Dokument angezeigt wird , wenn er das nächste Mal geöffnet wird .
 Ein ausgewähltes Wort wird automatisch geladen , wenn Sie den Thesaurus öffnen .
-Für einige Lesezeichen öffnen , z . B. eine Datei oder ein Sound wiedergegeben wird .
+Für einige Lesezeichen öffnen , z. B. eine Datei oder ein Sound wiedergegeben wird .
 Wählen Sie " Ansicht " " Farbumfang-Warnung " Warnung . "
 Wenn Sie die Seiten in der PDF-Originaldatei löschen , wird die platzierte PDF-Seite Änderungen an der Seite , die sich nun auf der ursprünglichen Seitenzahl platziert werden .
 Aktivieren Sie das Kontrollkästchen " Datei nach Erstellung öffnen , um die neue Datei in Flash öffnen .
@@ -11583,7 +11583,7 @@ Als Autor können Sie Ihre PDF-Dokumente für Umfließen optimieren , indem Sie 
 Geben Sie ein Dokumentraster Farbe , indem Sie eine Farbe aus dem Menü " Farbe " aus .
 Ausgehend von einem Punkt in einem geschlossenen Bereich einer Form , zeichnen Sie eine Linie von diesem Punkt unbegrenzt erweitert wird .
 wechselt in den Symbolbearbeitungsmodus .
-Neben der Seitenzahl , können Sie die anderen Kopf- und Fußzeilen Variablen , wie z . B. das Erstellungsdatum oder einen Dateinamen hinzuzufügen .
+Neben der Seitenzahl , können Sie die anderen Kopf- und Fußzeilen Variablen , wie z. B. das Erstellungsdatum oder einen Dateinamen hinzuzufügen .
 Ziehen Sie die Ecke , an der Sie das Diagramm beginnen möchten , um die gegenüberliegende Ecke .
 Das Bild ( oder genauer , die Loader-Instanz in geladen ist , wird das maskierte Anzeigeobjekt ist .
 Wählen Sie " Schrift " " Schriftart suchen " aus .
@@ -11599,9 +11599,9 @@ Der Freihandwerkzeug hartkantigen Linien erstellt .
 Beschriftungskomponenten nicht über Umrandungen , und nicht alle Ereignisse nicht fokussiert werden können .
 Dies zeigt die gleichen Steuerelemente wie das Werkzeug " Frei transformieren . "
 Eine Methode der Implementierung umfasst nicht nur die Oberfläche , sondern auch die ausführbaren Anweisungen , die die Methode des Verhaltens ausführen .
-Wenn Sie z . B. eine Person zum Darstellen von Daten verwendet haben , können Sie nur den Körper strecken oder komprimieren , aber nicht den Kopf .
+Wenn Sie z. B. eine Person zum Darstellen von Daten verwendet haben , können Sie nur den Körper strecken oder komprimieren , aber nicht den Kopf .
 Standardmäßig erscheinen schwarze Felder statt überarbeitete Bilder und Text .
-Wenn Sie z . B . " Gehe zu " Erste Seite " wählen , geben Sie den Zoom .
+Wenn Sie z. B. " Gehe zu " Erste Seite " wählen , geben Sie den Zoom .
 Wählen Sie eine vordefinierte Farbe für die Hervorhebung , um Objekte , wenn Sie mit dem Kantenmarker angezeigt wird , oder wählen Sie Andere , um eine benutzerdefinierte Farbe für die Hervorhebung auswählen .
 Der standardmäßige Pfad Konventionen für Windows oder Mac OS verwendet werden .
 Exportieren von HTML-Dateien aus Fireworks generiert eine HTML-Datei und die zugehörigen Bilddateien in den von Ihnen angegebenen Speicherort .
@@ -11720,7 +11720,7 @@ Geben Sie an , ob Sie inline aufnehmen möchten , wenn der Inhalt von Notizen mi
 Sie können die Smart-Objekt-Ebene mit den rohen Dateien jederzeit anpassen , um die Camera Raw-Einstellungen doppelklicken .
 Dies kann hilfreich sein , die für den beabsichtigten Empfänger des PDF-Dokuments .
 Sie können diesen Blogeintrag verknüpfen , um einen leeren Blogeintrag und die Einträge veröffentlichen .
-Alle PDFs sollten in beiden Inhalten und elektronischen Funktionen , wie z . B . Verknüpfungen , Lesezeichen und Formularfelder abgeschlossen werden .
+Alle PDFs sollten in beiden Inhalten und elektronischen Funktionen , wie z. B. Verknüpfungen , Lesezeichen und Formularfelder abgeschlossen werden .
 Wählen Sie im Bedienfeld " Ebenen " im Menü " Optionen " im Popupmenü " oder wählen Sie " An Status freigeben .
 - legt fest , wie hoch der Zeile ist .
 Um eine Vordergrundfarbe auszuwählen , klicken Sie auf eine Farbe im Farbfeldbedienfeld .
@@ -11755,7 +11755,7 @@ Klicken Sie auf die Farbauswahl " Füllung " im Eigenschafteninspektor , um sie 
 Verwenden Sie das Dialogfeld " Eigenschaften für SWF-Video ( SWF-Datei ) Eigenschaften zu ändern .
 Geben Sie einen Titel für den neuen Blogeintrag in das Textfeld " Neuer Eintrag " Titel . "
 Wenn Sie die vorhandenen Tags beibehalten möchten , wenden Sie die Tags manuell ( oder verwenden Sie den Befehl " Formate zu Tags zuordnen " sehr sorgfältig ) .
-Darüber hinaus werden einige Schriften enthalten bedingte Ligaturen für Buchstabenpaare , wie z . B. ct , st und ft .
+Darüber hinaus werden einige Schriften enthalten bedingte Ligaturen für Buchstabenpaare , wie z. B. ct , st und ft .
 Die Mindestgröße beträgt 1 x 1 Pixel , der Höchstwert beträgt 2880 x : 2880 Pixel .
 Wenden Sie die Füllmethoden und Deckkrafteinstellungen auf die einzelnen Objekte aus , deren Füllmethode isoliert werden soll .
 Zunächst wird ein Video-Objekt auf der Bühne platzieren , wählen Sie aus dem Menü Bibliothek die Option " Neues Video . "
@@ -11831,7 +11831,7 @@ Klicken Sie im Bedienfeld " Seiten " :
 Dieser Knoten verfügt über eine Version Attribut , das die Version der XML-Datei angibt .
 Eine Instanz Traitsobjekt ( TA ) speichert die Instanz von Eigenschaften , die in einer Klassendefinition definiert sind .
 Wenn Sie eine weiche Kante , wählen Sie die Anzahl der Pixel ( zwischen 0 und 100 ) auf beiden Seiten der Kante , die eine weiche Kante handeln .
-Verwenden Sie die Option " Element " Unsichtbar " des Dialogfelds " Voreinstellungen " , um unsichtbare Elemente , wie z . B . Abschnittsankern , zu aktivieren oder zu deaktivieren .
+Verwenden Sie die Option " Element " Unsichtbar " des Dialogfelds " Voreinstellungen " , um unsichtbare Elemente , wie z. B. Abschnittsankern , zu aktivieren oder zu deaktivieren .
 Wenn Sie beispielsweise Kommentare aus einer ten-page Dokument in ein zweiseitiges Word-Dokument importieren , werden nur die Kommentare aus den ersten beiden Seiten angezeigt werden .
 Wählen Sie unter Nummerierungsvorlage , und wählen Sie die Nummerierungsart aus , die Sie verwenden möchten , aus dem Menü " Format " aus .
 Benennen Sie die Datei und wählen Sie " Acrobat FDF-Dateien ( * .fdf ) oder Acrobat XFDF Dateien ( * .xfdf ) für den Dateityp aus .
@@ -11851,7 +11851,7 @@ Speichert eine Kopie des Dokuments mit Prüfkommentaren auf Ihrer Festplatte .
 Wenn Certified Dokumente ausgewählt ist , werden die folgenden Optionen zur Verfügung :
 Die Reihenfolge , in der Sie einen Pfad zeichnen , wird die Richtung des Textes an .
 Verwenden Sie " Reduzieren-Vorschau " , um die Voreinstellungen zu erstellen , wenn die Transparenzreduzierung verwendet werden kann .
-Wenn Sie Version Cue aktiviert ist , werden zusätzliche Optionen zur Verfügung , z . B. die Möglichkeit , eine alternative Datei speichern und Versionsanmerkungen eingeben .
+Wenn Sie Version Cue aktiviert ist , werden zusätzliche Optionen zur Verfügung , z. B. die Möglichkeit , eine alternative Datei speichern und Versionsanmerkungen eingeben .
 Sie können ein Wasserzeichen in ein mit Tags versehenes PDF-Dokument hinzufügen , ohne sie in der Tag-Struktur hinzufügen .
 Dieses Handbuch ist für Entwickler , die Flash von Anwendungen und Komponenten für die Entwicklung verwenden möchten .
 Probieren Sie Filter und Einstellungen auf einem kleinen Teil eines Bildes .
@@ -11897,7 +11897,7 @@ Die Flusssteuerung ist die Kontrolle darüber , welche Aktionen ausgeführt werd
 Die Bewegungsrichtung hängt auch davon ab , ob Sie " Relativ zum Rücken " ausgewählt haben .
 Achten Sie vorsichtig , wenn Sie diese Fenstermodi implementieren .
 Wenn dies der Fall ist , führen Sie einen der folgenden Schritte aus :
-Mit können Sie die E-Learning-Inhalte , wie z . B . Online-Kursen und Lehrmaterial zu erstellen .
+Mit können Sie die E-Learning-Inhalte , wie z. B. Online-Kursen und Lehrmaterial zu erstellen .
 Die Anwendung " HelloWorld " beginnt .
 Die Klasse legt fest , welche Methoden und Eigenschaften für die Bildschirmanzeige verfügbar sind .
 Der Symbolebedienfeld enthält eine Vielzahl von vordefinierten Symbolen .
@@ -11920,7 +11920,7 @@ Sie können zu einem späteren Zeitpunkt eine digitale Version des ausgefüllten
 Verwenden Sie das Bedienfeld " Dokumentbibliothek " , um neue Instanzen des Symbols zu erstellen .
 Zeigt jedes Objekt .
 Tabulatorabstand auf den ganzen Absatz angewendet werden .
-Wenn die Option " Skalierungsprozentsatz anpassen " aktiviert ist , wird die Skalierung Werte angegeben sind ( z . B . 125 % ) .
+Wenn die Option " Skalierungsprozentsatz anpassen " aktiviert ist , wird die Skalierung Werte angegeben sind ( z. B. 125 % ) .
 Um das Zielobjekt für das Ziel , um die Seite zurückzusetzen , wählen Sie " Ziel festlegen " angezeigt .
 Wenn Sie eine Vorschau des Formulars , klicken Sie in der Formular-Werkzeugleiste auf " Vorschau . "
 Um diese Option verwenden zu können , müssen Sie wissen , wie Sie benutzerdefinierte Paletten erstellen und verwenden .
@@ -11941,7 +11941,7 @@ Standardmäßig werden beim Exportieren eines segmentierten Fireworks-Dokument ,
 Markierungen im Lineal zeigen die Position des Zeigers , wenn Sie sie verschieben .
 Weitere Informationen finden Sie unter " Anpassen der FLVPlayback-Komponente " im Handbuch ActionScript 3.0-Komponenten oder Komponenten-Referenzhandbuch für ActionScript 2.0 .
 Um den Vollbildmodus zu schließen , drücken Sie Strg + L oder die Esc-Taste .
-n . Der in der Flash-Authoring-Umgebung , in dem Sie einen ActionScript-Code schreiben ( " Fenster " " Aktionen " ) .
+n. Der in der Flash-Authoring-Umgebung , in dem Sie einen ActionScript-Code schreiben ( " Fenster " " Aktionen " ) .
 Da Sie nie explizit zum Aufrufen von Methoden der Proxy-Klasse jedoch den flash _ proxy-Namespace nur definiert und angewendet wird , jedoch nie referenziert werden .
 Die häufigste Fehlerverarbeitung synchron ist eine Fehlerbehandlungslogik , in dem Sie die Anweisungen in Ihrem Code einfügen , um synchrone Fehler zur Laufzeit abzufangen .
 Geben Sie einen Namen und einen Speicherort für die Datei an .
@@ -11985,7 +11985,7 @@ Die ungefilterten Objekt sieht folgendermaßen aus :
 Der Inhalt von textureMap wird das Bild vorher eingeblendet .
 Das filters-Array ignoriert wird .
 Erstellt und speichert nur eine Sicherungskopie der einzelnen Dateien beim Suchen und Ersetzen geändert werden .
-So können Sie z . B. eine Schaltfläche erstellen , die direkt zu einer anderen Seite oder auf einer Website geöffnet wird .
+So können Sie z. B. eine Schaltfläche erstellen , die direkt zu einer anderen Seite oder auf einer Website geöffnet wird .
 In diesem Abschnitt finden Sie einen Überblick über Adobe Photoshop CS4 Filter und wie sie in Bilder anwenden .
 Um einen Filter hinzuzufügen , klicken Sie auf die Schaltfläche " Filter hinzufügen , " und wählen Sie einen Filter aus .
 Klicken Sie auf die Schaltfläche " Tabelle " in der Symbolleiste .
@@ -12081,7 +12081,7 @@ Klicken Sie auf , oder ziehen Sie über den Bereich , in dem Sie die Symbolinsta
 Um einen Zweig eines Skeletts neu positionieren möchten , ziehen Sie einen Bone in der Verzweigung .
 Syntaxfehler werden im Bedienfeld " Ausgabe " angezeigt .
 In diesem Beispiel umfasst die Empfangsphase der Bühne und Übergeordneter Knoten während der Erstinstallation nach unten .
-Wählen Sie " Bearbeiten " " Voreinstellungen " > " Leistung " ( Windows ) bzw . " Photoshop " > " Voreinstellungen " > " Leistung " ( Mac OS ) und wählen Sie dann die Option " OpenGL aktivieren " unter " Einstellungen " die Option " GPU . "
+Wählen Sie " Bearbeiten " " Voreinstellungen " > " Leistung " ( Windows ) bzw. " Photoshop " > " Voreinstellungen " > " Leistung " ( Mac OS ) und wählen Sie dann die Option " OpenGL aktivieren " unter " Einstellungen " die Option " GPU . "
 Wenn dieser Code in ActionScript 2.0 ausgeführt wird , würde diese Referenzen übereinstimmen , und die Variable num nicht definiert werden .
 Klicken Sie auf die Schaltfläche " Farbe " wenden Sie die zuletzt ausgewählte Volltonfarbe im Farbfeldbedienfeld oder Farbe .
 Diese Option ist für Formularfelder , die keinen Text enthalten , nicht verfügbar .
@@ -12097,9 +12097,9 @@ Verwenden Sie Tracker zum Verwalten der von Ihnen verteilten oder empfangen werd
 Um ein Dialogfeld zu schließen , ohne die Änderungen zu speichern , klicken Sie auf " Abbrechen . "
 Zeichnen oder wählen Sie eine Linie aus .
 Heben Sie die Auswahl aller Objekte auf der Bühne und in der Zeitleiste , indem Sie auf einen leeren Bereich der Bühne .
-Benutzerspezifische Konfigurationsdateien können Sie Funktionen von Fireworks , wie z . B . Stile , Tastaturbefehle und Befehle , ohne dass dies Auswirkungen auf die Konfiguration von Fireworks für andere Benutzer anpassen .
+Benutzerspezifische Konfigurationsdateien können Sie Funktionen von Fireworks , wie z. B. Stile , Tastaturbefehle und Befehle , ohne dass dies Auswirkungen auf die Konfiguration von Fireworks für andere Benutzer anpassen .
 Wählen Sie " Fenster " " Arbeitsbereich " und wählen Sie dann einen der folgenden Befehle aus :
-Sie können auch bestimmte Elementtypen , wie z . B. einfarbige Farbobjekte , Bilder , glatte Schattierungen , Text und Strichgrafiken anzuzeigen .
+Sie können auch bestimmte Elementtypen , wie z. B. einfarbige Farbobjekte , Bilder , glatte Schattierungen , Text und Strichgrafiken anzuzeigen .
 Objekte auf der Leinwand platziert werden , die auf dem Bildschirm angezeigt , aber nicht gedruckt .
 Fireworks unterstützt den Import von Schnittmasken mit Pfade und zusammengesetzte Pfade .
 Weitere Informationen zu Richtliniendateien finden Sie unter Serverseitige Richtliniendateien , damit der Zugriff auf Daten in http : / / www.adobe.com / go / learn _ fl _ cs4 _ learningAS2 _ de ActionScript 2.0 in Adobe Flash - Arbeitshandbuch .
@@ -12122,7 +12122,7 @@ Sie können diese Textdatei verwenden , um eine Kopie der Tastaturbefehle ausdru
 Die neue Voreinstellung wird im Ordner " Benutzerdefinierte Voreinstellungen " im Bedienfeld " Bewegungsvoreinstellungen " aus .
 Diese Aktion bricht die Interaktion in einzelne Objekte , die Sie ändern können .
 Slices teilen Sie ein Bild in kleinere Bilder , die auf einer Webseite über eine HTML-Tabelle oder CSS Ebenen wieder zusammengefügt wurden .
-n . Stellt Objekte und Methoden für die Interaktion mit Elementen außerhalb des Servers , entweder auf dem Hostsystem oder an einer anderen Stelle im Netzwerk .
+n. Stellt Objekte und Methoden für die Interaktion mit Elementen außerhalb des Servers , entweder auf dem Hostsystem oder an einer anderen Stelle im Netzwerk .
 Jede Sicherheitsmethode bietet ein anderes Vorteilspaket .
 Positionieren Sie den Zeiger über die Farbleiste , und klicken Sie auf .
 Der folgende Code erstellt ein Kreuzstück mithilfe der Sprite-Klasse und ein Glühen-Filter angewendet :
@@ -12185,7 +12185,7 @@ Flash für eine Stileigenschaft in der Komponenteninstanz aussieht .
 Legen Sie die Anzahl der Bit pro Pixel und Farben , die beim Erstellen des Bilds verwendet werden soll .
 Führt alle Ansichten für das aktuelle 3D-Modell definiert .
 Textfelder müssen sich jedoch für den Zeilenumbruch und die Schriftgrößen skalieren , so dass sie ihre scaleX oder scaleY Werte auf 1 zurückgesetzt , nachdem Sie die Größe ändern .
-Umfasst alle Profile für RGB und CMYK mit Tags versehenen Objekte , wie z . B . Objekte mit eingebetteten Farbprofilen platziert werden .
+Umfasst alle Profile für RGB und CMYK mit Tags versehenen Objekte , wie z. B. Objekte mit eingebetteten Farbprofilen platziert werden .
 Wenn Sie teilnehmen möchten , Daten über die Nutzung der Adobe-Software in Adobe gesendet werden .
 In der Layoutansicht können Sie auch das Handwerkzeug , Schaltflächen und Befehle verwenden .
 Wählen Sie " Bearbeiten " " Voreinstellungen " ( Windows ) oder " Flash " > " Voreinstellungen " ( Macintosh ) und wählen Sie in der Liste " Kategorie " Warnmeldungen . "
@@ -12198,7 +12198,7 @@ Es gibt keine Setup- oder Grundgebühr und PayPal Gebühren nur , wenn ein Kunde
 Alle anderen Dateien werden in das PNG-Format umgewandelt .
 Das Speichern einer Farbgruppe fügt die Gruppe in dieser Liste aus .
 Verwalten von Bild- , Video- und Audiodateien : Vorschau , durchsuchen , sortieren und verarbeiten Dateien in Adobe Bridge , ohne die einzelnen Anwendungen zu öffnen .
-Die rote Teilstriche entlang der horizontalen Achse in 1 EV-Zertifikaten ( ca . 1 Blendeneinstellung ) inkrementiert werden .
+Die rote Teilstriche entlang der horizontalen Achse in 1 EV-Zertifikaten ( ca. 1 Blendeneinstellung ) inkrementiert werden .
 Geben Sie einen Namen für den neuen Ordner ein .
 Wählen Sie " Modifizieren " " Animation " > " Animation entfernen . "
 Stellen Sie sicher , dass diese Stile für alle entsprechenden Absätze im Dokument oder Buchdokumente angewendet werden .
@@ -12207,9 +12207,9 @@ Klicken Sie , um den zweiten Punkt der unsichtbaren Achse festzulegen .
 Klicken Sie , um die Befestigung Punkte hinzufügen und die Ablaufverfolgung fortzusetzen .
 Sie können jedoch auch Objekte in separate Ebenen verteilen .
 Die Endformat-Rahmen immer so gering wie oder kleiner als die einschließende Medien-Rahmen ist .
-Um den Inhalt eines Grafikrahmens zu ersetzen , z . B. eine importierte Grafik , verwenden Sie das Auswahl-Werkzeug , um den Rahmen auszuwählen .
+Um den Inhalt eines Grafikrahmens zu ersetzen , z. B. eine importierte Grafik , verwenden Sie das Auswahl-Werkzeug , um den Rahmen auszuwählen .
 Wenn Sie die Datei speichern , wird die Sichtbarkeit der Ebenen automatisch auf den ursprünglichen Sichtbarkeitszustand zurückgesetzt .
-© Copyright 1990 Munksgaard International Publishers Ltd . © Copyright 1990 Alle Rechte vorbehalten . Proximity Technology , eine Division von Franklin Electronic Publishers , Inc . Burlington , New Jersey USA .
+© Copyright 1990 Munksgaard International Publishers Ltd. © Copyright 1990 Alle Rechte vorbehalten . Proximity Technology , eine Division von Franklin Electronic Publishers , Inc . Burlington , New Jersey USA .
 Identifikatoren , die sich nur durch die Groß- / Kleinschreibung werden verschiedene Bezeichner betrachtet .
 Legt den Zeitrahmen der Animation an .
 Dieser Parameter wirkt sich nur auf die unmittelbar untergeordneten Elemente einer Folie , nicht verschachtelten untergeordneten Elemente .
@@ -12253,7 +12253,7 @@ Positionieren Sie den Zeiger an der Stelle , an der der Bogen beginnen soll , un
 Ein Wert von 0 entspricht der Grundebene , 90 wird direkt über der Ebene .
 Teile der SWF-Datei von Bildschirmleseprogrammen erfasst werden kann .
 Zeigt parallele Linien zu konvergierenden Fluchtpunkten ausgerichtet .
-Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf den ausgewählten Pfad .
+Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf den ausgewählten Pfad .
 Es ist wichtig , die richtige PPD-Datei einrichten , bevor Sie drucken .
 Höchste Videoqualität mit mehr als je zuvor .
 Sie können die DTD-Datei in InCopy anzeigen und Textabschnitte validiert werden , um sicherzustellen , dass die Tags korrekt angewendet wurden .
@@ -12314,7 +12314,7 @@ Wählen Sie eine Vordergrundfarbe , um die unerwünschte Farbe ersetzt .
 Um eine Abfrage zu laden , die Ihnen erteilt wurde , sodass es in der Abfrageliste angezeigt wird , kopieren Sie die Abfragedatei an die gewünschte Position :
 Optionen entsprechen denen in der Registerkarte " Einstellungen für Veröffentlichungen " PNG . "
 Wenn Sie diese Option auswählen , werden die OPI-Verknüpfungen im Verknüpfungenbedienfeld angezeigt werden .
-Um ein Absatzformat anzuwenden und Abweichungen und Zeichenformate zu entfernen , drücken Sie die Alt- + Umschalt- + Eingabetaste ( Windows ) bzw . Wahl- + Umschalt- + Wahltaste ( Mac OS ) .
+Um ein Absatzformat anzuwenden und Abweichungen und Zeichenformate zu entfernen , drücken Sie die Alt- + Umschalt- + Eingabetaste ( Windows ) bzw. Wahl- + Umschalt- + Wahltaste ( Mac OS ) .
 Wenn Sie diese Optionen festlegen , sollten Sie sorgfältig , wer die Inhaltsentwickler sind und welche page-editing benötigen .
 Sounddateien können sehr groß und viel Zeit in Anspruch nehmen zu laden .
 Darüber hinaus kann die Konvertierung in PNG , hängt von der Version von QuickTime installiert ist .
@@ -12359,7 +12359,7 @@ Setzen Sie mit dem Text-Werkzeug die Einfügemarke an die Stelle , an der Sie ei
 Weitere Informationen zur Verwendung von Acrobat Kommentar-Werkzeugen finden Sie hier :
 Klicken Sie im Anlagen-Fenster eine Anlage aus , und wählen Sie dann " Löschen " im Menü " Optionen " den Befehl " Anhängen . "
 Wenn das Objekt angewendeten Aussehen-Attribute aufweist , wird mit dem Befehl " Objekt " " Umwandeln " abgeblendet .
-Um alle anderen Ebenen oder Ordner sperren , klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Macintosh ) in der Spalte sperren " auf der rechten Seite einer Ebene oder eines Ordners .
+Um alle anderen Ebenen oder Ordner sperren , klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Macintosh ) in der Spalte sperren " auf der rechten Seite einer Ebene oder eines Ordners .
 Exportieren Sie die Bilder und Miniaturansichten mit den angegebenen Einstellungen .
 Schalten Sie den Monitor und nur das Bildschirmleseprogramm verwenden , um Ihre Website zu navigieren .
 Wählen Sie einen der folgenden Schritte aus , und klicken Sie dann auf " OK " :
@@ -12441,7 +12441,7 @@ Um einzelne Hilfslinien zu löschen , wählen Sie eine oder mehrere Linealhilfsl
 Grafikdateien , die Sie in importieren , muss mindestens 2 Pixel x 2 Pixel groß sein .
 ( Wenn Sie den Clip Speicherort angeben , Content-Art wird automatisch festgelegt .
 Wenn Sie eine Sprache aus dem Bedienfeld " Strings " entfernen , wird die XML-Sprachdatei nicht aus dem lokalen Dateisystem gelöscht .
-Sie können auch bei gedrückter Strg-Taste ( Windows ) bzw . Wahltaste ( Macintosh ) auf das Diagramm in dem Bild , in dem Sie das Eigenschaftenschlüsselbild hinzufügen möchten .
+Sie können auch bei gedrückter Strg-Taste ( Windows ) bzw. Wahltaste ( Macintosh ) auf das Diagramm in dem Bild , in dem Sie das Eigenschaftenschlüsselbild hinzufügen möchten .
 Häufig enthalten Bitmap-Grafiken digitale Fotos und ähnliche Bilder .
 Die Leinwandfarbe wird in der Vorschau transparent gemacht , und die Grafik wird für den Export bereit .
 Referenzen sind nur innerhalb der gleichen Anwendung gültig in AIR oder Flash Player ausgeführt wird .
@@ -12453,7 +12453,7 @@ Wenn Sie die Feinabstimmung tweenen möchten , verschieben Sie die Formmarken hi
 Wenn ein PDF-Dokument zurückgewiesen wird , müssen Sie den Genehmigungs-Workflow erneut aufgerufen werden .
 Wenn die Auswahl im ersten Menü ein Datum kann , können Sie auf den Pfeil , um einen Kalender zu öffnen , den Sie suchen möchten , und wählen Sie das gewünschte Datum navigieren .
 Erweitern Sie das Profil in der Spalte auf der linken Seite aus .
-Die Anzahl der Frames zwischen der Begrüßungs- bzw . Ergebnisseite Keyframes zum Berechnen der Punktzahl verwendet werden .
+Die Anzahl der Frames zwischen der Begrüßungs- bzw. Ergebnisseite Keyframes zum Berechnen der Punktzahl verwendet werden .
 Sie können sie nicht über eine angrenzende Spaltenführungslinie oder über den Rand der Seite ziehen .
 Wählen Sie In-RIP-Separationen , wenn die PPD-Datei In-RIP-Separationen unterstützt .
 Wenn Sie eine gefüllte Form , die durch Aufruf von beginFill ( ) , beginGradientFill ( ) , beginBitmapFill ( ) oder Methode beginShaderFill ( ) -Methoden , bevor Sie die Zeichnung erstellen möchten .
@@ -12510,7 +12510,7 @@ Wählen Sie diese Option , wenn Sie das Erscheinungsbild beibehalten werden müs
 Mehrere Schnelle Projekte zulässig sind .
 Ziehen Sie das Werkzeug entlang der Länge des Pfadsegments an , die Sie löschen möchten .
 Weitere Informationen finden Sie unter Einfügen von Frames in der Zeitleiste .
-Sie können die exportierten Bilder als Bitmaps in Bildeditoren wie z . B . Adobe ® Photoshop ® bearbeiten , aber Sie können sie in vektorbasierte Zeichnen von Programmen nicht mehr bearbeitet werden .
+Sie können die exportierten Bilder als Bitmaps in Bildeditoren wie z. B. Adobe ® Photoshop ® bearbeiten , aber Sie können sie in vektorbasierte Zeichnen von Programmen nicht mehr bearbeitet werden .
 Um weitere Instanzen eines Schaltflächensymbols platzieren , führen Sie einen der folgenden Schritte aus :
 Sie haben immer noch eine Verbindung mit der Website als nicht-verwaltetes Website .
 Klicken Sie auf " Entwurf anzeigen " , um einen Entwurf anzuzeigen .
@@ -12544,7 +12544,7 @@ Ein Farbfeld wird angezeigt , wenn ein Element ausgewählt ist .
 Wählen Sie beide Optionen Zentriert , um das Bild in der Mitte der Seite gedruckt .
 Wählen Sie im Bedienfeldmenü die Option " Farbe " auf " An Farbfelder hinzufügen .
 Manchmal Duplexbilder über eine schwarze Druckfarbe und eine graue Druckfarbe - die Farbe Schwarz für Schatten und den grauen für Mitteltöne und Lichter gedruckt werden .
-Wenn Sie die Smart-Objekt-Ebene anzeigen möchten , klicken Sie bei gedrückter Alt- bzw . Wahltaste die Filtermaskenminiatur erneut .
+Wenn Sie die Smart-Objekt-Ebene anzeigen möchten , klicken Sie bei gedrückter Alt- bzw. Wahltaste die Filtermaskenminiatur erneut .
 Das Lasso-Werkzeug ( Q ) wählen Sie Punkte oder Pfadsegmente innerhalb von Objekten aus .
 Geben Sie für den Parameter " Y " 290 ein .
 Wählen Sie Bereiche des Bildes , bevor Sie den Kanal für die Maske erstellen .
@@ -12571,7 +12571,7 @@ Positionen verhalten sich wie alle anderen Ordner und alle die gleichen Funktion
 Dies ist nützlich , wenn Sie einen neuen Pfad auf einen vorhandenen Pfad zu starten .
 Mit dem Zeiger bzw. dem Teilauswahlwerkzeug auf die Segmenthilfslinie über den Rand der Leinwand ziehen .
 Eine vollständige Beispiel für die Verwendung von einem Shader-Filter finden Sie unter Verwenden eines Shaders als Filter .
-Wählen Sie zum Ändern des Inkrementwerts für Tastaturbefehle eingeben möchten , wählen Sie " Bearbeiten " " Voreinstellungen " > " Schrift " ( Windows ) bzw . " Illustrator " > " Voreinstellungen " > " Schrift " ( Mac OS ) .
+Wählen Sie zum Ändern des Inkrementwerts für Tastaturbefehle eingeben möchten , wählen Sie " Bearbeiten " " Voreinstellungen " > " Schrift " ( Windows ) bzw. " Illustrator " > " Voreinstellungen " > " Schrift " ( Mac OS ) .
 Sie können Unicode Escapezeichen nur im Textfeld Variablen verwenden .
 Der Assistent ermöglicht , dass Contribute-Benutzer durch gemeinsame Website-Verbindungen zusammenarbeiten .
 Balken- , gestapelte Balken- , Säulen- , Spalten- , Linien- und Flächendiagrammen auch eine Kategorieachse definiert , welche die Kategorien von Daten in das Diagramm angeordnet .
@@ -12646,7 +12646,7 @@ Hier ist ein Beispiel für eine HTTP POST-Anforderung :
 Unter Windows werden , wählen Sie " Bearbeiten " " Voreinstellungen " > " Schnittstelle . "
 Wenn beispielsweise " Contains " ausgewählt ist , wird die Eingabe von " in " Lichter " Indiana " und " Hessen " ; wenn " Beginnt mit " ausgewählt ist , werden nur die " Indiana " markiert ist .
 Jede Art der Überprüfung verfügt über einen Assistenten , der Sie eine PDF-Datei mit besonderen Werkzeuge und Anweisungen für die Überprüfer verteilen .
-Wenn Sie beispielsweise eine " Abbildung A " Effekt erstellen , geben Sie das Wort " Abbildung " und ein Leerzeichen vor der Nummerierung Metazeichen ( z . B . Abbildung ^ # .
+Wenn Sie beispielsweise eine " Abbildung A " Effekt erstellen , geben Sie das Wort " Abbildung " und ein Leerzeichen vor der Nummerierung Metazeichen ( z. B. Abbildung ^ # .
 Geben Sie in das Feld rechts neben der Eigenschaftenbeschriftung , den Wert ein , um die Eigenschaft zu ändern .
 Beim Benennen eines PDF-Dokuments , die für die elektronische Verteilung vorgesehen ist , wird der Dateiname zu acht Zeichen ( ohne Leerzeichen ) , und fügen Sie die Erweiterung .pdf einzuschränken .
 In Illustrator können einige Vektordaten beim Exportieren von Bildmaterial für das EMF-Format rastern .
@@ -12655,7 +12655,7 @@ Die Größe der Zeichen in Bezug auf die Größe von Kanji-Zeichen .
 Sie unterscheiden sich von Blockelemente .
 So legen Sie den Bibliothekspfad auf Anwendungsebene :
 Klicken Sie auf den Farbwähler , um sie zu öffnen und zu sehen , wie diese Einstellungen geändert haben .
-Sie können Optionen für jedes Slice , wie z . B . Slice-Typ , den Namen und die URL - im Dialogfeld " Slice-Optionen " aus .
+Sie können Optionen für jedes Slice , wie z. B. Slice-Typ , den Namen und die URL - im Dialogfeld " Slice-Optionen " aus .
 Kehren Sie auf , um die Bearbeitung fortzusetzen .
 Acrobat Pro können 3D-PDF-Dateien erstellen , sondern nur aus U3D ECMA 1 Dateien .
 Diese Befehle bieten zwei zusätzliche Füllmethoden im Bedienfeld " Ebenen " Hinzufügen " - und " Subtrahieren " nicht verfügbar .
@@ -12687,7 +12687,7 @@ Die Bühne ist der rechteckige Bereich , in dem Sie grafische Inhalte beim Erste
 Weitere Informationen finden Sie unter Ausfüllen des Abschnitts " Neuen Eintrag erstellen " im Dialogfeld " Hyperlink einfügen " .
 Wählen Sie " Ansicht " " Raster und Hilfslinien " > " Einblenden / ausblenden " zurückzuwandeln .
 Weitere Informationen zu den Einstellungen im Dialogfeld " Stapelverarbeitung " Stapelverarbeitung " und " Droplet Verarbeitungsoptionen anzuzeigen .
-Um den Inhalt eines Grafikrahmens zu ersetzen , z . B. eine importierte Grafik , verwenden Sie das Positionierungswerkzeug , um das Bild auszuwählen .
+Um den Inhalt eines Grafikrahmens zu ersetzen , z. B. eine importierte Grafik , verwenden Sie das Positionierungswerkzeug , um das Bild auszuwählen .
 Sie können eine Ebenenmaske bearbeiten , um aus dem maskierten Bereich hinzuzufügen oder zu entfernen .
 Führen Sie nicht zu viel Oberflächen ( Anzeigeobjekte mit aktivierter Zwischenspeicherung ) .
 Um alle Objekte im Dokument zu entsperren , wählen Sie " Objekt " " Alle entsperren . "
@@ -12704,14 +12704,14 @@ In der Druckfahnen- oder Textabschnittsansicht , positionieren Sie die Einfügem
 Löst das Verhalten , wenn Sie den Zeiger über den Auslösebereich rollt .
 Im Dialogfeld " Fluchtpunkt " können Sie das Messwerkzeug eine Messlinie über ein Objekt in einer perspektivischen Ebene zeichnen , dass Sie die Dateigröße kennen .
 Farbe widergespiegelt oder durch ein Objekt übertragen werden .
-Ermöglicht Ihnen das Suchen und Ersetzen von Elementen , wie z . B . Text , URLs , Schriften und Farben in einem Dokument oder mehrere Dokumente aus .
+Ermöglicht Ihnen das Suchen und Ersetzen von Elementen , wie z. B. Text , URLs , Schriften und Farben in einem Dokument oder mehrere Dokumente aus .
 Die Hexadezimalziffern sind nur kleingeschrieben .
 Erstellen Sie mehrseitige Dateien mit bis zu 100 Zeichenflächen mit unterschiedlichen Größen verwenden .
 Klicken Sie auf die Schaltfläche " Lesezeichen , " und wählen Sie das Lesezeichen , unter dem das neue Lesezeichen platziert werden soll .
-Die Bilder können in einem Bereich von schwarzweiß ( 1 Byte pro Pixel ) bis zu 24 Bit ( 16,7 Mio . Farben ) .
-Wenn das Direktauswahl-Werkzeug ausgewählt ist , können Sie den gesamten Pfad oder eine Pfadkomponente auswählen , indem Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) innerhalb des Pfads .
-Importierte Videodateien können manchmal die Wiedergabe unterbrechen , um bestimmte Funktionen ausführen ( z . B. ein CD-ROM-Laufwerk ) zuzugreifen .
-Für " Dateityp " ( Windows ) bzw . " Format " ( Mac OS ) , wählen Sie " SWF , " und klicken Sie auf " Speichern . "
+Die Bilder können in einem Bereich von schwarzweiß ( 1 Byte pro Pixel ) bis zu 24 Bit ( 16,7 Mio. Farben ) .
+Wenn das Direktauswahl-Werkzeug ausgewählt ist , können Sie den gesamten Pfad oder eine Pfadkomponente auswählen , indem Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) innerhalb des Pfads .
+Importierte Videodateien können manchmal die Wiedergabe unterbrechen , um bestimmte Funktionen ausführen ( z. B. ein CD-ROM-Laufwerk ) zuzugreifen .
+Für " Dateityp " ( Windows ) bzw. " Format " ( Mac OS ) , wählen Sie " SWF , " und klicken Sie auf " Speichern . "
 Sie können sie nicht für Blogeinträge festlegen .
 Wählen Sie einen Prozentsatz der Deckkraft für die Füllfarbe ein und drücken Sie die Eingabetaste .
 Bei mobilen Geräten , verwenden Sie die gerätespezifischen Kodierung Voreinstellungen , und der Geräteemulator über Adobe Media Encoder in Adobe Premiere Pro zur Verfügung .
@@ -12739,7 +12739,7 @@ Um die Farbe der ausgewählten Bereiche zu ändern , führen Sie einen der folge
 Das Dialogfeld " Ränder und Spalten " keine Spalten in Textrahmen ändern .
 Wählen Sie die Popup-Steuerelemente " Öffnen " aus dem Menü " Notiz . "
 Dies wird im folgenden Codebeispiel demonstriert :
-Adobe Bridge behält native Adobe Dateien ( z . B . PSD und PDF ) sowie Adobe-fremder Dateien für den einfachen Zugriff zur Verfügung .
+Adobe Bridge behält native Adobe Dateien ( z. B. PSD und PDF ) sowie Adobe-fremder Dateien für den einfachen Zugriff zur Verfügung .
 In diesem Dialogfeld können Sie angeben , ob Sie den Benutzernamen und das Kennwort für das Blog ein , mit dem Sie eine Verbindung herstellen möchten .
 Proportion beim Skalieren beibehalten werden .
 Verwenden Sie diese Option , wenn Sie ein Bild verfeinern möchten .
@@ -12786,7 +12786,7 @@ Legt fest , wie oft Acrobat speichert automatisch Änderungen an einem geöffnet
 Benutzer von Photoshop Extended können Sie auch Objekte in einem Bild messen und 3D-Informationen und Messungen in DXF und 3DS Formate für die Verwendung in 3D-Anwendungen exportieren .
 Der Filter " Weichzeichnungsfilter " Weichzeichnen der Kanten und Details von Objekten .
 Wenn die externe Datei eine XML-Datei ist , können Sie mit einem XML-Tag kodieren , um die Dateiverschlüsselung zu ändern .
-Klicken Sie im Eigenschafteninspektor , geben Sie im Feld " Instanzname " den Namen der Movieclip-Instanz , z . B . , DragA .
+Klicken Sie im Eigenschafteninspektor , geben Sie im Feld " Instanzname " den Namen der Movieclip-Instanz , z. B. , DragA .
 Ein Datenträgersymbol neben importierten Stilen angezeigt .
 Erstellt eine rechteckige Auswahl ( oder ein Quadrat , wenn Sie mit der Umschalttaste ) verwendet .
 Sie können eine Prüfung in ein beliebiges Profil im Bedarfsfall wiederzuverwenden .
@@ -12841,7 +12841,7 @@ Verknüpfungen möglicherweise nicht unterstrichen und möglicherweise ein ander
 ( Optional ) Wählen Sie " Voreinstellungen " " Sicherheit " und wählen Sie eine Verschlüsselungsebene aus .
 Außerdem geben Sie an , welche Art von Änderungen zulässig sind , die für das Dokument zertifiziert bleiben .
 3D-Querschnitt .
-Duplex- sind ideal für zweifarbige Druckaufträge mit einer Volltonfarbe ( z . B. eine PANTONE Color ) für die Akzentlichtquelle verwendet .
+Duplex- sind ideal für zweifarbige Druckaufträge mit einer Volltonfarbe ( z. B. eine PANTONE Color ) für die Akzentlichtquelle verwendet .
 Um die Einstellungen zu vorhandenem Text anzuwenden , wählen Sie Textfelder auf der Bühne .
 Gültige Werte sind " Text " und " Spalte " aus .
 Wählen Sie ein beliebiges Bearbeitungs- oder Malwerkzeuge .
@@ -12871,7 +12871,7 @@ Sie können das Glyphenbedienfeld verwenden , um eine beliebige Glyphe in einer 
 Details der standardmäßigen Montagefläche für eine neue Flash-Folienpräsentation .
 Wenn Sie mit dem Ergebnis zufrieden sind , klicken Sie auf " OK . "
 Der Drucker muss den Duplexdruck unterstützen ( Drucken auf beiden Seiten des Blatts ) .
-Um das Steuerungsbedienfeld wieder anzudocken , ziehen Sie den Verschiebepunkt Balken an den oberen oder unteren Rand des Anwendungsfensters ( Windows ) bzw . Bildschirms ( Mac OS ) .
+Um das Steuerungsbedienfeld wieder anzudocken , ziehen Sie den Verschiebepunkt Balken an den oberen oder unteren Rand des Anwendungsfensters ( Windows ) bzw. Bildschirms ( Mac OS ) .
 Doppelklicken Sie auf die aktuelle Zeitanzeige , und geben Sie eine Bildnummer oder die Uhrzeit im Dialogfeld Aktuelle Zeit einstellen .
 Wenn Sie Objekte über spezielle Flächen , Konturen oder Effekte , die von Flash nicht unterstützt werden , können Sie diese Eigenschaften unterschiedlich aussehen , nachdem sie importiert werden .
 Geben Sie unter " Toleranz " einen Wert ein , oder verwenden Sie den Standardwert im Dialogfeld " Arbeitspfad erstellen " aus .
@@ -12962,7 +12962,7 @@ Klicken Sie mit dem Auswahl-Werkzeug ein oder mehrere Textfelder auswählen .
 Um die Sichtbarkeit der einzelnen Bildschirm automatisch verwalten , verwenden Sie von Folienbildschirmen .
 Sie müssen über die erforderlichen Berechtigungen verfügen , um Dateien zu Ihrer Website hinzuzufügen .
 Wählen Sie die vorgenommenen Filtervoreinstellungen anwenden , um in der Liste der verfügbaren Vorgaben am unteren Rand der Voreinstellung .
-Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf ein Dreieck , um alle Vorgaben einzublenden .
+Klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf ein Dreieck , um alle Vorgaben einzublenden .
 Angesichts des Endpunkts des Skeletts , berechnet IK den Winkel für die Gelenke , die erforderlich sind , um die Endpunkt erreichen .
 Wenn Sie ein Element in eine Objektbibliothek hinzufügen , speichert InDesign alle Attribute , Text und Bild und behält Beziehungen zwischen Inhaltsbibliotheksobjekten und anderen Seitenelementen in der folgenden Möglichkeiten :
 Hiermit können Sie benutzerdefinierte Auftragsdefinitionen erstellen , die bearbeitet werden können , und in einer Produktionsumgebung verwendet werden .
@@ -12982,7 +12982,7 @@ Um die Objekte einer SWF-Datei aufzulisten , verwenden Sie den Befehl " Objekte 
 Eine statische Eigenschaft kann nur über das Klassenobjekt zugegriffen werden , auf dem sie definiert wurde .
 Bewegungsunschärfe versucht , die Auswirkungen der Weichzeichnung aufgrund der Kamera oder der fotografierten Bewegung zu reduzieren .
 Um die Form in einen Objektzeichnungsmodus umzuwandeln , wählen Sie " Modifizieren " " Objekte zusammenfassen " > " Vereinigung . "
-Wählen Sie " Bearbeiten " " Voreinstellungen " ( Windows ) bzw . " Bridge CS4 " > " Voreinstellungen " ( Mac OS ) und klicken Sie auf Inspector .
+Wählen Sie " Bearbeiten " " Voreinstellungen " ( Windows ) bzw. " Bridge CS4 " > " Voreinstellungen " ( Mac OS ) und klicken Sie auf Inspector .
 Wählen Sie im Popupmenü " Objekte " eine der folgenden Aktionen aus :
 Ziehen Sie die Rückgängig-Markierung nach oben oder nach unten .
 Eine temporäre Instanz des Symbols in der Mitte der Zeichenfläche angezeigt .
@@ -13013,10 +13013,10 @@ PDF-Dateien aus Microsoft Publisher unterstützen Schnittmarken , Verknüpfungen
 Die Einfügemarke wird so hoch wie die Tabelle in den Rahmen .
 Selbst erstellte digitale IDs kann bei vielen Situationen ausreichend sein .
 Wenn Sie aufgefordert , das Zertifikat validieren , bevor Sie es installieren , beachten Sie den MD5-Digest und SHA1-Digest ( Fingerabdruck ) .
-Wenn Sie z . B. einen Namespace example1 definieren , können Sie eine Methode namens myFunction ( ) mit example1 als Attribut hinzufügen , wie im folgenden Beispiel gezeigt :
+Wenn Sie z. B. einen Namespace example1 definieren , können Sie eine Methode namens myFunction ( ) mit example1 als Attribut hinzufügen , wie im folgenden Beispiel gezeigt :
 Beim Öffnen einer FDF-Datei Ihre Einstellungen überprüfen und die PDF-Datei in einem Webbrowser geöffnet wird .
 Wählen Sie im Dialogfeld " Voreinstellungen " die Option " Multimedia-Berechtigungen ( ältere Versionen ) aus den Kategorien .
-n . Filming eine Reihe von Zeichnungen oder Positionen von Modellen , um die Illusion von Bewegung zu erstellen .
+n. Filming eine Reihe von Zeichnungen oder Positionen von Modellen , um die Illusion von Bewegung zu erstellen .
 Weitere Informationen finden Sie unter " XMLConnector Komponente " im Komponenten-Referenzhandbuch für ActionScript 2.0 .
 ( Optional ) Geben Sie eine E-Mail-Adresse wie die Kontaktinformationen für die Galerie .
 Mehrseitige PDF-Dateien können Konstrukteure Illustrationen für eine Publikation in einer einzigen Datei kombinieren .
@@ -13048,7 +13048,7 @@ Wenn Sie die Verknüpfung zwischen einer Ebene und der zugehörigen Maske wieder
 Distiller können bis zu 100 überwachten Ordner überwachen .
 Wenn Sie die PNG-Datei in eine einzige Bitmap-Grafik reduzieren , wählen Sie unter " Einzelne abgeflachte Bitmap importieren .
 Dehnt das verschachtelte Format nach oben oder durch Leerzeichen .
-Der Filter Linsenkorrektur behebt gängige Objektiv Fehler , wie z . B. tonnen- oder kissenförmige Verzeichnung , Vignettierung und chromatische Aberration .
+Der Filter Linsenkorrektur behebt gängige Objektiv Fehler , wie z. B. tonnen- oder kissenförmige Verzeichnung , Vignettierung und chromatische Aberration .
 Die Länge der Marke ( in Pixel ) , hängt von der Messskala , die derzeit für das Dokument ausgewählt ist .
 Die Option können Sie die Markierung auf der Kante und wendet einen Glanzlichteffekt , der nur breit genug ist , um die Kante beizubehalten , unabhängig von der aktuellen Pinselgröße .
 Ellipsenrahmen- Werkzeug können Sie einen Kreis oder eine Ellipse erstellen .
@@ -13070,7 +13070,7 @@ Sie können die Option " Faux Fett " oder " Faux Kursiv Stile aus dem Menü " Te
 Weitere Informationen zur Verwendung von XML in InDesign finden Sie unter http : / / www.adobe.com / go / learn _ id _ XMLscript _ de www.adobe.com / go / learn _ id _ XMLscript .
 Legt das Farbmodell der exportierten Datei fest .
 Weitere Informationen finden Sie unter " Konfigurieren von FLV-Dateien für das Hosting auf einem Server .
-Ein ungültiger URI für eine Funktion von Flash Player-API angegeben wird , die eine gültige URI voraussetzt , z . B . Socket.connect ( ) .
+Ein ungültiger URI für eine Funktion von Flash Player-API angegeben wird , die eine gültige URI voraussetzt , z. B. Socket.connect ( ) .
 Geben Sie ein Wort in das Feld " Ändern in " oder wählen Sie ein Wort aus der Liste " Vorschläge " scrollen .
 Die Vorderseite oder der oberste Pfad definiert die Form des Bereichs zugeschnitten .
 Um die derzeit ausgewählte Fundstelle des angegebenen Farbe zu ersetzen , klicken Sie auf " Ersetzen . "
@@ -13160,7 +13160,7 @@ Automatische Seitenzahlen auf einer Musterseite eingefügt , die richtige Seiten
 Gibt entweder NTSC oder PAL-Video Broadcast-Standard .
 Wenn Sie die Maustaste loslassen , werden alle 2D-Ebenen wieder eingeblendet werden .
 Die Microsoft Windows Grafikdateiformat .
-Abschließend können Sie eine Internetadresse ( URL ) für eine Webseite angezeigt werden soll , wenn ein Kunde einen Kauf abgeschlossen ist , wie z . B. eine Seite " Vielen Dank für Ihre Bestellung .
+Abschließend können Sie eine Internetadresse ( URL ) für eine Webseite angezeigt werden soll , wenn ein Kunde einen Kauf abgeschlossen ist , wie z. B. eine Seite " Vielen Dank für Ihre Bestellung .
 Wählen Sie mehrere Ebenen aus .
 Die Verwendung einer Vector-Instanz anstelle einer Array-Instanz können auch Leistungsverbesserungen und andere Vorteile bereitzustellen .
 Verwenden Sie das Fenster " Farbmanagement " des Dialogfelds " Erweiterte Druckereinstellungen " , um die Optionen für das Drucken festlegen .
@@ -13169,7 +13169,7 @@ Behält Bearbeitbarkeit von Mischmodi , dass beide und Photoshop gemein haben .
 Sie können Dezimalwerte eingeben .
 Wählen Sie eine Kategorie aus dem Menü aus , oder geben Sie einen neuen Kategorienamen ein , benennen Sie das benutzerdefinierte Stempel , und klicken Sie dann auf " OK . "
 Die Ebenen für jedes Dokument unter einer separaten Überschrift im Ebenenbedienfeld des Navigationsfensters gruppiert sind .
-Um ausgewählte Objekte auf andere Zustände kopieren möchten , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) .
+Um ausgewählte Objekte auf andere Zustände kopieren möchten , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) .
 Erstellen von Richtlinien für Kennwort- und Zertifikatsicherheit können Sie die gleichen Sicherheitseinstellungen für eine beliebige Anzahl von PDF-Dateien wiederverwenden .
 Die Ansicht " Linienstärken " zeigt Linien , die mit der Gewichtungen in der PDF-Datei definiert werden .
 Installieren Sie die neuesten Druckertreiber für Ihr Ausgabegerät .
@@ -13183,7 +13183,7 @@ Verwenden Sie die Werkzeuge im Werkzeugbedienfeld , um Objekte in Illustrator er
 Optimieren Sie Cache durch das Entfernen veralteter Datensätze , um die Gesamtanzahl der Datensätze zu reduzieren .
 Diese überlagerten Wiedergabefensters ist nützlich , da sie immer verfügbar ist , wenn Sie in verschiedenen Anwendungen arbeiten .
 Dies ist Ihre Login-Informationen CPS .
-Wählen Sie nummerierte Listen , beginnt jeder Absatz mit einem Ausdruck , der eine Zahl oder einen Buchstaben und ein Trennzeichen wie z . B. ein Punkt oder eine Klammer enthält .
+Wählen Sie nummerierte Listen , beginnt jeder Absatz mit einem Ausdruck , der eine Zahl oder einen Buchstaben und ein Trennzeichen wie z. B. ein Punkt oder eine Klammer enthält .
 Diese Optionen sind nur verfügbar , wenn Sie sie über die Registerkarte " Erstellung " Erweiterte Einstellungen " des Dialogfelds " Voreinstellungen " ( " Sicherheit " " Voreinstellungen " > " Erweitert " ) .
 Dokumente , die geöffnet werden , wenn Sie eine Synchronisierung geändert , aber nicht gespeichert werden .
 Klicken Sie auf eine Einfügemarke im Text .
@@ -13261,7 +13261,7 @@ Wenn Sie unter " Verzerren " gewählt haben , ziehen Sie einen Seitengriff , um 
 ( ) -Konstruktor ohne Argumente , wird eine leere Vector-Instanz erstellt .
 Das Bild kann nicht Teil eines Gewindes .
 Wählen Sie " Objekt " " Effekte " > " [ Effekt ] .
-Geben Sie die Anzahl der neuen Zeilen bzw . Spalten , in dem Sie die Zelle teilen möchten .
+Geben Sie die Anzahl der neuen Zeilen bzw. Spalten , in dem Sie die Zelle teilen möchten .
 Wenn Sie diese Option deaktivieren , wirkt sich nicht auf die fehlenden Verknüpfungen beheben .
 Wenn Ihre Website " Administrator " die Option " Einfügen von HTML-Codefragmenten zulassen " für Ihre Benutzerrolle nicht aktiviert ist , wird die Option für HTML-Codefragmente im Menü " Einfügen " deaktiviert .
 Wählen Sie die Komponente vom Typ " Hot Object " auf der Bühne aus , und ziehen Sie dann das Symbol aus dem Bedienfeld " Bibliothek " auf die Bühne .
@@ -13273,8 +13273,8 @@ Metasequences sind Sequenzen von Zeichen , die in regulären Ausdrücken eine be
 Haben Sie zum Ändern des Verhaltens von Code ?
 Klicken Sie rechts neben " Stil anwenden , und geben Sie dann ein Zeichenformat aus .
 Ein Video zum Synchronisieren von Buchdokumente finden Sie unter http : / / www.adobe.com / go / vid0216 _ de www.adobe.com / go / vid0216 .
-Um den Fokus auf die zuvor ausgewählte Schalttafel verschieben , drücken Sie Strg + Umschalt + F6 ( Windows ) bzw . Befehl + Umschalt + F6 ( Macintosh ) .
-Ein Benutzer kann den Vollbildmodus verlassen , indem Sie eine der Tastaturbefehle , wie z . B. die Esc-Taste .
+Um den Fokus auf die zuvor ausgewählte Schalttafel verschieben , drücken Sie Strg + Umschalt + F6 ( Windows ) bzw. Befehl + Umschalt + F6 ( Macintosh ) .
+Ein Benutzer kann den Vollbildmodus verlassen , indem Sie eine der Tastaturbefehle , wie z. B. die Esc-Taste .
 Gehrung ( Standardeinstellung ) Formen am Ende der Überfüllung , damit sie aus dem überschneidenden Objekt weg .
 Klicken Sie auf die Schaltfläche " Seiten " auf der linken Seite .
 Der Arbeitsbereich von Adobe ® InDesign ® CS4 ist , damit Sie den Fokus zum Entwerfen und Erstellen von Webseiten effizient angeordnet .
@@ -13283,7 +13283,7 @@ Ziehen Sie , bis die Spirale die gewünschte Größe hat .
 Überprüfen Sie im Zusammenfassungsbildschirm des Assistenten , und drücken Sie die Eingabetaste , wenn Sie bereit sind , um die Installation zu beginnen .
 Klicken Sie auf " Weitersuchen , " und wiederholen Sie dann , bis Sie den Entwurf suchen .
 Um die 3D-Drehung den Mittelpunkt verschieben , führen Sie einen der folgenden Schritte aus :
-Spezialisierte Werkzeuge , z . B. zum Vergrößern oder Hinzufügen von Kommentaren in Symbolleisten und in den Menüs " Extras " verfügbar sind .
+Spezialisierte Werkzeuge , z. B. zum Vergrößern oder Hinzufügen von Kommentaren in Symbolleisten und in den Menüs " Extras " verfügbar sind .
 Klicken Sie auf die Schaltfläche mit dem Pluszeichen ( + ) über dem linken Bereich , und geben Sie dann den Dateityp aus .
 Kopieren Sie die Farbe , indem Sie einen der folgenden Schritte ausführen :
 Sie können auch benutzerdefinierte Optimierungseinstellungen für die spätere Verwendung in der Optimierung oder Stapelverarbeitung zu speichern .
@@ -13378,7 +13378,7 @@ Sie können keine zugewiesenen Rahmen und der markierten Rahmen gleichzeitig anz
 Kind-Tag innerhalb desselben übergeordneten Tag .
 Diese Eigenschaft kann für jede Folie festgelegt werden , und es wirkt sich auf die Verarbeitung von Tastatur , wenn die Folie den Fokus hat .
 Aktivieren Sie " Inhalts-Offset anzeigen " und wählen Sie das Objekt mit dem Direktauswahl-Werkzeug verschachtelt ist .
-Sie können eine Vielzahl von Symboleigenschaften ändern , wie z . B . Deckkraft und Drehung der Animation .
+Sie können eine Vielzahl von Symboleigenschaften ändern , wie z. B. Deckkraft und Drehung der Animation .
 Wenn Sie einen Speicherort oder der Klassenordner ( oder Unterordner ) , der Klassenordner nicht sichtbar ist .
 In ActionScript 3.0 wird der Standardwert für Instanzen der Object-Klasse ist null .
 Ein Punkt entspricht einem Zeilenvorschubzeichen ( \ \ n ) nur dann , wenn das s-Flag ( dotall ) gesetzt ist .
@@ -13386,16 +13386,16 @@ Es wird nicht sichtbar sein , die in einer verknüpften ( .icml ) in InCopy öff
 Die Codebeispiele in zwei Kategorien fallen .
 Eine Erweiterung wird beim Export basierend auf dem Dateityp hinzugefügt .
 Nur InDesign und InCopy können Tags in InDesign gelesen werden .
-Wählen Sie " Bearbeiten " " Voreinstellungen " > " Allgemein " ( Windows ) bzw . " InCopy " > " Voreinstellungen " > " Allgemein " ( Mac OS ) .
+Wählen Sie " Bearbeiten " " Voreinstellungen " > " Allgemein " ( Windows ) bzw. " InCopy " > " Voreinstellungen " > " Allgemein " ( Mac OS ) .
 Wenn Sie die Option Strichlinie nicht angezeigt wird , wählen Sie " Optionen " im Menü " Einblenden " aus dem Konturbedienfeld .
 Im Gegensatz zu anderen InDesign Bedienfelder , die im Bedienfeld " Info " ist nur für die Anzeige konzipiert ; Sie können die Werte eingeben oder bearbeiten .
 Gibt das Muster eines Ebeneneffekts fest .
 Wählen Sie " Hinzufügen , " " Anfang " und " Bis " Hinzufügen " bei Bedarf " Ende " und legen Sie den Pfeilspitzenstil ein .
-Wenn Sie z . B. ein japanisches IME verwenden , müssen Sie ihn aktivieren , bevor Sie einen beliebigen IME Methode oder Eigenschaft aufrufen können .
+Wenn Sie z. B. ein japanisches IME verwenden , müssen Sie ihn aktivieren , bevor Sie einen beliebigen IME Methode oder Eigenschaft aufrufen können .
 Verwenden Sie ActionScript zum Steuern des Verhaltens .
 ( Nur InDesign ) Wenn Sie die Lab-Werte einer Volltonfarbe anstelle von CMYK Definitionen verwenden , wählen Sie " Lab " Werte für die Felder ein .
 Wählen Sie in Acrobat " Formulare " " Tracker . "
-Die JPEG-Komprimierung ist verlustreich , d. h . , beim Komprimieren werden Bilddaten entfernt , wodurch die Bildqualität leiden kann . Es wird jedoch versucht , die Dateigröße so zu reduzieren , wobei so wenig Informationen wie möglich verloren gehen .
+Die JPEG-Komprimierung ist verlustreich , d. h. , beim Komprimieren werden Bilddaten entfernt , wodurch die Bildqualität leiden kann . Es wird jedoch versucht , die Dateigröße so zu reduzieren , wobei so wenig Informationen wie möglich verloren gehen .
 Sie können auch die Farbe und die Kontur für ein ausgewähltes Objekt mithilfe der folgenden Steuerelemente im Steuerungsbedienfeld angeben :
 Wendet CCITT Group 4 Komprimierung für schwarzweiße Seitenbilder .
 Heben Sie die Auswahl des Pfads .
@@ -13444,7 +13444,7 @@ Dies ist die einzige Form des sort ( ) -Methode auf , die für die Vector-Klasse
 Die Maskierung wird durch den Inhalt des Bodens oder Basis-Layers bestimmt .
 Weitere Informationen finden Sie unter Hinzufügen von XMP-Metadaten zu einem Dokument .
 Sie sollten die folgenden im Bedienfeld " Ausgabe " angezeigt :
-Wählen Sie " Bearbeiten " " Voreinstellungen " > " Erweiterte Eingabe " ( Windows ) bzw . " InCopy " > " Voreinstellungen " > " Erweiterte Eingabe " ( Mac OS ) .
+Wählen Sie " Bearbeiten " " Voreinstellungen " > " Erweiterte Eingabe " ( Windows ) bzw. " InCopy " > " Voreinstellungen " > " Erweiterte Eingabe " ( Mac OS ) .
 Der neue Code fügt die folgenden Funktionen :
 Bilder in der PDF-Datei werden standardmäßig im JPEG-Format gespeichert .
 Sie können eine Liste der Lesezeichen verschachteln , um eine Beziehung zwischen Themen anzuzeigen .
@@ -13470,7 +13470,7 @@ Klicken Sie im Tagsbedienfeld , wählen Sie im Bedienfeldmenü den Befehl " DTD 
 Diese Farbe durch die Umgebungsfarbe für bestimmte Materialien interagiert .
 Ein Häkchen in einem Feld weist darauf hin , dass alle Einstellungen einbezogen werden .
 Sie können die Beschreibung und benennen Sie die Eigenschaften anpassen , um die anderen Sprachen als dem Englischen einzubeziehen .
-Das TextFormat-Objekt verfügt über Eigenschaften , mit denen Sie die Texteigenschaften angeben , wie z . B . Fettdruck , Aufzählungszeichen , Farbe , Schriftart , " " Kursiv , " " Größe " und " Vicente . "
+Das TextFormat-Objekt verfügt über Eigenschaften , mit denen Sie die Texteigenschaften angeben , wie z. B. Fettdruck , Aufzählungszeichen , Farbe , Schriftart , " " Kursiv , " " Größe " und " Vicente . "
 Wählen Sie den Namen des Stils im Formatbedienfeld .
 Sie können XML-Dateien in InCopy Textabschnitte speichern .
 Das Modell Rendermodi bestimmt die Oberflächenbeschaffenheit des 3D-Modells .
@@ -13588,7 +13588,7 @@ Um die Zielinstanz eines Tween-Bereichs zu entfernen , ohne das Tween zu entfern
 Sie können die Flash ActionScript 3.0-Komponenten im Bedienfeld " Komponenten " anzeigen , indem Sie folgende Schritte ausführen .
 Sie repräsentieren nicht die tatsächliche Wiedergabelautstärke .
 Standardmäßig werden alle Kanäle einbezogen .
-Zeiger und Bewegungen können Skripting-Funktionen , wie z . B . Rollover-Effekte aufzurufen .
+Zeiger und Bewegungen können Skripting-Funktionen , wie z. B. Rollover-Effekte aufzurufen .
 Wenn die Stoppuhr für eine Eigenschaft deaktiviert ist , wird die Eigenschaft hat keine Keyframes .
 Im folgenden Beispiel wird der Code , der eindeutige Untertitelung zuweist , um eindeutige Videos .
 Klicken Sie auf die Schaltfläche " Eigenschaften " und wählen Sie die richtige Papierkassette und alle anderen Optionen nach Bedarf .
@@ -13608,7 +13608,7 @@ Sie können drei Arten von Ausschießen auswählen : zwei- Rückendrahtheftung ,
 klicken Sie bei gedrückter Strg-Taste , um die Auswahl hinzuzufügen .
 Wählen Sie eine Signatur beim Signieren eines Dokuments .
 Mit dem Absatzbedienfeld ( " Fenster " " Schrift " > " Absatzformatoptionen " ) , um die Formatierung der Spalten und Absätze zu ändern .
-Klicken Sie im Dialogfeld " TouchUp-Leserichtung " auf die Schaltfläche für den entsprechenden Überschrift-Tag ( z . B . " Überschrift 1 , Überschrift 2 ) .
+Klicken Sie im Dialogfeld " TouchUp-Leserichtung " auf die Schaltfläche für den entsprechenden Überschrift-Tag ( z. B. " Überschrift 1 , Überschrift 2 ) .
 Klicken Sie auf den geladenen Text , oder ziehen Sie Cursor auf einer Seite , um den neuen Textabschnitt des Inhaltsverzeichnisses platzieren .
 Führen Sie die folgenden Richtlinien beim Erstellen von Bildmaterial für Pinsel :
 Klicken Sie auf den Notizanker .
@@ -13637,13 +13637,13 @@ Wählen Sie Text-Overlay verwenden .
 Um einen einzelnen Stil auf ein Objekt anzuwenden , führen Sie einen der folgenden Schritte aus :
 Beispielsweise löst Flash Player den Fortschritt Ereignisobjekt direkt auf einer URLStream- Objekt .
 Sie können diese Skins bearbeiten , um das Erscheinungsbild der Fortschrittsleiste zu ändern .
-In einigen Fällen ist das Element ein Attribut eines Objekts ( z . B. einen Farbraum ) .
+In einigen Fällen ist das Element ein Attribut eines Objekts ( z. B. einen Farbraum ) .
 Wenn Sie zum Beispiel XML-Inhalt in das Layout importiert haben , können Sie Elemente aus der Strukturansicht auf die Seite ziehen .
 Sie können auch ein Seitensymbol im Seitenbedienfeld doppelklicken , um diese Seite zu wechseln .
 Beispielsweise könnten Sie ein Dokument mit einem Auto zu erstellen , die über die Bühne bewegt wird .
 Akzeptiert nur numerische Zeichen ( 0-9 ) .
 Um die Bildeigenschaften zu ändern , klicken Sie mit der rechten Maustaste darauf , und wählen Sie " Eigenschaften . "
-Klicken Sie bei gedrückter Alt- ( Windows ) bzw . Wahltaste ( Macintosh ) gedrückt , und ziehen Sie den Keyframe an die Stelle , an der Sie ihn einfügen möchten .
+Klicken Sie bei gedrückter Alt- ( Windows ) bzw. Wahltaste ( Macintosh ) gedrückt , und ziehen Sie den Keyframe an die Stelle , an der Sie ihn einfügen möchten .
 Obwohl das Dialogfeld " Film " angezeigt wird , können Sie die aktuellen Audioeinstellungen anpassen .
 Halten Sie die Umschalttaste gedrückt , und fügen Sie die Auswahl auf den Pfad Objekt aus , das Sie zuschneiden möchten .
 Erstellen Sie das Symbol mit den Werkzeugen im Bedienfeld " Werkzeuge . "
@@ -13660,7 +13660,7 @@ Wählen Sie " Datei " " Importieren " > " In Bühne importieren " oder " Datei "
 Setzen Sie mit dem Textwerkzeug auf die Stelle , an der der Text angezeigt werden soll .
 Jede Funktion , die über eine Gültigkeitsbereichskette , die in einem internen Eigenschaft ausgeführt wird .
 Jede Eigenschaft verfügt über eine eigene Grafik .
-Sie können z . B. ein Rechteck , um ein Dreieck zu konvertieren .
+Sie können z. B. ein Rechteck , um ein Dreieck zu konvertieren .
 Wenn eine Zelle nicht bearbeitbar , die Nach-rechts-Taste keine Auswirkungen .
 Schreiben Sie Ereignis-Listener und -handler als Reaktion auf Fehlerereignisse .
 Klicken Sie auf den Pfeil für die Trennleiste , um die Werkzeugleiste " Aktionen " ein- oder auszublenden .
@@ -13693,7 +13693,7 @@ Sie können einen neuen Blogeintrag aus den Daten , die Sie in einer Webseite im
 Fasst Farben in Polygonformen .
 Rückt Text nach innen aus der rechten und linken Kante des Rahmens verschieben .
 Im Bedienfeld " Dateien " wird angezeigt .
-Wenn Sie z . B. auswählen , " damit die Animation abgespielt wird , fünfmal in allen .
+Wenn Sie z. B. auswählen , " damit die Animation abgespielt wird , fünfmal in allen .
 Sie werden als durchgezogene Balken für die Farbe , die Sie einzeln auswählen und bearbeiten können .
 Wählen Sie " Datei " " Platzieren " und wählen Sie die Dateien aus .
 Wenn Sie die Leistung für alle Bilder separat eingestellt haben , können Sie die Einstellungen außer Kraft setzen , sodass alle Objekte dieselben Einstellungen verwenden .
@@ -13704,7 +13704,7 @@ Verwenden Sie das endian byte order , dass die Byte-Reihenfolge des Servers , mi
 im Bedienfeld " Aktionen " gesetzten Haltepunkte mit der FLA-Datei gespeichert werden .
 Klicken Sie am Anfang der Methode umfasst Code legt den standardmäßigen XML-Namespace , wenn die Quelle RSS-Daten eines Standardnamespaces :
 Haben Sie Beschreibungen für Tastaturbefehle in der SWF-Datei ?
-Um z . B. unformatierten Text , um einen neuen Rahmen zu kopieren , halten Sie die Alt- + Umschalt- + Strg-Taste ( Windows ) bzw . Wahl- + Umschalt + Befehlstaste ( Mac OS ) gedrückt , nachdem Sie mit dem Ziehen begonnen haben .
+Um z. B. unformatierten Text , um einen neuen Rahmen zu kopieren , halten Sie die Alt- + Umschalt- + Strg-Taste ( Windows ) bzw. Wahl- + Umschalt + Befehlstaste ( Mac OS ) gedrückt , nachdem Sie mit dem Ziehen begonnen haben .
 Mit dem Photoshop-Befehl " Speichern unter " mit Preserve Photoshop Editing Funktionen , die im Abschnitt " Allgemein " des Dialogfelds " PDF speichern " ausgewählt ist .
 Nachdem Sie einen Korrekturdruck auszuwählen , wählen Sie " Datei " " Drucken . "
 Wählen Sie die ActionScript-Version aus dem Popup-Menü aus .
@@ -13782,7 +13782,7 @@ Gibt an , wie viele Details in der Liste " Preflight-Optionen " angezeigt .
 Ein Erscheinungsbild der Komponente ändert sich jedoch basierend auf ihrem aktuellen Status .
 Erstellen Sie Schaltflächen , mit denen Sie innerhalb eines dynamischen Dokuments navigieren , einen Film oder einen Sound wiederzugeben .
 Prüfen Sie , wie und wo Verhaltensweisen und ActionScript in Ihrer FLA-Datei verwenden .
-n . Berechnet einen neuen Wert aus einem oder mehreren Werten .
+n. Berechnet einen neuen Wert aus einem oder mehreren Werten .
 Wählen Sie eine Website oder dem ausgewählten Blogserver aus der Liste der Verbindungen .
 Um zu verstehen , wie Namespaces arbeiten , ist es hilfreich zu wissen , dass der Name einer Eigenschaft oder Methode enthält immer aus zwei Teilen : einem Bezeichner und einen Namespace .
 Positionieren Sie den Zeiger an der Stelle , an der die Linie beginnen soll , und ziehen Sie ihn an die Stelle , an der die Linie enden soll .
@@ -13792,7 +13792,7 @@ Wenn Sie eine Griffleiste ziehen , wird die Symbolleiste bewegt .
 Klicken Sie im Dialogfeld " Importieren , " und öffnen Sie die gewünschte Sounddatei suchen .
 Importiert die Ebenen aus dem Quelldokument .
 Wählen Sie " Ansicht " " Einpassen . "
-Beendet die Anwendung , wie z . B . Adobe Reader , in dem das PDF-Dokument geöffnet ist .
+Beendet die Anwendung , wie z. B. Adobe Reader , in dem das PDF-Dokument geöffnet ist .
 Neben dem Videoformat FLV Adobe Flash Player und Adobe AIR unterstützt Video- und Audiodateien in H.264 und HE-AAC in 1299 Dateiformate kodiert .
 Klicken Sie auf Kommentar entfernen .
 Wählen Sie einen Schritt oder eine Reihe von Schritten im Bedienfeld " Verlauf . "
@@ -13823,7 +13823,7 @@ Das Dialogfeld " Sortieren " wird angezeigt .
 Das Contribute-Startkennwort handelt es sich um eine globale Einstellung für die gesamte Anwendung , nicht nur für die Website-Verbindung , die Sie erstellen .
 Mit der intersects ( ) -Methode aufgerufen , um herauszufinden , ob zwei Rechtecke überschneiden .
 Eine Bilddatei . Dies gilt auch für JPG- , PNG- und GIF-Dateien .
-Wählen Sie " Objekt " " Gruppieren " bzw . " Objekt " > " Gruppierung aufheben . "
+Wählen Sie " Objekt " " Gruppieren " bzw. " Objekt " > " Gruppierung aufheben . "
 Die oberste Ebene in der Gruppe wird durch die gruppierten Ebenen durchbohrt , um die nächste Ebene unterhalb der Gruppe .
 Ziehen Sie die Teilleisten nach oben , unten , links oder rechts , um die Größe der Bereiche zu ändern .
 Lädt Ihre neue Kommentare zum Kommentarserver .
@@ -13844,7 +13844,7 @@ Sie können auch die Befehle " Format " " Ebenenstil " > " Absatzumbrüche auszu
 Geben Sie y -Achse Daten in der ersten Spalte und der x-Achse von Daten in der zweiten Spalte .
 Wenn Sie den ersten Bone hinzuzufügen , wandelt Flash die Form in einer IK-Form Objekt und verschiebt sie in eine neue Ebene in der Zeitleiste .
 Wenn weniger als zwei Tastaturbefehle sind bereits mit dem Befehl zugewiesen , klicken Sie auf " Hinzufügen . "
-Wählen Sie " Objekt " die Option " Neuer Stil aus dem Bedienfeldmenü Objektstile , oder klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf die Schaltfläche " Neuer Stil erstellen .
+Wählen Sie " Objekt " die Option " Neuer Stil aus dem Bedienfeldmenü Objektstile , oder klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf die Schaltfläche " Neuer Stil erstellen .
 Beim Erstellen von PDFs aus Access-Dateien , kann der Prozess zwei zusätzliche Schritte umfassen :
 Suchen Sie alle Instanzen eines bestimmten Symbols oder einer Aktion .
 ( Mac OS ) Klicken Sie auf die Schaltfläche " Liste löschen " oberhalb der Warteschlange .
@@ -13894,7 +13894,7 @@ Druckt Seiten als Bitmapbilder .
 Es ist nicht möglich , den Befehl " Löschen . "
 Wenn Sie möchten , dass das ursprüngliche Objekt in der geprägte Bereich angezeigt werden soll , wählen Sie " Objekt " anzeigen .
 Wählen Sie die Option Ereignisse zu Skripts ausführen / " Aktionen . "
-Nur MVC verwenden , wenn Sie eine große oder komplexe Anwendung erstellen , wie z . B. einer E-Commerce-Website oder die Anwendung erlernen .
+Nur MVC verwenden , wenn Sie eine große oder komplexe Anwendung erstellen , wie z. B. einer E-Commerce-Website oder die Anwendung erlernen .
 Contribute erstellt einen speziellen administrativen Ordner ( mit der Bezeichnung _ mm ) , die eine gemeinsame Einstellungsdatei enthält , die in jeder Website , die Sie erstellen , um eine Verbindung herzustellen .
 Wenn Sie ein Auswahlrechteck um die Form wird sichergestellt , dass die gesamte Form ausgewählt ist .
 InDesign unterstützt eine Vielzahl von Textverarbeitungs- , Tabellenkalkulations- oder Textdateiformate .
@@ -13921,10 +13921,10 @@ Wenn es sich bei dem Objekt nicht um ein tweenbares Objekt oder mehrere Objekte 
 Anstatt die Seitwärtsdrehung Kopf blickt der Inhalt gedreht haben , können Sie den Druckbogen drehen .
 Sie können mit mehreren standardmäßigen Maßeinheiten arbeiten , werden diese Einstellungen jederzeit ändern und die aktuellen Maßeinheiten vorübergehend außer Kraft setzen , wenn Sie einen Wert eingeben .
 Passen Sie die Eigenschaften an .
-Klicken Sie auf den Namen der Typ des Cue-Points ( z . B . " Ereignis " oder " Navigation " ) , um ihn zu aktivieren .
-Dieser Befehl ist besonders nützlich zum Verschieben von Dateien in ein anderes Laufwerk , wie z . B. das Verschieben von Dateien von einer DVD auf eine Festplatte .
+Klicken Sie auf den Namen der Typ des Cue-Points ( z. B. " Ereignis " oder " Navigation " ) , um ihn zu aktivieren .
+Dieser Befehl ist besonders nützlich zum Verschieben von Dateien in ein anderes Laufwerk , wie z. B. das Verschieben von Dateien von einer DVD auf eine Festplatte .
 Klicken Sie erneut auf " OK . "
-Darüber hinaus verwendet Adobe Bridge CS4 weniger Speicher und wird schneller in Bezug auf Aufgaben , wie z . B. das Blättern und Filtern von Bildern .
+Darüber hinaus verwendet Adobe Bridge CS4 weniger Speicher und wird schneller in Bezug auf Aufgaben , wie z. B. das Blättern und Filtern von Bildern .
 Wenn ein Benutzer beispielsweise Text in ein Textfeld eingibt , wird eine Texteingabe Ereignis ausgelöst wird .
 Um die Füllung transparenter zu machen , verwenden Sie einen niedrigen Prozentsatz .
 Sie können die Ressourcen umbenennen , um sicherzustellen , dass die Skripten ordnungsgemäß ausgeführt werden .
@@ -13938,7 +13938,7 @@ Klicken Sie auf einen Hyperlink zu einer Webseite navigieren .
 Mit dem Radiergummi-Werkzeug können Sie Teile eines Pfads löschen , indem Sie entlang des Pfades zeichnen .
 Nehmen Sie die Auswahl .
 Wenn Sie eine PDF-Datei suchen , müssen Sie als eigenständige Anwendung , die nicht in Ihrem Webbrowser geöffnet .
-Wählen Sie " Bearbeiten " " Voreinstellungen " > " Einheiten und Einteilungen " ( Windows ) bzw . " InDesign " > " Voreinstellungen " > " Einheiten und Einteilungen " ( Mac OS ) .
+Wählen Sie " Bearbeiten " " Voreinstellungen " > " Einheiten und Einteilungen " ( Windows ) bzw. " InDesign " > " Voreinstellungen " > " Einheiten und Einteilungen " ( Mac OS ) .
 Wenn Sie ein Dokument und seine verknüpften Dateien im selben Ordner vereinfacht , um sie von einem Computer auf einen anderen verschieben .
 Klicken Sie auf den Modifikator " Radiergummi " und wählen Sie einen Modus wegnehmen :
 Sie sollten die Cue-Points in der FLV-Datei einbetten , da sie genauer sind .
@@ -14028,10 +14028,10 @@ Windows importiert MPEG-Videos mithilfe von DirectShow unterstützt sowohl die V
 Zeigt die numerischen Werte für die Farbe unter dem Zeiger .
 Wählen Sie aus dem Menü " Aufgabenbedienfeld " aktualisieren .
 Die Eigenschaft numFrames gibt eine int für die Gesamtzahl der Frames in der Szene an .
-Bei der Arbeit mit Roundtrip HTML von Dreamweaver Fireworks serverseitige Dateiformate , wie z . B . CFM und PHP unterstützt .
+Bei der Arbeit mit Roundtrip HTML von Dreamweaver Fireworks serverseitige Dateiformate , wie z. B. CFM und PHP unterstützt .
 Jedes Rechteck im Diagramm ein Objekt darstellt .
 Die Anweisung try -Anweisungen umschließt , die möglicherweise zum Erstellen von Fehlern .
-Nachdem Sie die SWF-Datei oder das Bild geladen ist , können Sie die geladenen Anzeigeobjekts zu einem anderen Anzeigeobjektcontainer verschieben , z . B. den Container DisplayObjectContainer-Objekt in diesem Beispiel :
+Nachdem Sie die SWF-Datei oder das Bild geladen ist , können Sie die geladenen Anzeigeobjekts zu einem anderen Anzeigeobjektcontainer verschieben , z. B. den Container DisplayObjectContainer-Objekt in diesem Beispiel :
 Geben Sie den URL-Pfad direkt in die Quellzelle im Komponenteninspektor .
 Ein Makrocode ist der Name des Makrocodes , die Sie erstellen .
 Wenn Sie einen Index , einen Speicherort oder ein PDF-Portfolio durchsuchen , erscheinen zusätzliche Optionen unter Folgende Zusatzkriterien verwenden .
@@ -14109,7 +14109,7 @@ In diesem Fall wird die Kopie auf derselben Ebene vorgenommen haben .
 Um einen Vorlagenpfad für ein Projekt ändern , wird sie in den Projektvoreinstellungen festlegen .
 Das Präfix ist auf acht Zeichen beschränkt .
 Wählen Sie " Bearbeiten " " Ausschneiden , " um die Objekte in die Zwischenablage verschieben .
-Viele Anwendungen , wie z . B . Spiele , Animationen und Controllern in Echtzeit benötigen , normal , time-driven Inlett Mechanismen , die von Maschine zu Maschine konsistent sind .
+Viele Anwendungen , wie z. B. Spiele , Animationen und Controllern in Echtzeit benötigen , normal , time-driven Inlett Mechanismen , die von Maschine zu Maschine konsistent sind .
 Ebenso können Sie nur den Blogserver umbenennen , die im Dialogfeld " Meine Verbindungen " aufgelistet ist , nicht aber einzelne Blogs , die von einem Blogserver gehostet werden .
 Falls erforderlich , wählen Sie " Formulare " " Felder hinzufügen oder bearbeiten , und stellen Sie sicher , dass das Objektauswahl-Werkzeug ausgewählt ist .
 Bei Auswahl dieser Option auch eine Datei mit der Bezeichnung " mm _ css _ menu.js " in das gleiche Verzeichnis wie die HTML-Datei exportiert .
@@ -14130,7 +14130,7 @@ Bietet einen herkömmlichen Ansatz zum Erstellen von Text zeilenweise ein .
 Stattdessen wird Text in separate Datensätze unterbrechen , um das Aussehen des Abstands simulieren .
 Navigieren Sie zu dem Bild , das Sie aus Fireworks exportiert haben , und klicken Sie auf " OK . "
 Verwenden Sie die gleiche Zeichenfolge in der LocalConnection.connect Befehl ( connectionName ) .
-Um das Auszoomen-Werkzeug bei der Verwendung eines anderen Werkzeugs zu aktivieren , drücken Sie Strg + Alt + Leertaste ( Windows ) bzw . Befehlstaste + Wahltaste + Leertaste ( Mac OS ) .
+Um das Auszoomen-Werkzeug bei der Verwendung eines anderen Werkzeugs zu aktivieren , drücken Sie Strg + Alt + Leertaste ( Windows ) bzw. Befehlstaste + Wahltaste + Leertaste ( Mac OS ) .
 Um die Form auf einen Kreis einzuschränken , ziehen Sie bei gedrückter Umschalttaste .
 Klicken Sie auf Umbenennen , und geben Sie einen neuen Namen für den Pinsel , Farbfeld und so weiter .
 Wählen Sie " Fenster " " Allgemeine Bibliotheken , und wählen Sie eine Bibliothek aus dem Untermenü aus .
@@ -14199,7 +14199,7 @@ Aus diesem Grund ist das Drucken stumm nur in den folgenden Situationen zulässi
 Die Spalten Spielernamen und ihre Spam-Faktoren darstellen .
 Die digitale ID ist Teil der Signatur , die Ihre Identität herstellt .
 Wählen Sie eine Schriftart im Menü " Schrift " " Schriftart . "
-n . Typischerweise Flash-Authoring-Tool .
+n. Typischerweise Flash-Authoring-Tool .
 Durch das Tieferstufen und Ausrücken wirkt sich auf die rechte Randabstand sowie auf der linken Seite .
 Wählen Sie die Datei aus , die Sie in Adobe Contribute veröffentlichen möchten .
 Siehe Farbseparationen und die Vorschau , welche Bereiche von Grafiken .
@@ -14246,9 +14246,9 @@ Wählen Sie im Menü " Verwenden von Verfassen im Menü Ausnahmen Silbentrennung
 Wählen Sie die Bildbearbeitung , Rauschen bezieht sich auf diesen zufälligen Farbvariationen in der Pixel eines Bildes .
 Die Bitmap ist zu groß ( größer als : 2880 Pixel in beliebiger Richtung ) .
 Vector-Objekts Formen enthalten Standardformen , " " Automatische Formen ( Vektorobjekt Gruppen , die spezielle Steuerelemente zur Anpassung ihrer Attribute ) und freie Formen aufweisen .
-Die einfachste Bilder , wie z . B . Vektorgrafiken , nur eine Farbe verwenden , die in einer Ebene .
+Die einfachste Bilder , wie z. B. Vektorgrafiken , nur eine Farbe verwenden , die in einer Ebene .
 Sie können die Buchstützen ausblenden , um den Inhalt der Notiz auszublenden .
-Alle Farbwerte , wie z . B . Farbton , Helligkeit und Alpha auf das Objekt angewendet werden .
+Alle Farbwerte , wie z. B. Farbton , Helligkeit und Alpha auf das Objekt angewendet werden .
 CCITT Group 4 ist ein universelles Verfahren , das mit guter Komprimierung der meisten Schwarzweißbilder erzeugt .
 Um genaue Pfade als gerade Linien oder glatte , fließende Kurven zeichnen , verwenden Sie das Zeichenstift-Werkzeug .
 Der Standardwert ist undefined , bis die Last beginnt .
@@ -14267,7 +14267,7 @@ Photoshop-Datei ( PSD , PSB ) , Radiance ( HDR ) , Portable Bit Map ( PBM ) , Op
 Wenn Sie Probleme beim Senden von Daten als binär auftreten , ändern Sie das Datenformat von EPS-Grafiken oder DCS stattdessen in der Quellanwendung .
 Wenn Sie das Bild für die Anzeige zerstörungsfrei zu drehen , verwenden Sie das Drehen-Werkzeug .
 Die Seite könnte von einem anderen Benutzer geändert wurden .
-Um den Aufnahmepunkt festzulegen , wählen Sie das Kopierstempel-Werkzeug aus und klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) in einem beliebigen Dokumentfenster geöffnet .
+Um den Aufnahmepunkt festzulegen , wählen Sie das Kopierstempel-Werkzeug aus und klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) in einem beliebigen Dokumentfenster geöffnet .
 Neben digitalen Stempel zu einem PDF-Dokument hinzufügen , können Sie andere Arten von Kommentaren , einschließlich Notizkommentare , Textänderungen , benutzerdefinierte Stempel und Dateianlagen hinzufügen .
 Zunächst wird immer im RGB-Farbmodus arbeiten .
 Sie können die Liste der Blogeinträge in Ihrer Homepage durch Aktualisieren der Liste manuell aktualisieren .
@@ -14303,7 +14303,7 @@ Acrobat Standard bietet einen Anfangspunkt und die Referenz für die Erstellung 
 Der Benutzer reagiert , indem Sie auf ein Objekt ( oder Objekte auf dem Bildschirm ) .
 Wenn Sie einen Smartfilter in eine normale Ebene anzuwenden , wählen Sie die Ebene aus und wählen Sie dann " Filter " " Weitere Smartfilter , " und klicken Sie auf " OK . "
 Geben Sie einen Namen ein .
-Um die Menübefehle anzuzeigen , wählen Sie " Alle Menübefehle einblenden am unteren Rand des Menüs , oder wählen Sie einen anderen Arbeitsbereich , z . B . " Erweitert . "
+Um die Menübefehle anzuzeigen , wählen Sie " Alle Menübefehle einblenden am unteren Rand des Menüs , oder wählen Sie einen anderen Arbeitsbereich , z. B . " Erweitert . "
 Es gibt drei Kategorien von Methoden :
 Ziehen Sie einen gesamten Druckbogen aus dem Bereich " Seiten " im Bedienfeld " Seiten " aus , um den Bereich Mustervorlagen .
 Wenn Sie den Text vertikal eingeben , erscheinen die Zeichen entlang des Pfades parallel zur Grundlinie .
@@ -14353,7 +14353,7 @@ Ebenso können Sie ein Video-Objekt in einem Movieclip-Symbol steuern , indem Si
 Wenn Sie den Titel formatieren , wählen Sie einen Stil aus dem Menü " Stil " ein .
 Die Papiereigenschaften .
 Das Auswahl-Werkzeug ( V ) ganze Objekte auswählt .
-n . Beschreiben Sie die Art von Informationen eine Variable oder ActionScript -Element enthalten kann .
+n. Beschreiben Sie die Art von Informationen eine Variable oder ActionScript -Element enthalten kann .
 Klicken Sie im Dialogfeld " JDF-Auftragsdefinitionen " aus , wählen Sie ein Element in der Liste aus , und klicken Sie auf " Bearbeiten . "
 Wählen Sie ein Wörterbuch aus dem Popupmenü " Rechtschreibung " Wörterbuch . "
 Es wird der filters-Eigenschaft eines Anzeigeobjekts oder rufen Sie die applyFilter ( ) -Methode für ein BitmapData-Objekt übergeben .
@@ -14367,7 +14367,7 @@ Ohne die Möglichkeit zum Laden des Shaders Bytecode ist es nicht möglich , ein
 Der Name darf nur gültige Zeichen für Dateinamen oder Ordnernamen enthalten .
 Klicken Sie im Dialogfeld " Slice-Optionen " einen Slice-Typ aus dem Popupmenü " Typ " aus .
 PDF / X-Kompatibilität erfordert den Wert True ( aktiviert ) oder False ( deaktiviert ) .
-Wenn Sie eine Datei öffnen , wird in der Ausgangsanwendung ( z . B. eine Kalkulationstabelle in Microsoft Excel geöffnet ist , können Sie die Datei in eine PDF-Datei konvertieren , ohne es zu öffnen .
+Wenn Sie eine Datei öffnen , wird in der Ausgangsanwendung ( z. B. eine Kalkulationstabelle in Microsoft Excel geöffnet ist , können Sie die Datei in eine PDF-Datei konvertieren , ohne es zu öffnen .
 Geben Sie eine Beschreibung , die angezeigt wird , wenn der Film in Acrobat wiedergegeben werden kann .
 Wählen Sie " Tabelle " " Einfügen " > " Spalte links " oder " Tabelle " > " Einfügen " > " Spalte rechts .
 Fireworks exportiert auch Bilder mit den HTML- und platziert die Bilder in den angegebenen Zielordner aktualisiert .
@@ -14389,7 +14389,7 @@ Die Einstellung " Dokumenteigenschaften " überschreibt die Einstellung " Vorein
 Um die Endfarbe des Verlaufs zu definieren , klicken Sie auf den Farbregler ganz rechts unterhalb der Verlaufsleiste .
 Die Hauptklassen-Konstruktormethode der Ereignis-Listener DrawingCanvas richtet die folgenden Schritte aus :
 Wählen Sie " Kleine " oder " Große Liste , um den Pinsel als eine Liste mit den Miniaturen anzuzeigen .
-Die Verwendung von InDesign Tastaturbefehle , drücken Sie Strg + Alt + G ( Windows ) bzw . Befehl + Wahl + G ( Mac OS ) , um alle Hilfslinien auf dem aktuellen Druckbogen auszuwählen , und drücken Sie die Entf-Taste .
+Die Verwendung von InDesign Tastaturbefehle , drücken Sie Strg + Alt + G ( Windows ) bzw. Befehl + Wahl + G ( Mac OS ) , um alle Hilfslinien auf dem aktuellen Druckbogen auszuwählen , und drücken Sie die Entf-Taste .
 Die Hauptanwendungsdatei in Flex ( MXML ) oder " Flash " ( FLA ) .
 Doppelklicken Sie auf die Internetadresse , und navigieren Sie zu dem Ordner mit dem PDF-Dokument , das Sie einfügen möchten .
 Das Dialogfeld " Anlage auswählen " wird angezeigt .
@@ -14425,7 +14425,7 @@ Wenn Sie den Befehl " Objekt " " Gruppierung aufheben " verfügbar ist , können
 Wenn Sie fertig sind , wirkt sich die Änderung auf alle Instanzen der Komponente im Dokument .
 Die ECMAScript for XML definiert eine Reihe von Klassen und Funktionen für die Arbeit mit XML-Daten .
 Bei Graustufenbild-Bitmap Masken , die Bitmap-Werkzeuge verwenden , um auf die Maske mit verschiedenen Graustufen- Farbwerte zeichnen .
-Wenn Sie die Einstellungen im PNG-Format anpassen möchten , z . B. für Auflösung , Transparenz und Hintergrundfarbe , verwenden Sie den Befehl " Exportieren " anstelle des Befehls " Für Microsoft Office .
+Wenn Sie die Einstellungen im PNG-Format anpassen möchten , z. B. für Auflösung , Transparenz und Hintergrundfarbe , verwenden Sie den Befehl " Exportieren " anstelle des Befehls " Für Microsoft Office .
 Wählen Sie " Dokument " " Wasserzeichen " > " Aktualisieren . "
 Gibt den Status der Überfüllungen im Dokument .
 Wählen Sie das Textwerkzeug oder das Pfadtext-Werkzeug auf eine Einfügemarke im Text , an der der Anker für das Objekt angezeigt werden soll .
@@ -14475,7 +14475,7 @@ Die Linien der Cue-Punkt-Daten für die Navigation und Ereignis-Cue-Points in de
 Beispielsweise beginnt der folgende reguläre Ausdruck entspricht einer Zeichenfolge , die mit dem Zeichen A , gefolgt von einer oder mehreren aufeinander folgenden Ziffern :
 Wenden Sie Spezialeffekte .
 Skaliert das Symbol nur , wenn sie größer ist als die Schaltfläche definiert .
-Sie können z . B. ein Tabellenformat verwenden , um die Randfarbe von inneren Zellen ändern .
+Sie können z. B. ein Tabellenformat verwenden , um die Randfarbe von inneren Zellen ändern .
 Wenn Sie Contribute mithilfe von SMS bereitzustellen , müssen Sie zunächst ein Paket erstellen und eine Werbeanzeige hinzufügen , wodurch Sie dann den Bereitstellungsprozess .
 Die Pixelmaße der Bilder muss für Bildnamen übereinstimmen , werden im Dialogfeld " Bild anwenden . "
 Klicken Sie im Dialogfeld , das angezeigt wird , klicken Sie auf " Dateien hinzufügen , " wählen Sie " Dateien hinzufügen " oder " Geöffnete Dateien hinzufügen " und wählen Sie die Dateien aus .
@@ -14515,7 +14515,7 @@ Barcodes sind hilfreich , wenn Benutzer das Formular auf Papier oder per Fax sen
 Sie werden aufgefordert , eine neue Seite zu einer vorhandenen Seite verknüpfen .
 Weitere Informationen finden Sie unter Bearbeiten von Tags mit der Registerkarte " Tags " aus .
 Geben Sie eine Einstellung für weiche Kanten in der Optionsleiste fest .
-Wenn Sie z . B. einen Computer manuell erstellen , können Sie separate Bedingungen für Mac OS und Windows erstellen .
+Wenn Sie z. B. einen Computer manuell erstellen , können Sie separate Bedingungen für Mac OS und Windows erstellen .
 Der Kreis ist proportional zur Helligkeit des Rechtecks .
 Geben Sie im Feld " Alternativtext " die nicht abgekürzte Version des Begriffs .
 Wenn Sie die Rückrufmethode onMetaData oder onCuePoint aufgerufen werden und keine Methoden zur Verarbeitung des Rückrufs vorhanden sind , werden keine Fehler generiert .
@@ -14535,7 +14535,7 @@ Wenden Sie den Filter auf das Objekt .
 Wenn sich der Fokus auf dem Bedienfeldmenü des Bedienfelds befindet , drücken Sie die Tabulatortaste erneut , um den Fokus durch die anderen Steuerelemente im Bedienfeld verschieben .
 Deaktivieren Sie " Importieren " Für Runtime Sharing aus , und klicken Sie auf " OK . "
 http : / / www.adobe.com / go / learn _ flashcs4 _ langref _ de ? flash / xml / package-detail.html flash.xml-Paket im ActionScript 3.0-Komponenten-Referenzhandbuch nachzuschlagen .
-Ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf die Auswahl ( nicht jedoch einen Griff auf dem Begrenzungsrahmen ) .
+Ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf die Auswahl ( nicht jedoch einen Griff auf dem Begrenzungsrahmen ) .
 Zusätzlich zu diesem ActionScript verwendet die Alpha- Schwellenwertparameter , um festzustellen , welche Pixel von transparent zu undurchsichtig dargestellt wird .
 Wenn Sie über SAPI 4 oder SAPI 5 Stimmen Text-in-Sprache Sprache Anwendungen installiert haben , können Sie sie auswählen , um Ihre PDF-Dateien zu lesen .
 Erstellt die erforderliche HTML-Datei und die entsprechenden Grafikdateien für den Import in Dreamweaver oder einem anderen HTML-Editor .
@@ -14545,11 +14545,11 @@ Klicken Sie auf das Pluszeichen ( + ) , um die Auswahl zu speichern , wie Sie ei
 Wählen Sie ein Objekt oder eine Gruppe ( oder eine Ebene im Ebenenbedienfeld als Ziel ) mit den Attributen , die Sie verwenden möchten .
 Anschließend können Sie dessen Attribute im Bedienfeld " Symboleigenschaften " ändern .
 Wählen Sie " Dokument " " Dokument untersuchen . "
-Umfasst zwei Bereiche : Camera Data 1 zeigt schreibgeschützte Informationen zur Kamera und Einstellungen verwendet , um das Foto dauern , wie z . B . Marke , Modell , Verschlussgeschwindigkeit und Blendeneinstellung .
+Umfasst zwei Bereiche : Camera Data 1 zeigt schreibgeschützte Informationen zur Kamera und Einstellungen verwendet , um das Foto dauern , wie z. B. Marke , Modell , Verschlussgeschwindigkeit und Blendeneinstellung .
 Die Sortierung identische Werte nebeneinander liegen , aber nicht in einer bestimmten Reihenfolge platziert .
 Diese Methode verkürzt die Zeit für InDesign , um die Datei zu generieren , und minimiert die Datenmenge , die für einen bestimmten Druckauftrag übertragen werden .
 Legen Sie weitere Optionen für die Verarbeitung .
-Um eine einzelne Ecke anpassen möchten , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf einen Ecken-Kontrollpunkt .
+Um eine einzelne Ecke anpassen möchten , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf einen Ecken-Kontrollpunkt .
 Weitere Informationen zum Festlegen der Optionen für gemeinsame Elemente finden Sie in der Contribute-Hilfe .
 Zeigen Sie vorhandene Einstellungen drucken oder ändern .
 Wenn Sie eine ungerade Anzahl von Objekten überlappen , wird die Überlappung gefüllt .
@@ -14565,7 +14565,7 @@ Klicken Sie auf Verknüpfung löschen .
 Das Fenster Position relativ zum Dokumentfenster Anwendungsfenster oder für Konfigurationen mit zwei Bildschirmen , dem virtuellen Desktop oder primären Desktop bestimmt wird .
 Wenn Sie Text löschen , wird eine Seite entfernt .
 Die Menüs " Alle einblenden " und " Ausblenden " sind deaktiviert , wenn Sie im Isolationsmodus .
-Wenn Sie ein bereits komprimiertes digitales Videoformat in ein anderes Format , z . B . FLV konvertieren , können Sie den vorherigen Encoder Videostörungen Rauschen .
+Wenn Sie ein bereits komprimiertes digitales Videoformat in ein anderes Format , z. B. FLV konvertieren , können Sie den vorherigen Encoder Videostörungen Rauschen .
 Deaktivieren Sie " Alle Ebenen aufnehmen , " um nur in der aktiven Ebene .
 Wählen Sie im Bedienfeld " Bibliothek " die FLVPlayback Skins Ordner , und öffnen Sie dann den Ordner SquareButton darunter öffnen .
 Einige Schriften enthalten jedoch weitere ornate , optionale Ligaturen , die erstellt werden können , wenn Sie den Befehl für freie Ligaturen .
@@ -14592,7 +14592,7 @@ Fahren Sie mit Publishing und Ihre ActionScript-Anwendung zu testen .
 Nachdem Sie ein Datenfeld einfügen , speichert InDesign die Datenquelle .
 Um ein Dialogfeld zu schließen , ohne die Änderungen zu speichern , klicken Sie auf " Abbrechen . "
 Wenn die Option " Pixel " ausgewählt ist , werden die Pfeiltasten Objekte verschieben , indem Sie Pixel auf dem Pixelraster des Dokuments , nicht von Pixeln auf dem Bildschirm .
-n . Abschnitt des Codes in einem Stück von ActionScript .
+n. Abschnitt des Codes in einem Stück von ActionScript .
 Andernfalls werden alle Flecken im Dokument zu verarbeiten , wenn Sie mit ausgewählter Spotfarbe als Farbtyp konvertiert .
 Die erste Seite zeigt eine Zusammenfassung der Vergleichsergebnisse an .
 Wählen Sie dann eine PPD-Datei , die das Ausgabegerät unterstützt .
@@ -14621,7 +14621,7 @@ Umfasst Kommentare , die in der XML-Datei angezeigt werden , aber nicht das InDe
 Das Überfüllen von Informationen können Sie entweder mit anderen PostScript-Informationen aus der Ausgangsanwendung importiert werden , oder Sie können sie in Acrobat erstellt werden , die mit Überfüllen von Vorgaben von Adobe In-RIP Trapping unterstützt .
 Anschließend können Sie die FileReference.upload ( ) -Methode verwenden , um jede Datei einzeln hochzuladen .
 Eingebettete Seitenpiktogramme keine Änderungen an den Dokumentseiten , bis Sie die Einbettung der Seitenminiaturen widerzuspiegeln .
-Gekennzeichnete Lesezeichen wirken sich auf die Reihenfolge , die Geräte zu lesen , wie z . B . Geräte für Sehbehinderte folgen .
+Gekennzeichnete Lesezeichen wirken sich auf die Reihenfolge , die Geräte zu lesen , wie z. B. Geräte für Sehbehinderte folgen .
 Stellen Sie sicher , dass alle erforderlichen Schriften in InDesign verfügbar sind .
 Dateien problemlos hinzufügen oder entfernen , ohne dass Sie alle Seiten , die ursprünglich in dieser Datei suchen und auswählen .
 Wenn Sie eine Vorschau der Animation in Komponenteninstanzen und Skalieren von 9-slice-scaled Movieclips in der -Authoring-Umgebung , wählen Sie " Steuerung " " Live-Vorschau aktivieren " aus .
@@ -14632,12 +14632,12 @@ Gibt den Objekttyp an , der den Platzhalterrahmen enthält .
 Diese nicht druckbaren Felder enthalten möglicherweise Text , Grafiken oder nichts .
 Die Toleranz legt fest , wie ähnlich die Farbe in Pixeln gefüllt werden muss .
 Wenn Sie eine 3D-Datei Ebene in eine vorhandene Datei hinzufügen , wird er oberhalb der aktuell ausgewählten Ebene und wird zur aktiven Ebene .
-Negative Werte werden am Nullwert gespiegelt ( d. h . , sie bleiben negativ , aber so angepasst , als ob sie positiv sind ) .
+Negative Werte werden am Nullwert gespiegelt ( d. h. , sie bleiben negativ , aber so angepasst , als ob sie positiv sind ) .
 Wählen Sie " Ebene " " Smart-Objekte " > " Inhalt " Bearbeiten , " um den Inhalt in Illustrator zum Bearbeiten öffnen .
 Hier können Sie zu einer benutzerdefinierten Anwendungsdeskriptordatei durchsuchen .
 Dieses Kapitel beschreibt die grundlegenden Konzepte für das Arbeiten mit Elementen auf dem Bildschirm .
 Dies liegt daran , dass intern , wenn Sie ein Array der filters-Eigenschaft zuweisen , wird in Flash Player oder AIR eine Kopie der einzelnen Filter im Array .
-Unterstützung für absolute Pixel ( z . B . 12 ) und relative ( z . B . + 2 ) .
+Unterstützung für absolute Pixel ( z. B. 12 ) und relative ( z. B. + 2 ) .
 ( Mac OS ) Wählen Sie die Eingabemethode Kotoeri , indem Sie aus dem Menü " Kotoeri " Zeichenbedienfeld anzeigen .
 Wählen Sie unter " Pixelabmessungen " geben Sie Werte für Breite und Höhe ein .
 Der Titel der Bilddatei in das Feld " Name " angezeigt .
@@ -14654,7 +14654,7 @@ Verwenden Sie dieses Ereignis , um einmalige Initialisierungsfunktionen aufrufen
 Bei der Auswahl von Konturen und Flächen für die Tabelle oder die Zellen , verwenden Sie die folgenden Optionen :
 Nachdem Sie das korrekte Kennwort eingeben , können Sie Aktualisierungen und Änderungen vornehmen oder neue Einträge in den verbundenen Websites und Blogs veröffentlicht werden , wenn Sie Contribute schließen .
 Erzeugt einen Verlauf Angleichungen , die in einem kreisförmigen Pfad von einem zentralen Brennpunkt nach außen .
-Wenn Sie die Größe des Auswahlbereichs von der Mitte möchten , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf einen Griff .
+Wenn Sie die Größe des Auswahlbereichs von der Mitte möchten , ziehen Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf einen Griff .
 Sie können einen Umschlag bearbeiten oder die Form der eingekapselten Objekt , jedoch nicht auf beiden gleichzeitig .
 Wählen Sie dann den entsprechenden Befehl aus dem Bedienfeldmenü die Option " Aktionen . "
 Ein Bild , das Quellbild , ist das Bild , das durch den Filter verändert wurde .
@@ -14705,7 +14705,7 @@ Wenn Sie die ausgewählte Farbgruppe bearbeiten , stellen Sie sicher , dass kein
 Befehle und Ordner " Command Panels " befinden sich im Ordner " Configuration " im Anwendungsordner von Fireworks und auch in Ihrem Anwender spezifischen Konfiguration von Fireworks .
 Alle Texte von langen Lesezeichen zeigt unabhängig von der Breite des Navigationsfensters .
 Die Korrektur Invertiert die Farben in einem Bild .
-In der Kategorie " Text " Fehler für Elemente wie z . B. fehlende Schriftarten und Übersatztext angezeigt .
+In der Kategorie " Text " Fehler für Elemente wie z. B. fehlende Schriftarten und Übersatztext angezeigt .
 Wenn Sie ein Quadrat oder ein Rechteck mit Werten auf die Stelle , an der die obere linke Ecke zu erstellen .
 Belichtung ist in erster Linie für die Verwendung in HDR-Bilder .
 Um den Kennwortschutz für das Profil anzuwenden , wählen Sie im Popup-Menü " Passwortgeschützt " .
@@ -14721,7 +14721,7 @@ Um alle Objekte in einer Gruppe zu entsperren , wählen Sie eine nicht gesperrte
 Wenn Sie mit Symbolen in Flash gearbeitet haben , sind Sie bereits zum Arbeiten mit Objekten verwendet werden .
 Wählen Sie unter Farbverlauf , geben Sie einen Wert zwischen 0p0 und 36p0 zum Angeben zusätzlicher Platz für Grafiken , die über den Rand der Seite oder gestutzte Fläche positioniert sind .
 Die folgenden Methoden ermöglichen die Bearbeitung der hierarchischen Struktur von XMLList Objekte :
-Wählen Sie die Option " Neue Webseite oder neuer Blogeintrag " im Bereich " Wählen , " " Arbeitsplatz " ( Windows ) bzw . " In Mac " ( Mac OS ) und wählen Sie dann " Leere Webseite " erweitern .
+Wählen Sie die Option " Neue Webseite oder neuer Blogeintrag " im Bereich " Wählen , " " Arbeitsplatz " ( Windows ) bzw. " In Mac " ( Mac OS ) und wählen Sie dann " Leere Webseite " erweitern .
 Weitere Informationen finden Sie unter Verlauf von ActionScript OOP unterstützt wird .
 Um den Fokus auf das Bedienfeld oberhalb oder unterhalb des aktuellen Bedienfelds in einer Palettengruppe verschieben , drücken Sie die Nach-oben- oder Nach-unten-Taste .
 Wählen Sie " Werkzeuge " " Erweiterte Bearbeitung " > " Objekt " TouchUp Tool .
@@ -14817,7 +14817,7 @@ Positioniert das Fenster in der Mitte des Bildschirmbereichs .
 Sie können auch Lesezeichen für häufig aufgerufene Seiten erstellen .
 Diese Voreinstellung entspricht der For Große Dokumente , Schreibgeschützt Im Feld Sichtbar die Option " Seiten " im Setup-Assistenten für Ein- / Ausgabehilfe .
 Ziehen Sie im Bild , um die Pixel verschmiert .
-Um denselben Effekt erzielen , erstellen Sie eine Pixelauswahl , und klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw . Wahltaste ( Mac OS ) auf die Schaltfläche " Hinzufügen . "
+Um denselben Effekt erzielen , erstellen Sie eine Pixelauswahl , und klicken Sie bei gedrückter Alt-Taste ( Windows ) bzw. Wahltaste ( Mac OS ) auf die Schaltfläche " Hinzufügen . "
 Während ein InDesign-Dokument auf Seiten und Druckbögen , eine XFL-Datei basiert auf Movieclips in einer Zeitleiste basiert .
 Um eine einzelne Fläche oder Kante auszuwählen , klicken Sie auf eine Fläche oder Kante .
 Die Werte speichern sie für die Verwendung in Skripten abgerufen werden können .
@@ -14875,11 +14875,11 @@ In Photoshop können Sie die folgenden 3D-Formate öffnen : U3D , 3DS , OBJ , DA
 Substitute fehlenden Schriftarten mit einer Schriftart verfügbar .
 Stattdessen wird die Farbe des Papiers , auf dem Sie drucken .
 Diese Movieclips sind nicht erforderlich . Sie haben keine besondere Fähigkeit , sondern nur als Service bereitgestellt werden .
-Die generierte HTML-Datei bezieht sich auf eine CSS-Datei ( z . B . PrintJDF.css ) .
+Die generierte HTML-Datei bezieht sich auf eine CSS-Datei ( z. B. PrintJDF.css ) .
 Positionieren Sie den Zeiger über die mittlere Klammer des Typs , bis ein kleines Symbol neben dem Zeiger angezeigt .
 Zeichnen Sie einen neuen Artikelabschnitts .
 Unter Windows werden , wählen Sie " Bearbeiten " " Voreinstellungen " > " Hilfslinien , Raster und Slices ; unter Mac OS " Photoshop " > " Voreinstellungen " > " Hilfslinien , Raster und Slices .
-Wählen Sie den Drucker " Adobe PDF " aus , und klicken Sie auf " Eigenschaften " ( bzw . " Voreinstellungen " ) .
+Wählen Sie den Drucker " Adobe PDF " aus , und klicken Sie auf " Eigenschaften " ( bzw. " Voreinstellungen " ) .
 Fügt die Credits für eine Beschriftung aus der Datei .
 Er verwendet ein Kombinationsfeld , in dem Sie eine andere Begrüßung aus einer Dropdownliste auswählen .
 Ein Wert von Null verhält sich wie ein Multiplikator von Null und alle Audiosignale .
@@ -15060,7 +15060,7 @@ Klicken Sie auf " Optionen für Seitenbereich , und geben Sie einen Seitenbereic
 Um dies zu beheben , öffnen Sie das Bedienfeld " Eingabehilfen " auf die Schaltfläche , und geben Sie den Namen und eine Beschreibung ein .
 Sie können den Vorgang unterbrechen oder das Programm , das Sie benachrichtigen , wenn er den Vorgang abgeschlossen hat .
 Wählen Sie " Format " " Liste " > " Eigenschaften . "
-Geben Sie einen Buchstaben ( z . B. eine schließende Klammer ) oder mehr als ein Zeichen anstelle des Punkts .
+Geben Sie einen Buchstaben ( z. B. eine schließende Klammer ) oder mehr als ein Zeichen anstelle des Punkts .
 Numerische Messungen werden als Punkte ausgedrückt .
 Wählen Sie die Option " Alles auswählen . "
 Ziehen Sie im Dokumentfenster , um die Form zu erstellen .
@@ -15092,7 +15092,7 @@ Erstellen Sie ein neues Dokument .
 Contribute wandelt das Dokument in eine PDF-Datei und fügt sie als Hyperlink oder als eingebettetes Objekt in den Entwurf .
 In vielen Anwendungen können Sie PDF-Dokumente erstellen , indem Sie den Adobe PDF-Drucker im Dialogfeld " Drucken . "
 Darüber hinaus können Sie die Verknüpfung durch das Löschen eines Rahmens oder mithilfe des Verknüpfungenbedienfelds eine Inhaltsdatei zu einer anderen Datei erneut verknüpfen .
-Verwenden Sie diese Methode , wenn eine Kontra-Farbe Region ( z . B. durch Hauttöne ) in einer Ebene mit einem Bereich in einen anderen .
+Verwenden Sie diese Methode , wenn eine Kontra-Farbe Region ( z. B. durch Hauttöne ) in einer Ebene mit einem Bereich in einen anderen .
 Wählen Sie " Datei " " Exportieren . "
 Sie können eine Farbe auswählen , indem Sie die einzelnen Komponenten Wert als Prozentsatz von Cyan , Magenta , Gelb und Schwarz .
 Geben Sie einen Wert zwischen -8640 und 8640 .
@@ -15110,8 +15110,8 @@ Mit diesem Code wird zunächst ein Textfeld , das verwendet wird , um eine Statu
 Legt den Lichtwinkel an , an dem der Effekt auf die Ebene angewendet wird .
 Einfügen eines Microsoft Office-Dokuments ( Word oder Excel ) in Contribute .
 Verwendet die standardmäßige Mac OS 8 Bit Palette , die auf einer einheitlichen Auswahl von RGB-Farben basiert .
-Ein Eingabetextfeld , z . B. das Feld textIn , verfügt über eine Reihe von Ereignissen , die weitergeleitet werden können .
-Beispielsweise wird in bestimmten Schriftarten , ist der Großbuchstabe A in mehreren Formularen , wie z . B. swash und Kapitälchen zur Verfügung .
+Ein Eingabetextfeld , z. B. das Feld textIn , verfügt über eine Reihe von Ereignissen , die weitergeleitet werden können .
+Beispielsweise wird in bestimmten Schriftarten , ist der Großbuchstabe A in mehreren Formularen , wie z. B. swash und Kapitälchen zur Verfügung .
 Wählen Sie " Aus CS4 , wenn der InCopy-Benutzer in der Arbeitsgruppe mit InCopy CS4 enthalten sind .
 Der benutzerdefinierte Filter für jedes Pixel im Bild einzeln angewendet wird .
 Geben Sie den Text wie gewünscht .
@@ -15133,7 +15133,7 @@ Erstellt den Dateinamen , indem Sie den Namen des Datensatzes ein .
 Um einen Bildlauf durch den Artikel zu blättern , drücken Sie die Eingabetaste , oder klicken Sie in den Artikel .
 Ziehen Sie ein oder mehrere Farbfelder aus dem Farbfeldbedienfeld Bibliothek auf das Farbfeldbedienfeld .
 -- UTF8 Kopfzeile in einer Datei weist das -Authoring-Werkzeug , dass die externe Datei als UTF-8 kodiert ist .
-Die einzige Typ der Eigenschaft , die überschrieben werden können , sind Methoden , d. h . , die Eigenschaften , die mit dem Schlüsselwort function deklariert wurde .
+Die einzige Typ der Eigenschaft , die überschrieben werden können , sind Methoden , d. h. , die Eigenschaften , die mit dem Schlüsselwort function deklariert wurde .
 Unter Mac OS Indizes mit älteren Versionen von erstellt wurden , sind nicht kompatibel mit der Funktion " 9 " Suchen . "
 Sie können das Anti-Aliasing für die einzelnen Anzeigeeinstellungen aktivieren oder deaktivieren .
 Um alle nicht ausgewählten Objekte aus , und heben Sie die Auswahl für alle ausgewählten Objekte auszuwählen , wählen Sie " Auswahl " " Inverse . "
@@ -15275,7 +15275,7 @@ Geben Sie eine Option aus , um festzustellen , welche Textformatierung im eBook 
 Sie können auch ein Formularfeld , und fügen Sie es auf andere Seiten kopieren .
 Fügen Sie Grafikstile , die Sie dem Grafikstilebedienfeld , und löschen Sie alle Grafikstile , die Sie nicht möchten .
 Deaktiviert die Verwendung von Kinsoku Shori .
-Einige Eigenschaften verfügen über Minimal- und Maximalwerte , die überschritten werden können , wie z . B . Alphatransparenz ( 0-100 % ) .
+Einige Eigenschaften verfügen über Minimal- und Maximalwerte , die überschritten werden können , wie z. B. Alphatransparenz ( 0-100 % ) .
 Suchen Sie die Preflight-Optionen Paketdatei ( .kfp Erweiterung ) , und klicken Sie auf " Öffnen . "
 Wenn das Bitmapbild in der Zwischenablage hat eine andere Auflösung als das aktuelle Dokument ist , wählen Sie eine Option resample .
 Wenn Sie " Füllung über Kontur " zeichnet die Füllung über die Kontur .
@@ -15288,7 +15288,7 @@ Jeder Filter , ob einfach oder komplex , wobei ihre Eigenschaften angepasst werd
 Dieser Zeiger während der Erstellung von allen benutzerdefinierten Ankerpunkte mit Ausnahme der ersten Ankerpunkt eines Pfads angezeigt wird .
 Im folgenden Beispiel wird eine Slider-Instanz hinzu , damit der Benutzer den Grad der Zufriedenheit mit einigen hypothetischen Ereignisses ausdrücken .
 Eine Auswahlbegrenzung umschließt nun den ungeschützten Bereich .
-Wählen Sie die Zelle bzw . Zellen aus , die Sie ändern möchten .
+Wählen Sie die Zelle bzw. Zellen aus , die Sie ändern möchten .
 Wenn Sie möchten , dass das Arbeitsprofil in neuen Dokumenten eingebettet werden soll , wählen Sie Embed Working Into Profile " Dokumente " Neu . "
 Kontrollpunkte von Eigenschaftenkurven können Sie entweder Übergangspunkte oder Eckpunkte sein .
 Öffnen Sie ein einzelnes PDF-Dokument , oder wählen Sie ein oder mehrere PDF-Dokumente in einem PDF-Portfolio aus .
@@ -15365,7 +15365,7 @@ Gibt den Bereich der zu druckenden Seiten in der PDF-Datei öffnen .
 Wenn Sie beispielsweise einen Wert von 30 Punkte in der Option " Versatz " Ihrer Seite 30 Punkte nach rechts verschoben .
 Weitere Informationen zu Webseiten Rollbacks finden Sie unter Aktivieren oder Deaktivieren von Rollbacks .
 Der Bibliotheksname wird automatisch im Untermenü " Benutzerdefiniert " der Symbolbibliotheken und öffnen " im Menü " angezeigt .
-Verwenden tate-chu-yoko erleichtert das Lesen halbbreiter Zeichen , wie z . B . Zahlen , Datumsangaben und kurzen fremden Wörtern in vertikalem Text .
+Verwenden tate-chu-yoko erleichtert das Lesen halbbreiter Zeichen , wie z. B. Zahlen , Datumsangaben und kurzen fremden Wörtern in vertikalem Text .
 Wählen Sie " Layout " Horizontal " oder " Vertikal " Layout " aus dem Menü " Inhalt " aus , um Bildlaufleisten positionieren .
 Im Ebenenbedienfeld werden die Objekte in einem Dokument .
 Doppelklicken Sie auf das Zoomwerkzeug .
@@ -15392,14 +15392,14 @@ Gefunden in den gemeinsamen Benutzer-Profilbereich , wird dieser Ordner ist Teil
 Bei 100 % ( Maximalwert ) , gibt es keine Leerzeichen zwischen dem Begrenzungsrahmen des Zeichens und dem Geviert .
 Geben Sie eine Beschreibung für den übergeordneten Movieclip .
 Wenn Sie Untermenüs einschließen , generiert Fireworks eine Bilddatei ( arrows.gif ) . Dabei handelt es sich um einen kleinen Pfeil , der neben einem beliebigen Menü-Eintrag mit einem Untermenü angezeigt wird .
-Klicken Sie bei gedrückter Strg-Taste ( Windows ) bzw . Befehlstaste ( Mac OS ) auf ein Dreieck , um alle Untereinträge unter einem Eintrag ein- oder auszublenden .
+Klicken Sie bei gedrückter Strg-Taste ( Windows ) bzw. Befehlstaste ( Mac OS ) auf ein Dreieck , um alle Untereinträge unter einem Eintrag ein- oder auszublenden .
 Wendet einen Schein anzuwenden , der von den inneren Kanten der Auswahl .
 Unabhängig davon , den Wert dieses Parameters , die gemeinsame Objekte auf die Gesamtgröße des Speicherplatzes für eine Domäne erstellt .
 Gibt die Höhe der Anwendung entweder in Pixel oder als Prozentsatz der Breite des Browserfensters .
 Der Prozess umfasst tatsächlich zwei separate Objekte von ActionScript .
 Verwenden Sie das Profil für Ihren Drucker ( obwohl besser als kein Profil ) nur mit mittelmäßigen Ergebnissen führt .
 Klicken Sie auf Fertig , um das Dialogfeld zu schließen .
-Einige PDF-Dateien enthalten mehrere Versionen desselben Bildes für verschiedene Zwecke , z . B. mit niedriger Auflösung , die Bildschirmanzeige und das Drucken mit hoher Auflösung .
+Einige PDF-Dateien enthalten mehrere Versionen desselben Bildes für verschiedene Zwecke , z. B. mit niedriger Auflösung , die Bildschirmanzeige und das Drucken mit hoher Auflösung .
 Passen Sie den entsprechenden Einzug Werte im Absatzbedienfeld oder im Steuerungsbedienfeld .
 Sie können verknüpfte Videoclips in MOV Format zu importieren .
 Im Gegensatz zu den Menüs , die am oberen Rand des Bildschirms angezeigt wird , kontextbezogene Menüs Befehle für das aktive Werkzeug oder die Auswahl anzuzeigen .
@@ -15410,11 +15410,11 @@ Beispielsweise wird mit dem folgenden Code kompiliert wird , obwohl der ursprün
 Um die Änderungen auf die ursprüngliche Farbgruppe speichern möchten , klicken Sie auf " Änderungen an Farbgruppe speichern .
 Klicken Sie auf " OK , " um das zusammengefügte Bild zu erstellen .
 So testen Sie die folgenden Beispiele :
-Wählen Sie im Bedienfeld " Aktionen " oder das Skriptfenster , klicken Sie auf " Suchen " oder drücken Sie Strg + F ( Windows ) bzw . Befehl + F ( Macintosh ) .
+Wählen Sie im Bedienfeld " Aktionen " oder das Skriptfenster , klicken Sie auf " Suchen " oder drücken Sie Strg + F ( Windows ) bzw. Befehl + F ( Macintosh ) .
 Die Preflight-Funktion analysiert den Inhalt eines PDF-Dokuments , um ihre Gültigkeit für die Druckproduktion bestimmen und eine Vielzahl von anderen Bedingungen , die Sie festlegen können .
 Details des neuen Blogs werden automatisch aktualisiert .
 Wählen Sie " Ansicht " " Werkzeugleisten " > " Werkzeugleistenposition zurücksetzen . "
-Wenn mehrere Dateien ausgewählt sind , gemeinsam genutzte Daten ( z . B . Schlüsselwörter , Erstellungsdatum und Belichtungseinstellung ) aufgeführt ist .
+Wenn mehrere Dateien ausgewählt sind , gemeinsam genutzte Daten ( z. B. Schlüsselwörter , Erstellungsdatum und Belichtungseinstellung ) aufgeführt ist .
 Wählen Sie " Einfügen " " Hyperlink " und wählen Sie dann einen Seitentyp aus dem Popup-Menü aus .
 Wird die Datei von einem nativen Dateityp ( eine Art durch das -Authoring-Werkzeug unterstützt wird ) , in der die Datei geöffnet wird .
 Nachdem Sie die Nummerierung in Text konvertieren , müssen Sie möglicherweise Zahlen manuell aktualisieren , wenn Sie den Text bearbeiten .
@@ -15423,12 +15423,12 @@ Wenn das Hand-Werkzeug aktiv ist , klicken Sie , und halten Sie die Maustaste ge
 Die Meldung für die Zeitüberschreitung beträgt 60 Sekunden .
 Sie können die Daten für QuickBooks-enabled Formulare genau wie für andere PDF-Formulare verteilen , verfolgen und erfassen .
 Diese Ausrichtung ist die erste Grundlinie versetzt .
-Wenn ein Benutzer mit der entstandenen SWF-Datei , indem Sie auf das Quadrat interagiert , wird in Flash Player bzw . AIR die folgende Trace-Ausgabe erzeugt :
+Wenn ein Benutzer mit der entstandenen SWF-Datei , indem Sie auf das Quadrat interagiert , wird in Flash Player bzw. AIR die folgende Trace-Ausgabe erzeugt :
 Sie können die folgenden Dateiformate zu importieren :
 Verwenden Sie das Cineon-Format , können Sie die Ausgabe wieder auf Film ohne Verlust der Bildqualität .
 Die Vorschau der ausgewählten Vorlage wird im Feld Vorschau angezeigt .
 Gibt eine Meldung zurück , wenn Sie einen überwachten Ordner nicht verfügbar ist oder nicht gefunden werden kann .
-Kontrollkästchen Untagged Farbobjekte ( ohne eingebettete Profile ) und native Objekte ( z . B . Strichgrafiken oder Typ ) werden nicht konvertiert .
+Kontrollkästchen Untagged Farbobjekte ( ohne eingebettete Profile ) und native Objekte ( z. B. Strichgrafiken oder Typ ) werden nicht konvertiert .
 Geben Sie den Text , den Sie suchen möchten , und , falls gewünscht , die Textzeichenfolge mit dem er ersetzt werden soll .
 Die neuen Farben werden aus dem Originalbildmaterial aufgenommen .
 Verwenden Sie einen beliebigen Keyframe mit Schaltflächen , die in ActionScript 1.0 oder 2.0 getURL Aktionen angehängt haben .
@@ -15469,7 +15469,7 @@ Die folgende Abbildung zeigt den visuellen Unterschied zwischen den Abmessungen 
 Diese werden in der Reihenfolge angezeigt , die für die meisten Anforderungen entspricht .
 Speichern Sie die Adobe AIR FLA-Datei , bevor Sie " AIR - Einstellungen für Anwendung & Installationsprogramm " im Dialogfeld " Öffnen . "
 Sie können ein Objekt auf einer Web-URL-Adresse verknüpfen , die einer Streaming-Medien-Datei wiedergegeben wird .
-Einige Benutzer , wie z . B . Bildschirmlesegeräten ) , die Seiten , die keine Tags aufweisen .
+Einige Benutzer , wie z. B. Bildschirmlesegeräten ) , die Seiten , die keine Tags aufweisen .
 Die Höhe des Zeichens " d " in der Schriftart berührt den oberen Versatz des Textrahmens .
 Das Linealwerkzeug können Sie Bilder oder Elemente präzise positionieren .
 Wenn sich die Einfügemarke links neben der Zelle , drücken Sie Umschalt- + Nach-rechts-Taste .
@@ -15537,7 +15537,7 @@ Wählen Sie im Bedienfeld " Struktur " ( oben ) der Modellhierarchie , klicken S
 Sie können mehrere Zeichenflächen für Ihr Dokument erstellen , aber nur eine aktiv sein kann .
 Podcasts werden in der Regel als Teil einer Serie , die auch als Podcast veröffentlicht .
 Wählen Sie im Dialogfeld " Zeileneigenschaften " den Wert im Textfeld " Zeilenhöhe " aus .
-Wenn Sie z . B. den Stift vertikal mit dem Tablett halten , wird die Neigung 90 ein .
+Wenn Sie z. B. den Stift vertikal mit dem Tablett halten , wird die Neigung 90 ein .
 Im Kopierquellenbedienfeld speichert die aufgenommenen Quellen , bis Sie das Dokument schließen .
 Wenn Sie das Dokument in Acrobat öffnen , wählen Sie " Erweitert " " Dokumentverarbeitung " > " Eingebetteten Index verwalten . "
 Doppelklicken Sie auf der NumericStepper-Komponente erneut , um die Skins öffnen .
@@ -15628,7 +15628,7 @@ Gibt die Richtung der Neigung des Bogens .
 Der Befehl GROSSBUCHSTABE , dass bedingte Ligaturen wiederherzustellen , um normalen Text .
 Wählen Sie im Ebenenbedienfeld die Navigation , wählen Sie eine Ebene aus .
 Um eine geschlossene Form zu zeichnen , halten Sie die Alt-Taste ( Windows ) bzw. die Wahltaste ( Mac OS ) gedrückt , während Sie ziehen .
-Kontrast der statischen parse ( ) -Methode mit einem der Instanz Methoden der Date-Klasse , wie z . B. getMonth ( ) .
+Kontrast der statischen parse ( ) -Methode mit einem der Instanz Methoden der Date-Klasse , wie z. B. getMonth ( ) .
 Wählen Sie in der Kommentarliste einen Kommentar .
 Wählen Sie die Dateien bzw. die Sammlung oder den Ordner , der die Bilder enthält , die Sie in der Webgalerie aufnehmen möchten .
 Transformiert die Pfadsegmente eines Objekts in eine gezackte oder gewellte Array gleichartig dem höchsten und niedrigsten Punkt .
@@ -15648,7 +15648,7 @@ SMS 2003 bietet eine bessere Steuerung und Flexibilität als frühere Versionen 
 Stattdessen sollten Sie gemeinsame Objekte verwenden .
 Öffnen Sie ein einzelnes PDF-Dokument .
 Außerdem ist es empfehlenswert , eine geeignete Kodierung aus der HTML Konvertierungseinstellungen auszuwählen .
-Klicken Sie dann auf " Speichern " ( Windows ) bzw . " Exportieren " ( Mac OS ) und geben Sie die folgenden Optionen :
+Klicken Sie dann auf " Speichern " ( Windows ) bzw. " Exportieren " ( Mac OS ) und geben Sie die folgenden Optionen :
 Um in den übergeordneten Ordner mit einem erweiterten Ordner verschieben , drücken Sie den Pfeil nach links .
 Andere unterstützte Formate sind DCS , PICT , WMF , EMF , PCX , PNG und Scitex CT ( .sct ) .
 Um die Volltonfarben wiederherzustellen , deaktivieren Sie die Option " Alle Blöcke " deaktivieren .
@@ -15824,7 +15824,7 @@ Sie können die Größe und Position der Anwendung steuern .
 Sobald Sie sich im Meetingraum befinden , können Sie die Teilnehmer einladen .
 Diese Funktion kann jedoch auch verwendet werden , um bösartige Daten in eine PDF-Datei hinzufügen .
 Wählen Sie eine Formel für die automatische Namensgebung in den Popup-Menüs Slices .
-AVC Profilnummer , wie z . B . 55 , 77 , 100 und so weiter .
+AVC Profilnummer , wie z. B. 55 , 77 , 100 und so weiter .
 Klicken Sie mit der rechten Maustaste auf den Text , und wählen Sie " Eigenschaften . "
 Ziehen Sie Miniaturen im Inhalts-Bedienfeld , um die Reihenfolge der Bilder in der Galerie .
 Führen Sie einen der folgenden Schritte in der Optionsleiste fest :
@@ -15913,7 +15913,7 @@ Wenn Sie mehrere nicht zusammenhängende Frames auszuwählen , klicken Sie bei g
 Ziehen Sie den Regler Helligkeit User Interface , um den Hintergrund von Adobe Bridge dunkler oder heller .
 Verborgene bedingter Text wird in der Regel im Dokument ignoriert .
 Klicken Sie auf die Schaltfläche " ActionScript 3.0-Einstellungen " und den Pfad ( n ) in der Liste der externen Bibliothekspfade hinzu .
-Sie können z . B. eine Ebene mit einer Copyrightanmerkung auszublenden , wenn Sie ein Dokument auf dem Bildschirm angezeigt wird , während Sie sicherstellen , dass die Ebene stets gedruckt wird .
+Sie können z. B. eine Ebene mit einer Copyrightanmerkung auszublenden , wenn Sie ein Dokument auf dem Bildschirm angezeigt wird , während Sie sicherstellen , dass die Ebene stets gedruckt wird .
 Gibt an , wie weit die Steuerpunkte platziert werden .
 Wenn der Shader ( und nicht über ihre Quellcode ) können Sie die Shader Daten zur Identifizierung der Eingaben und Parameter nicht dokumentiert sind .
 Im Falle von Blog-Verbindungen , werden alle Blogeinträge in den ausgewählten Blogserver aktiviert ist .
@@ -15953,7 +15953,7 @@ Befehle im Ordner " Command Panels " gespeichert haben , werden im Menü " Fenst
 Das resultierende Shape verwendet die Fläche und Kontur des vom vordersten Objekt im Stapel .
 Wählen Sie die Option " Benutzerdefiniert " im ersten Popupmenü .
 Sie können verschiedene Formen Bibliotheken laden , indem Sie auf das Dreieck klicken und aus der Liste aus .
-Wählen Sie " Bearbeiten " " Voreinstellungen " > " Hilfslinien und Montagefläche " ( Windows ) bzw . " InDesign " > " Voreinstellungen " > " Hilfslinien und Montagefläche " ( Mac OS ) .
+Wählen Sie " Bearbeiten " " Voreinstellungen " > " Hilfslinien und Montagefläche " ( Windows ) bzw. " InDesign " > " Voreinstellungen " > " Hilfslinien und Montagefläche " ( Mac OS ) .
 Sie müssen diese Option auswählen , um die Tiefe der Varianz Optionen zur Verfügung .
 Klicken Sie auf die Schaltfläche " Publishing Server aktivieren , um Ihre Website für CPS aktivieren .
 Indem Sie das Stammzertifikat vertrauen , vertrauen Sie alle die Zertifikate von der Zertifizierungsstelle .
@@ -16023,11 +16023,11 @@ Klicken Sie im Zielbild , wählen Sie " Bearbeiten " " Einfügen . "
 Doppelklicken Sie auf SeekBarProgress im Ordner FLVPlayback Skins / Suchen , und legen Sie die Farbe auf Gelb ( # FFFF00 ) .
 Wählen Sie ein Schlüsselbild in der Zeitleiste aus .
 Wenn Sie Metadatenvorlagen in Windows Explorer ( Windows ) oder dem Finder ( Mac OS ) anzuzeigen , führen Sie einen der folgenden Schritte aus :
-striktem Modus meldet Compilerwarnungen als Fehler , d. h . , die Kompilierung fehl , wenn diese Arten von Fehlern vorhanden sind .
+striktem Modus meldet Compilerwarnungen als Fehler , d. h. , die Kompilierung fehl , wenn diese Arten von Fehlern vorhanden sind .
 Wählen Sie " Weiß entspricht , um die weißen Teile des Kanals von der Oberfläche anzuheben .
 Wenn InDesign keine Übereinstimmung gefunden , wird das eingehende Element in der Strukturansicht auf den Anfangspunkt der Suche einfügt .
 Um eine horizontale Unterstreichung eingeben , klicken Sie auf die Schaltfläche " Unterstrichen " im Zeichenbedienfeld .
-Sie können z . B. dunkle Pixel aus der aktiven Ebene oder helle Pixel in den darunter liegenden Ebenen durchscheinen .
+Sie können z. B. dunkle Pixel aus der aktiven Ebene oder helle Pixel in den darunter liegenden Ebenen durchscheinen .
 Wählen Sie " Objekt " " Interaktiv nachzeichnen " > " Nachzeichneroptionen " aus .
 Die Dropdown-Liste rechts neben jeder Option ermöglicht die Steuerung von Variationen in der Form des Pinsels .
 Beim Drucken von Netzobjekten werden Volltonfarben für EPS- , PDF- und PostScript-Ausgaben beibehalten .
